@@ -88,9 +88,9 @@
 /******/ ([
 /* 0 */,
 /* 1 */
-/*!************************************************!*\
-  !*** C:/officeuse/githubdownload/game/main.js ***!
-  \************************************************/
+/*!*******************************************************!*\
+  !*** C:/officeuse/githubdownload/spritesgame/main.js ***!
+  \*******************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -109,20 +109,20 @@ module.exports = Vue;
 
 /***/ }),
 /* 3 */
-/*!************************************************!*\
-  !*** C:/officeuse/githubdownload/game/App.vue ***!
-  \************************************************/
+/*!*******************************************************!*\
+  !*** C:/officeuse/githubdownload/spritesgame/App.vue ***!
+  \*******************************************************/
 /*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _App_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./App.vue?vue&type=script&lang=js& */ 4);\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _App_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _App_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n/* harmony import */ var _D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/runtime/componentNormalizer.js */ 9);\nvar render, staticRenderFns, recyclableRender, components\nvar renderjs\n\n\nfunction injectStyles (context) {\n  \n  if(!this.options.style){\n          this.options.style = {}\n      }\n      if(Vue.prototype.__merge_style && Vue.prototype.__$appStyle__){\n        Vue.prototype.__merge_style(Vue.prototype.__$appStyle__, this.options.style)\n      }\n      if(Vue.prototype.__merge_style){\n                Vue.prototype.__merge_style(__webpack_require__(/*! ./App.vue?vue&type=style&index=0&lang=css& */ 7).default, this.options.style)\n            }else{\n                Object.assign(this.options.style,__webpack_require__(/*! ./App.vue?vue&type=style&index=0&lang=css& */ 7).default)\n            }\n\n}\n\n/* normalize component */\n\nvar component = Object(_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__[\"default\"])(\n  _App_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__[\"default\"],\n  render,\n  staticRenderFns,\n  false,\n  null,\n  null,\n  \"5467323e\",\n  false,\n  components,\n  renderjs\n)\n\ninjectStyles.call(component)\ncomponent.options.__file = \"App.vue\"\n/* harmony default export */ __webpack_exports__[\"default\"] = (component.exports);//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbbnVsbF0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFDQTtBQUN1RDtBQUNMO0FBQ2xEOztBQUVBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0EsNENBQTRDLG1CQUFPLENBQUMsbURBQTRDO0FBQ2hHLGFBQWE7QUFDYixpREFBaUQsbUJBQU8sQ0FBQyxtREFBNEM7QUFDckc7O0FBRUE7O0FBRUE7QUFDcUs7QUFDckssZ0JBQWdCLCtLQUFVO0FBQzFCLEVBQUUseUVBQU07QUFDUjtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTs7QUFFQTtBQUNBO0FBQ2UsZ0YiLCJmaWxlIjoiMy5qcyIsInNvdXJjZXNDb250ZW50IjpbInZhciByZW5kZXIsIHN0YXRpY1JlbmRlckZucywgcmVjeWNsYWJsZVJlbmRlciwgY29tcG9uZW50c1xudmFyIHJlbmRlcmpzXG5pbXBvcnQgc2NyaXB0IGZyb20gXCIuL0FwcC52dWU/dnVlJnR5cGU9c2NyaXB0Jmxhbmc9anMmXCJcbmV4cG9ydCAqIGZyb20gXCIuL0FwcC52dWU/dnVlJnR5cGU9c2NyaXB0Jmxhbmc9anMmXCJcbmZ1bmN0aW9uIGluamVjdFN0eWxlcyAoY29udGV4dCkge1xuICBcbiAgaWYoIXRoaXMub3B0aW9ucy5zdHlsZSl7XG4gICAgICAgICAgdGhpcy5vcHRpb25zLnN0eWxlID0ge31cbiAgICAgIH1cbiAgICAgIGlmKFZ1ZS5wcm90b3R5cGUuX19tZXJnZV9zdHlsZSAmJiBWdWUucHJvdG90eXBlLl9fJGFwcFN0eWxlX18pe1xuICAgICAgICBWdWUucHJvdG90eXBlLl9fbWVyZ2Vfc3R5bGUoVnVlLnByb3RvdHlwZS5fXyRhcHBTdHlsZV9fLCB0aGlzLm9wdGlvbnMuc3R5bGUpXG4gICAgICB9XG4gICAgICBpZihWdWUucHJvdG90eXBlLl9fbWVyZ2Vfc3R5bGUpe1xuICAgICAgICAgICAgICAgIFZ1ZS5wcm90b3R5cGUuX19tZXJnZV9zdHlsZShyZXF1aXJlKFwiLi9BcHAudnVlP3Z1ZSZ0eXBlPXN0eWxlJmluZGV4PTAmbGFuZz1jc3MmXCIpLmRlZmF1bHQsIHRoaXMub3B0aW9ucy5zdHlsZSlcbiAgICAgICAgICAgIH1lbHNle1xuICAgICAgICAgICAgICAgIE9iamVjdC5hc3NpZ24odGhpcy5vcHRpb25zLnN0eWxlLHJlcXVpcmUoXCIuL0FwcC52dWU/dnVlJnR5cGU9c3R5bGUmaW5kZXg9MCZsYW5nPWNzcyZcIikuZGVmYXVsdClcbiAgICAgICAgICAgIH1cblxufVxuXG4vKiBub3JtYWxpemUgY29tcG9uZW50ICovXG5pbXBvcnQgbm9ybWFsaXplciBmcm9tIFwiIUQ6XFxcXEhCdWlsZGVyWFxcXFxwbHVnaW5zXFxcXHVuaWFwcC1jbGlcXFxcbm9kZV9tb2R1bGVzXFxcXEBkY2xvdWRpb1xcXFx2dWUtY2xpLXBsdWdpbi11bmlcXFxccGFja2FnZXNcXFxcdnVlLWxvYWRlclxcXFxsaWJcXFxccnVudGltZVxcXFxjb21wb25lbnROb3JtYWxpemVyLmpzXCJcbnZhciBjb21wb25lbnQgPSBub3JtYWxpemVyKFxuICBzY3JpcHQsXG4gIHJlbmRlcixcbiAgc3RhdGljUmVuZGVyRm5zLFxuICBmYWxzZSxcbiAgbnVsbCxcbiAgbnVsbCxcbiAgXCI1NDY3MzIzZVwiLFxuICBmYWxzZSxcbiAgY29tcG9uZW50cyxcbiAgcmVuZGVyanNcbilcblxuaW5qZWN0U3R5bGVzLmNhbGwoY29tcG9uZW50KVxuY29tcG9uZW50Lm9wdGlvbnMuX19maWxlID0gXCJBcHAudnVlXCJcbmV4cG9ydCBkZWZhdWx0IGNvbXBvbmVudC5leHBvcnRzIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///3\n");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _App_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./App.vue?vue&type=script&lang=js& */ 4);\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _App_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _App_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n/* harmony import */ var _D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/runtime/componentNormalizer.js */ 9);\nvar render, staticRenderFns, recyclableRender, components\nvar renderjs\n\n\nfunction injectStyles (context) {\n  \n  if(!this.options.style){\n          this.options.style = {}\n      }\n      if(Vue.prototype.__merge_style && Vue.prototype.__$appStyle__){\n        Vue.prototype.__merge_style(Vue.prototype.__$appStyle__, this.options.style)\n      }\n      if(Vue.prototype.__merge_style){\n                Vue.prototype.__merge_style(__webpack_require__(/*! ./App.vue?vue&type=style&index=0&lang=css& */ 7).default, this.options.style)\n            }else{\n                Object.assign(this.options.style,__webpack_require__(/*! ./App.vue?vue&type=style&index=0&lang=css& */ 7).default)\n            }\n\n}\n\n/* normalize component */\n\nvar component = Object(_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__[\"default\"])(\n  _App_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__[\"default\"],\n  render,\n  staticRenderFns,\n  false,\n  null,\n  null,\n  \"b56d2aea\",\n  false,\n  components,\n  renderjs\n)\n\ninjectStyles.call(component)\ncomponent.options.__file = \"App.vue\"\n/* harmony default export */ __webpack_exports__[\"default\"] = (component.exports);//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbbnVsbF0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFDQTtBQUN1RDtBQUNMO0FBQ2xEOztBQUVBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0EsNENBQTRDLG1CQUFPLENBQUMsbURBQTRDO0FBQ2hHLGFBQWE7QUFDYixpREFBaUQsbUJBQU8sQ0FBQyxtREFBNEM7QUFDckc7O0FBRUE7O0FBRUE7QUFDcUs7QUFDckssZ0JBQWdCLCtLQUFVO0FBQzFCLEVBQUUseUVBQU07QUFDUjtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTs7QUFFQTtBQUNBO0FBQ2UsZ0YiLCJmaWxlIjoiMy5qcyIsInNvdXJjZXNDb250ZW50IjpbInZhciByZW5kZXIsIHN0YXRpY1JlbmRlckZucywgcmVjeWNsYWJsZVJlbmRlciwgY29tcG9uZW50c1xudmFyIHJlbmRlcmpzXG5pbXBvcnQgc2NyaXB0IGZyb20gXCIuL0FwcC52dWU/dnVlJnR5cGU9c2NyaXB0Jmxhbmc9anMmXCJcbmV4cG9ydCAqIGZyb20gXCIuL0FwcC52dWU/dnVlJnR5cGU9c2NyaXB0Jmxhbmc9anMmXCJcbmZ1bmN0aW9uIGluamVjdFN0eWxlcyAoY29udGV4dCkge1xuICBcbiAgaWYoIXRoaXMub3B0aW9ucy5zdHlsZSl7XG4gICAgICAgICAgdGhpcy5vcHRpb25zLnN0eWxlID0ge31cbiAgICAgIH1cbiAgICAgIGlmKFZ1ZS5wcm90b3R5cGUuX19tZXJnZV9zdHlsZSAmJiBWdWUucHJvdG90eXBlLl9fJGFwcFN0eWxlX18pe1xuICAgICAgICBWdWUucHJvdG90eXBlLl9fbWVyZ2Vfc3R5bGUoVnVlLnByb3RvdHlwZS5fXyRhcHBTdHlsZV9fLCB0aGlzLm9wdGlvbnMuc3R5bGUpXG4gICAgICB9XG4gICAgICBpZihWdWUucHJvdG90eXBlLl9fbWVyZ2Vfc3R5bGUpe1xuICAgICAgICAgICAgICAgIFZ1ZS5wcm90b3R5cGUuX19tZXJnZV9zdHlsZShyZXF1aXJlKFwiLi9BcHAudnVlP3Z1ZSZ0eXBlPXN0eWxlJmluZGV4PTAmbGFuZz1jc3MmXCIpLmRlZmF1bHQsIHRoaXMub3B0aW9ucy5zdHlsZSlcbiAgICAgICAgICAgIH1lbHNle1xuICAgICAgICAgICAgICAgIE9iamVjdC5hc3NpZ24odGhpcy5vcHRpb25zLnN0eWxlLHJlcXVpcmUoXCIuL0FwcC52dWU/dnVlJnR5cGU9c3R5bGUmaW5kZXg9MCZsYW5nPWNzcyZcIikuZGVmYXVsdClcbiAgICAgICAgICAgIH1cblxufVxuXG4vKiBub3JtYWxpemUgY29tcG9uZW50ICovXG5pbXBvcnQgbm9ybWFsaXplciBmcm9tIFwiIUQ6XFxcXEhCdWlsZGVyWFxcXFxwbHVnaW5zXFxcXHVuaWFwcC1jbGlcXFxcbm9kZV9tb2R1bGVzXFxcXEBkY2xvdWRpb1xcXFx2dWUtY2xpLXBsdWdpbi11bmlcXFxccGFja2FnZXNcXFxcdnVlLWxvYWRlclxcXFxsaWJcXFxccnVudGltZVxcXFxjb21wb25lbnROb3JtYWxpemVyLmpzXCJcbnZhciBjb21wb25lbnQgPSBub3JtYWxpemVyKFxuICBzY3JpcHQsXG4gIHJlbmRlcixcbiAgc3RhdGljUmVuZGVyRm5zLFxuICBmYWxzZSxcbiAgbnVsbCxcbiAgbnVsbCxcbiAgXCJiNTZkMmFlYVwiLFxuICBmYWxzZSxcbiAgY29tcG9uZW50cyxcbiAgcmVuZGVyanNcbilcblxuaW5qZWN0U3R5bGVzLmNhbGwoY29tcG9uZW50KVxuY29tcG9uZW50Lm9wdGlvbnMuX19maWxlID0gXCJBcHAudnVlXCJcbmV4cG9ydCBkZWZhdWx0IGNvbXBvbmVudC5leHBvcnRzIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///3\n");
 
 /***/ }),
 /* 4 */
-/*!*************************************************************************!*\
-  !*** C:/officeuse/githubdownload/game/App.vue?vue&type=script&lang=js& ***!
-  \*************************************************************************/
+/*!********************************************************************************!*\
+  !*** C:/officeuse/githubdownload/spritesgame/App.vue?vue&type=script&lang=js& ***!
+  \********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -131,9 +131,9 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _D_H
 
 /***/ }),
 /* 5 */
-/*!****************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--4-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!C:/officeuse/githubdownload/game/App.vue?vue&type=script&lang=js& ***!
-  \****************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--4-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!C:/officeuse/githubdownload/spritesgame/App.vue?vue&type=script&lang=js& ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -232,9 +232,9 @@ function formatLog() {
 
 /***/ }),
 /* 7 */
-/*!*********************************************************************************!*\
-  !*** C:/officeuse/githubdownload/game/App.vue?vue&type=style&index=0&lang=css& ***!
-  \*********************************************************************************/
+/*!****************************************************************************************!*\
+  !*** C:/officeuse/githubdownload/spritesgame/App.vue?vue&type=style&index=0&lang=css& ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -247,13 +247,506 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 /* 8 */
-/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@dcloudio/vue-cli-plugin-hbuilderx/packages/webpack-uni-nvue-loader/lib/style.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--8-oneOf-0-1!./node_modules/postcss-loader/src??ref--8-oneOf-0-2!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--8-oneOf-0-3!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!C:/officeuse/githubdownload/game/App.vue?vue&type=style&index=0&lang=css& ***!
-  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/@dcloudio/vue-cli-plugin-hbuilderx/packages/webpack-uni-nvue-loader/lib/style.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--8-oneOf-0-1!./node_modules/postcss-loader/src??ref--8-oneOf-0-2!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--8-oneOf-0-3!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!C:/officeuse/githubdownload/spritesgame/App.vue?vue&type=style&index=0&lang=css& ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-throw new Error("Module build failed (from ./node_modules/postcss-loader/src/index.js):\nError: Failed to find './common/hzl.css'\n  in [\n    C:\\officeuse\\githubdownload\\game\n  ]\n    at resolveModule.catch.catch (D:\\HBuilderX\\plugins\\uniapp-cli\\node_modules\\postcss-import\\lib\\resolve-id.js:35:13)\n    at <anonymous>");
+module.exports = {
+  "iconfont": {
+    "fontFamily": "iconfont"
+  },
+  "page": {
+    "flex": 1
+  },
+  "view": {
+    "fontSize": "28rpx",
+    "lineHeight": 1.8,
+    "color": "#0E151D"
+  },
+  "text": {
+    "fontSize": "28rpx",
+    "lineHeight": 1.8,
+    "color": "#0E151D"
+  },
+  "w-100": {
+    "width": "750rpx"
+  },
+  "flex": {
+    "flexDirection": "row"
+  },
+  "flex-row": {
+    "flexDirection": "row"
+  },
+  "flex-column": {
+    "flexDirection": "column"
+  },
+  "flex-row-reverse": {
+    "flexDirection": "row-reverse"
+  },
+  "flex-column-reverse": {
+    "flexDirection": "column-reverse"
+  },
+  "flex-wrap": {
+    "flexWrap": "wrap"
+  },
+  "flex-nowrap": {
+    "flexWrap": "nowrap"
+  },
+  "justify-start": {
+    "justifyContent": "flex-start"
+  },
+  "justify-end": {
+    "justifyContent": "flex-end"
+  },
+  "justify-between": {
+    "justifyContent": "space-between"
+  },
+  "justify-center": {
+    "justifyContent": "center"
+  },
+  "align-center": {
+    "alignItems": "center"
+  },
+  "align-stretch": {
+    "alignItems": "stretch"
+  },
+  "align-start": {
+    "alignItems": "flex-start"
+  },
+  "align-end": {
+    "alignItems": "flex-end"
+  },
+  "flex-1": {
+    "flex": 1
+  },
+  "flex-2": {
+    "flex": 2
+  },
+  "flex-3": {
+    "flex": 3
+  },
+  "flex-4": {
+    "flex": 4
+  },
+  "flex-5": {
+    "flex": 5
+  },
+  "m-0": {
+    "marginTop": 0,
+    "marginRight": 0,
+    "marginBottom": 0,
+    "marginLeft": 0
+  },
+  "m-1": {
+    "marginTop": "10rpx",
+    "marginRight": "10rpx",
+    "marginBottom": "10rpx",
+    "marginLeft": "10rpx"
+  },
+  "m-2": {
+    "marginTop": "20rpx",
+    "marginRight": "20rpx",
+    "marginBottom": "20rpx",
+    "marginLeft": "20rpx"
+  },
+  "m-3": {
+    "marginTop": "30rpx",
+    "marginRight": "30rpx",
+    "marginBottom": "30rpx",
+    "marginLeft": "30rpx"
+  },
+  "m-4": {
+    "marginTop": "40rpx",
+    "marginRight": "40rpx",
+    "marginBottom": "40rpx",
+    "marginLeft": "40rpx"
+  },
+  "m-5": {
+    "marginTop": "50rpx",
+    "marginRight": "50rpx",
+    "marginBottom": "50rpx",
+    "marginLeft": "50rpx"
+  },
+  "mt-0": {
+    "marginTop": 0
+  },
+  "mt-1": {
+    "marginTop": "10rpx"
+  },
+  "mt-2": {
+    "marginTop": "20rpx"
+  },
+  "mt-3": {
+    "marginTop": "30rpx"
+  },
+  "mt-4": {
+    "marginTop": "40rpx"
+  },
+  "mt-5": {
+    "marginTop": "50rpx"
+  },
+  "mb-0": {
+    "marginBottom": 0
+  },
+  "mb-1": {
+    "marginBottom": "10rpx"
+  },
+  "mb-2": {
+    "marginBottom": "20rpx"
+  },
+  "mb-3": {
+    "marginBottom": "30rpx"
+  },
+  "mb-4": {
+    "marginBottom": "40rpx"
+  },
+  "mb-5": {
+    "marginBottom": "50rpx"
+  },
+  "ml-0": {
+    "marginLeft": 0
+  },
+  "ml-1": {
+    "marginLeft": "10rpx"
+  },
+  "ml-2": {
+    "marginLeft": "20rpx"
+  },
+  "ml-3": {
+    "marginLeft": "30rpx"
+  },
+  "ml-4": {
+    "marginLeft": "40rpx"
+  },
+  "ml-5": {
+    "marginLeft": "50rpx"
+  },
+  "mr-0": {
+    "marginRight": 0
+  },
+  "mr-1": {
+    "marginRight": "10rpx"
+  },
+  "mr-2": {
+    "marginRight": "20rpx"
+  },
+  "mr-3": {
+    "marginRight": "30rpx"
+  },
+  "mr-4": {
+    "marginRight": "40rpx"
+  },
+  "mr-5": {
+    "marginRight": "50rpx"
+  },
+  "my-0": {
+    "marginTop": 0,
+    "marginBottom": 0
+  },
+  "my-1": {
+    "marginTop": "10rpx",
+    "marginBottom": "10rpx"
+  },
+  "my-2": {
+    "marginTop": "20rpx",
+    "marginBottom": "20rpx"
+  },
+  "my-3": {
+    "marginTop": "30rpx",
+    "marginBottom": "30rpx"
+  },
+  "my-4": {
+    "marginTop": "40rpx",
+    "marginBottom": "40rpx"
+  },
+  "my-5": {
+    "marginTop": "50rpx",
+    "marginBottom": "50rpx"
+  },
+  "mx-0": {
+    "marginLeft": 0,
+    "marginRight": 0
+  },
+  "mx-1": {
+    "marginLeft": "10rpx",
+    "marginRight": "10rpx"
+  },
+  "mx-2": {
+    "marginLeft": "20rpx",
+    "marginRight": "20rpx"
+  },
+  "mx-3": {
+    "marginLeft": "30rpx",
+    "marginRight": "30rpx"
+  },
+  "mx-4": {
+    "marginLeft": "40rpx",
+    "marginRight": "40rpx"
+  },
+  "mx-5": {
+    "marginLeft": "50rpx",
+    "marginRight": "50rpx"
+  },
+  "p-0": {
+    "paddingTop": 0,
+    "paddingRight": 0,
+    "paddingBottom": 0,
+    "paddingLeft": 0
+  },
+  "p": {
+    "paddingTop": "5rpx",
+    "paddingRight": "5rpx",
+    "paddingBottom": "5rpx",
+    "paddingLeft": "5rpx"
+  },
+  "p-1": {
+    "paddingTop": "10rpx",
+    "paddingRight": "10rpx",
+    "paddingBottom": "10rpx",
+    "paddingLeft": "10rpx"
+  },
+  "p-2": {
+    "paddingTop": "20rpx",
+    "paddingRight": "20rpx",
+    "paddingBottom": "20rpx",
+    "paddingLeft": "20rpx"
+  },
+  "p-3": {
+    "paddingTop": "30rpx",
+    "paddingRight": "30rpx",
+    "paddingBottom": "30rpx",
+    "paddingLeft": "30rpx"
+  },
+  "p-4": {
+    "paddingTop": "40rpx",
+    "paddingRight": "40rpx",
+    "paddingBottom": "40rpx",
+    "paddingLeft": "40rpx"
+  },
+  "p-5": {
+    "paddingTop": "50rpx",
+    "paddingRight": "50rpx",
+    "paddingBottom": "50rpx",
+    "paddingLeft": "50rpx"
+  },
+  "pt-0": {
+    "paddingTop": 0
+  },
+  "pt": {
+    "paddingTop": "5rpx"
+  },
+  "pt-1": {
+    "paddingTop": "10rpx"
+  },
+  "pt-2": {
+    "paddingTop": "20rpx"
+  },
+  "pt-3": {
+    "paddingTop": "30rpx"
+  },
+  "pt-4": {
+    "paddingTop": "40rpx"
+  },
+  "pt-5": {
+    "paddingTop": "50rpx"
+  },
+  "pb-0": {
+    "paddingBottom": 0
+  },
+  "pb-1": {
+    "paddingBottom": "10rpx"
+  },
+  "pb": {
+    "paddingBottom": "5rpx"
+  },
+  "pb-2": {
+    "paddingBottom": "20rpx"
+  },
+  "pb-3": {
+    "paddingBottom": "30rpx"
+  },
+  "pb-4": {
+    "paddingBottom": "40rpx"
+  },
+  "pb-5": {
+    "paddingBottom": "50rpx"
+  },
+  "pl-0": {
+    "paddingLeft": 0
+  },
+  "pl": {
+    "paddingLeft": "5rpx"
+  },
+  "pl-1": {
+    "paddingLeft": "10rpx"
+  },
+  "pl-2": {
+    "paddingLeft": "20rpx"
+  },
+  "pl-3": {
+    "paddingLeft": "30rpx"
+  },
+  "pl-4": {
+    "paddingLeft": "40rpx"
+  },
+  "pl-5": {
+    "paddingLeft": "50rpx"
+  },
+  "pr-0": {
+    "paddingRight": 0
+  },
+  "pr": {
+    "paddingRight": "5rpx"
+  },
+  "pr-1": {
+    "paddingRight": "10rpx"
+  },
+  "pr-2": {
+    "paddingRight": "20rpx"
+  },
+  "pr-3": {
+    "paddingRight": "30rpx"
+  },
+  "pr-4": {
+    "paddingRight": "40rpx"
+  },
+  "pr-5": {
+    "paddingRight": "50rpx"
+  },
+  "py-0": {
+    "paddingTop": 0,
+    "paddingBottom": 0
+  },
+  "py": {
+    "paddingTop": "5rpx",
+    "paddingBottom": "5rpx"
+  },
+  "py-1": {
+    "paddingTop": "10rpx",
+    "paddingBottom": "10rpx"
+  },
+  "py-2": {
+    "paddingTop": "20rpx",
+    "paddingBottom": "20rpx"
+  },
+  "py-3": {
+    "paddingTop": "30rpx",
+    "paddingBottom": "30rpx"
+  },
+  "py-4": {
+    "paddingTop": "40rpx",
+    "paddingBottom": "40rpx"
+  },
+  "py-5": {
+    "paddingTop": "50rpx",
+    "paddingBottom": "50rpx"
+  },
+  "px-0": {
+    "paddingLeft": 0,
+    "paddingRight": 0
+  },
+  "px-1": {
+    "paddingLeft": "10rpx",
+    "paddingRight": "10rpx"
+  },
+  "px": {
+    "paddingLeft": "5rpx",
+    "paddingRight": "5rpx"
+  },
+  "px-2": {
+    "paddingLeft": "20rpx",
+    "paddingRight": "20rpx"
+  },
+  "px-3": {
+    "paddingLeft": "30rpx",
+    "paddingRight": "30rpx"
+  },
+  "px-4": {
+    "paddingLeft": "40rpx",
+    "paddingRight": "40rpx"
+  },
+  "px-5": {
+    "paddingLeft": "50rpx",
+    "paddingRight": "50rpx"
+  },
+  "font-small": {
+    "fontSize": "20rpx"
+  },
+  "font-sm": {
+    "fontSize": "25rpx"
+  },
+  "font": {
+    "fontSize": "30rpx"
+  },
+  "font-md": {
+    "fontSize": "35rpx"
+  },
+  "font-lg": {
+    "fontSize": "40rpx"
+  },
+  "border": {
+    "borderWidth": "1rpx",
+    "borderStyle": "solid",
+    "borderColor": "#dee2e6"
+  },
+  "border-top": {
+    "borderTopWidth": "1rpx",
+    "borderTopStyle": "solid",
+    "borderTopColor": "#dee2e6"
+  },
+  "border-right": {
+    "borderRightWidth": "1rpx",
+    "borderRightStyle": "solid",
+    "borderRightColor": "#dee2e6"
+  },
+  "border-bottom": {
+    "borderBottomWidth": "1rpx",
+    "borderBottomStyle": "solid",
+    "borderBottomColor": "#dee2e6"
+  },
+  "border-left": {
+    "borderLeftWidth": "1rpx",
+    "borderLeftStyle": "solid",
+    "borderLeftColor": "#dee2e6"
+  },
+  "position-relative": {
+    "position": "relative"
+  },
+  "position-absolute": {
+    "position": "absolute"
+  },
+  "position-fixed": {
+    "position": "fixed"
+  },
+  "fixed-top": {
+    "position": "fixed",
+    "top": 0,
+    "right": 0,
+    "left": 0,
+    "zIndex": 1030
+  },
+  "fixed-bottom": {
+    "position": "fixed",
+    "right": 0,
+    "bottom": 0,
+    "left": 0,
+    "zIndex": 1030
+  },
+  "top-0": {
+    "top": 0
+  },
+  "left-0": {
+    "left": 0
+  },
+  "right-0": {
+    "right": 0
+  },
+  "bottom-0": {
+    "bottom": 0
+  }
+}
 
 /***/ }),
 /* 9 */
