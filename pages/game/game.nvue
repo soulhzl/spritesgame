@@ -1,0 +1,36 @@
+<template>
+	<view class="page flex align-center justify-center">
+		<image :src="spriteimg" style="width: 200rpx;height: 200rpx;"></image>
+	</view>
+</template>
+
+<script>
+	export default {
+		components: {
+
+		},
+		data() {
+			return {
+				sprite: {
+					name: "Pikachu",
+					nick: "Sparky",
+					sex: "female",
+					lvl: 24
+				}
+			}
+		},
+		methods: {
+
+		},
+		computed: {
+			spriteimg() {
+				let lower = this.sprite.name.toLowerCase();
+				return `https://img.pokemondb.net/sprites/black-white/anim/normal/${lower}.gif`;
+			}
+		}
+	}
+</script>
+
+<style>
+
+</style>

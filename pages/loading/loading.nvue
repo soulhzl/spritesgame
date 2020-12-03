@@ -1,0 +1,59 @@
+<template>
+	<view class="page">
+		<view class="flex page align-center justify-center" style="background-color: #DB4D6D;">
+			<view>
+				<text class="monsterText" style="color: white;font-size: 50rpx;">Hello</text>
+				<text style="color: white;font-size: 50rpx;">Welcome</text>
+				<text class="opText" style="color: #dedede;">play</text>
+			</view>
+			<monster ref='monstertwo' :width="150" :height="150" class="m-3" animationStyle='transform: scale(0,0);' canClick></monster>
+			<monster ref='monsterthree' :width="150" :height="150" animationStyle='transform: scale(0,0);' backgroundColor='background-color: #0C4475;' eyeballColor='background-color: #E55A54;' mouthColor='background-color: #E55A54;' canClick></monster>
+		</view>
+	</view>
+</template>
+
+<script>
+	import monster from '@/components/monster.vue'
+	const animation = weex.requireModule('animation')
+	export default {
+		components: {
+			monster
+		},
+		data() {
+			return {
+				
+			}
+		},
+		methods: {
+			
+		},
+		mounted() {
+			let that = this
+				animation.transition(that.$refs.monstertwo, {
+					styles: {
+						transform: 'scale(1,1)'
+					},
+					duration: 3000, //ms
+					timingFunction: 'ease',
+				}, function() {
+				})
+			setTimeout(() => {
+				animation.transition(that.$refs.monsterthree, {
+					styles: {
+						transform: 'scale(1,1)'
+					},
+					duration: 3000, //ms
+					timingFunction: 'ease',
+				}, function() {
+					uni.navigateTo({
+						url: '/pages/game/game'
+					})
+				})
+			}, 1000)
+		}
+	}
+</script>
+
+<style>
+
+</style>
