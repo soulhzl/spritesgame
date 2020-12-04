@@ -1,6 +1,7 @@
 <template>
-	<view>
-		
+	<view class="page flex flex-column justify-around" style="background-color: white;">
+		<image src="/static/title.jpg" mode="widthFix"></image>
+		<image src="/static/bottom.jpg" mode="widthFix"></image>
 	</view>
 </template>
 
@@ -11,12 +12,19 @@
 				
 			}
 		},
+		mounted() {
+				setTimeout(() => {
+					uni.navigateTo({
+						url: '/pages/game/game'
+					})
+				}, 1000)
+		},
 		methods: {
 			
 		}
 	}
 </script>
 
-<style>
+<style scoped>
 
 </style>
