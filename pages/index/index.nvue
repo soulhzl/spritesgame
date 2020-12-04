@@ -1,59 +1,22 @@
 <template>
-	<view class="page">
-		<view class="flex align-center justify-center page flex-column" style="background-color: #0C4475;">
-			<monster ref='monsterone' :width="250" :height="250"></monster>
-			<loading-bar></loading-bar>
-		</view>
+	<view>
+		
 	</view>
 </template>
 
 <script>
-	import monster from '@/components/monster.vue'
-	import loadingBar from '@/components/loading-bar.vue'
-	const animation = weex.requireModule('animation')
 	export default {
-		components: {
-			monster,
-			loadingBar
-		},
 		data() {
 			return {
+				
 			}
 		},
-		onLoad() {
-
-		},
-		mounted() {
-			let that = this
-			animation.transition(this.$refs.monsterone, {
-				styles: {
-					transform: 'translateY(-50rpx)'
-				},
-				duration: 2000, //ms
-				timingFunction: 'ease',
-			}, function() {}) 
-			setTimeout(() => {
-				animation.transition(this.$refs.monsterone, {
-					styles: {
-						transform: 'translateY(0rpx)'
-					},
-					duration: 2000, //ms
-					timingFunction: 'ease',
-				}, function() {
-					setTimeout(() => {
-						uni.navigateTo({
-							url: '/pages/loading/loading'
-						})
-					}, 500)
-				})
-			}, 2000)
-		},
 		methods: {
-
+			
 		}
 	}
 </script>
 
-<style scoped>
+<style>
 
 </style>

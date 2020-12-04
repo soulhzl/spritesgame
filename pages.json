@@ -6,11 +6,17 @@
 		}, {
 			"path": "pages/game/game",
 			"style": {}
-		}, {
-			"path": "pages/loading/loading",
-			"style": {}
 		}
-	],
+	    ,{
+            "path" : "pages/index/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
