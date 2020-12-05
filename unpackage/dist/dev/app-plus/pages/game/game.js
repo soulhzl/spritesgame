@@ -225,9 +225,9 @@ function normalizeComponent (
 /***/ }),
 /* 10 */,
 /* 11 */
-/*!*********************************************************************!*\
-  !*** D:/web/githubdownload/spritesgame/main.js?{"type":"appStyle"} ***!
-  \*********************************************************************/
+/*!***************************************************************************!*\
+  !*** C:/officeuse/githubdownload/spritesgame/main.js?{"type":"appStyle"} ***!
+  \***************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -235,33 +235,33 @@ eval("Vue.prototype.__$appStyle__ = {}\nVue.prototype.__merge_style && Vue.proto
 
 /***/ }),
 /* 12 */
-/*!*********************************************************************************!*\
-  !*** D:/web/githubdownload/spritesgame/App.vue?vue&type=style&index=0&lang=css ***!
-  \*********************************************************************************/
+/*!***************************************************************************************!*\
+  !*** C:/officeuse/githubdownload/spritesgame/App.vue?vue&type=style&index=0&lang=css ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_style_js_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_1_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_8_oneOf_0_2_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_3_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_style_index_0_lang_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/vue-cli-plugin-hbuilderx/packages/webpack-uni-nvue-loader/lib/style.js!../../HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--8-oneOf-0-1!../../HBuilderX/plugins/uniapp-cli/node_modules/postcss-loader/src??ref--8-oneOf-0-2!../../HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--8-oneOf-0-3!../../HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./App.vue?vue&type=style&index=0&lang=css */ 13);
-/* harmony import */ var _HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_style_js_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_1_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_8_oneOf_0_2_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_3_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_style_index_0_lang_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_style_js_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_1_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_8_oneOf_0_2_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_3_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_style_index_0_lang_css__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_style_js_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_1_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_8_oneOf_0_2_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_3_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_style_index_0_lang_css__WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_style_js_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_1_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_8_oneOf_0_2_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_3_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_style_index_0_lang_css__WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
- /* harmony default export */ __webpack_exports__["default"] = (_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_style_js_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_1_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_8_oneOf_0_2_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_3_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_style_index_0_lang_css__WEBPACK_IMPORTED_MODULE_0___default.a); 
+/* harmony import */ var _D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_style_js_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_1_D_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_8_oneOf_0_2_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_3_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_style_index_0_lang_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!./node_modules/@dcloudio/vue-cli-plugin-hbuilderx/packages/webpack-uni-nvue-loader/lib/style.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--8-oneOf-0-1!./node_modules/postcss-loader/src??ref--8-oneOf-0-2!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--8-oneOf-0-3!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./App.vue?vue&type=style&index=0&lang=css */ 13);
+/* harmony import */ var _D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_style_js_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_1_D_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_8_oneOf_0_2_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_3_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_style_index_0_lang_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_style_js_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_1_D_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_8_oneOf_0_2_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_3_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_style_index_0_lang_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_style_js_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_1_D_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_8_oneOf_0_2_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_3_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_style_index_0_lang_css__WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_style_js_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_1_D_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_8_oneOf_0_2_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_3_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_style_index_0_lang_css__WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+ /* harmony default export */ __webpack_exports__["default"] = (_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_style_js_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_1_D_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_8_oneOf_0_2_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_8_oneOf_0_3_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_App_vue_vue_type_style_index_0_lang_css__WEBPACK_IMPORTED_MODULE_0___default.a); 
 
 /***/ }),
 /* 13 */
-/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@dcloudio/vue-cli-plugin-hbuilderx/packages/webpack-uni-nvue-loader/lib/style.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--8-oneOf-0-1!./node_modules/postcss-loader/src??ref--8-oneOf-0-2!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--8-oneOf-0-3!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!D:/web/githubdownload/spritesgame/App.vue?vue&type=style&index=0&lang=css ***!
-  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/@dcloudio/vue-cli-plugin-hbuilderx/packages/webpack-uni-nvue-loader/lib/style.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--8-oneOf-0-1!./node_modules/postcss-loader/src??ref--8-oneOf-0-2!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--8-oneOf-0-3!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!C:/officeuse/githubdownload/spritesgame/App.vue?vue&type=style&index=0&lang=css ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
 module.exports = {
-  "iconfont": {
-    "fontFamily": "iconfont"
-  },
   "page": {
     "flex": 1
+  },
+  "iconfont": {
+    "fontFamily": "iconfont"
   },
   "view": {
     "fontSize": "28rpx",
@@ -275,6 +275,123 @@ module.exports = {
   },
   "w-100": {
     "width": "750rpx"
+  },
+  "row": {
+    "marginRight": "-20rpx",
+    "marginLeft": "-20rpx",
+    "flexWrap": "wrap",
+    "flexDirection": "row"
+  },
+  "col-1": {
+    "position": "relative",
+    "paddingRight": "20rpx",
+    "paddingLeft": "20rpx",
+    "width": "62.5rpx"
+  },
+  "col-2": {
+    "position": "relative",
+    "paddingRight": "20rpx",
+    "paddingLeft": "20rpx",
+    "width": "125rpx"
+  },
+  "col-3": {
+    "position": "relative",
+    "paddingRight": "20rpx",
+    "paddingLeft": "20rpx",
+    "width": "187.5rpx"
+  },
+  "col-4": {
+    "position": "relative",
+    "paddingRight": "20rpx",
+    "paddingLeft": "20rpx",
+    "width": "250rpx"
+  },
+  "col-5": {
+    "position": "relative",
+    "paddingRight": "20rpx",
+    "paddingLeft": "20rpx",
+    "width": "312.5rpx"
+  },
+  "col-6": {
+    "position": "relative",
+    "paddingRight": "20rpx",
+    "paddingLeft": "20rpx",
+    "width": "375rpx"
+  },
+  "col-7": {
+    "position": "relative",
+    "paddingRight": "20rpx",
+    "paddingLeft": "20rpx",
+    "width": "437.5rpx"
+  },
+  "col-8": {
+    "position": "relative",
+    "paddingRight": "20rpx",
+    "paddingLeft": "20rpx",
+    "width": "500rpx"
+  },
+  "col-9": {
+    "position": "relative",
+    "paddingRight": "20rpx",
+    "paddingLeft": "20rpx",
+    "width": "562.5rpx"
+  },
+  "col-10": {
+    "position": "relative",
+    "paddingRight": "20rpx",
+    "paddingLeft": "20rpx",
+    "width": "625rpx"
+  },
+  "col-11": {
+    "position": "relative",
+    "paddingRight": "20rpx",
+    "paddingLeft": "20rpx",
+    "width": "687.5rpx"
+  },
+  "col-12": {
+    "position": "relative",
+    "paddingRight": "20rpx",
+    "paddingLeft": "20rpx",
+    "width": "750rpx"
+  },
+  "col-offset-12": {
+    "marginLeft": "750rpx"
+  },
+  "col-offset-11": {
+    "marginLeft": "687.5rpx"
+  },
+  "col-offset-10": {
+    "marginLeft": "625rpx"
+  },
+  "col-offset-9": {
+    "marginLeft": "562.5rpx"
+  },
+  "col-offset-8": {
+    "marginLeft": "500rpx"
+  },
+  "col-offset-7": {
+    "marginLeft": "437.5rpx"
+  },
+  "col-offset-6": {
+    "marginLeft": "375rpx"
+  },
+  "col-offset-5": {
+    "marginLeft": "312.5rpx"
+  },
+  "col-offset-4": {
+    "marginLeft": "250rpx"
+  },
+  "col-offset-3": {
+    "marginLeft": "187.5rpx"
+  },
+  "col-offset-2": {
+    "marginLeft": "125rpx"
+  },
+  "col-offset-1": {
+    "marginLeft": "62.5rpx"
+  },
+  "col-offset-0": {
+    "marginLeft": 0
   },
   "flex": {
     "flexDirection": "row"
@@ -306,9 +423,6 @@ module.exports = {
   "justify-between": {
     "justifyContent": "space-between"
   },
-  "justify-around": {
-    "justifyContent": "space-around"
-  },
   "justify-center": {
     "justifyContent": "center"
   },
@@ -338,6 +452,10 @@ module.exports = {
   },
   "flex-5": {
     "flex": 5
+  },
+  "container": {
+    "paddingRight": "20rpx",
+    "paddingLeft": "20rpx"
   },
   "m-0": {
     "marginTop": 0,
@@ -692,6 +810,183 @@ module.exports = {
   "font-lg": {
     "fontSize": "40rpx"
   },
+  "h1": {
+    "fontSize": "80rpx",
+    "lineHeight": 1.8
+  },
+  "h2": {
+    "fontSize": "60rpx",
+    "lineHeight": 1.8
+  },
+  "h3": {
+    "fontSize": "45rpx",
+    "lineHeight": 1.8
+  },
+  "h4": {
+    "fontSize": "32rpx",
+    "lineHeight": 1.8
+  },
+  "h5": {
+    "fontSize": "30rpx",
+    "lineHeight": 1.8
+  },
+  "h6": {
+    "fontSize": "28rpx",
+    "lineHeight": 1.8
+  },
+  "text-through": {
+    "textDecoration": "line-through"
+  },
+  "text-left": {
+    "textAlign": "left"
+  },
+  "text-right": {
+    "textAlign": "right"
+  },
+  "text-center": {
+    "textAlign": "center"
+  },
+  "text-ellipsis": {
+    "lines": 1
+  },
+  "font-weight-light": {
+    "fontWeight": "300"
+  },
+  "font-weight-lighter": {
+    "fontWeight": "100"
+  },
+  "font-weight-normal": {
+    "fontWeight": "400"
+  },
+  "font-weight-bold": {
+    "fontWeight": "700"
+  },
+  "font-weight-bolder": {
+    "fontWeight": "bold"
+  },
+  "font-italic": {
+    "fontStyle": "italic"
+  },
+  "text-white": {
+    "color": "#ffffff"
+  },
+  "text-primary": {
+    "color": "#007bff"
+  },
+  "text-hover-primary": {
+    "color": "#0056b3"
+  },
+  "text-secondary": {
+    "color": "#6c757d"
+  },
+  "text-hover-secondary": {
+    "color": "#494f54"
+  },
+  "text-success": {
+    "color": "#28a745"
+  },
+  "text-hover-success": {
+    "color": "#19692c"
+  },
+  "text-info": {
+    "color": "#17a2b8"
+  },
+  "text-hover-info": {
+    "color": "#0f6674"
+  },
+  "text-warning": {
+    "color": "#ffc107"
+  },
+  "text-hover-warning": {
+    "color": "#ba8b00"
+  },
+  "text-danger": {
+    "color": "#dc3545"
+  },
+  "text-hover-danger": {
+    "color": "#a71d2a"
+  },
+  "text-light": {
+    "color": "#f8f9fa"
+  },
+  "text-hover-light": {
+    "color": "#cbd3da"
+  },
+  "text-dark": {
+    "color": "#343a40"
+  },
+  "text-hover-dark": {
+    "color": "#121416"
+  },
+  "text-body": {
+    "color": "#212529"
+  },
+  "text-muted": {
+    "color": "#6c757d"
+  },
+  "text-light-muted": {
+    "color": "#A9A5A0"
+  },
+  "text-light-black": {
+    "color": "rgba(0,0,0,0.5)"
+  },
+  "text-light-white": {
+    "color": "rgba(255,255,255,0.5)"
+  },
+  "bg-primary": {
+    "backgroundColor": "#007bff"
+  },
+  "bg-hover-primary": {
+    "backgroundColor:hover": "#0062cc"
+  },
+  "bg-secondary": {
+    "backgroundColor": "#6c757d"
+  },
+  "bg-hover-secondary": {
+    "backgroundColor:hover": "#545b62"
+  },
+  "bg-success": {
+    "backgroundColor": "#28a745"
+  },
+  "bg-hover-success": {
+    "backgroundColor": "#1e7e34"
+  },
+  "bg-info": {
+    "backgroundColor": "#17a2b8"
+  },
+  "bg-hover-info": {
+    "backgroundColor": "#117a8b"
+  },
+  "bg-warning": {
+    "backgroundColor": "#ffc107"
+  },
+  "bg-hover-warning": {
+    "backgroundColor": "#d39e00"
+  },
+  "bg-danger": {
+    "backgroundColor": "#dc3545"
+  },
+  "bg-hover-danger": {
+    "backgroundColor": "#bd2130"
+  },
+  "bg-light": {
+    "backgroundColor": "#f8f9fa"
+  },
+  "bg-hover-light": {
+    "backgroundColor": "#dae0e5"
+  },
+  "bg-dark": {
+    "backgroundColor": "#343a40"
+  },
+  "bg-hover-dark": {
+    "backgroundColor": "#1d2124"
+  },
+  "bg-white": {
+    "backgroundColor": "#ffffff"
+  },
+  "bg-transparent": {
+    "backgroundColor": "rgba(0,0,0,0)"
+  },
   "border": {
     "borderWidth": "1rpx",
     "borderStyle": "solid",
@@ -716,6 +1011,79 @@ module.exports = {
     "borderLeftWidth": "1rpx",
     "borderLeftStyle": "solid",
     "borderLeftColor": "#dee2e6"
+  },
+  "border-0": {
+    "borderWidth": 0
+  },
+  "border-top-0": {
+    "borderTopWidth": 0
+  },
+  "border-right-0": {
+    "borderRightWidth": 0
+  },
+  "border-bottom-0": {
+    "borderBottomWidth": 0
+  },
+  "border-left-0": {
+    "borderLeftWidth": 0
+  },
+  "border-primary": {
+    "borderColor": "#007bff"
+  },
+  "border-secondary": {
+    "borderColor": "#6c757d"
+  },
+  "border-light-secondary": {
+    "borderColor": "#E9E8E5"
+  },
+  "border-success": {
+    "borderColor": "#28a745"
+  },
+  "border-info": {
+    "borderColor": "#17a2b8"
+  },
+  "border-warning": {
+    "borderColor": "#ffc107"
+  },
+  "border-danger": {
+    "borderColor": "#dc3545"
+  },
+  "border-light": {
+    "borderColor": "#f8f9fa"
+  },
+  "border-dark": {
+    "borderColor": "#343a40"
+  },
+  "border-white": {
+    "borderColor": "#FFFFFF"
+  },
+  "rounded": {
+    "borderRadius": "8rpx"
+  },
+  "rounded-top": {
+    "borderTopLeftRadius": "8rpx",
+    "borderTopRightRadius": "8rpx"
+  },
+  "rounded-right": {
+    "borderTopRightRadius": "8rpx",
+    "borderBottomRightRadius": "8rpx"
+  },
+  "rounded-bottom": {
+    "borderBottomRightRadius": "8rpx",
+    "borderBottomLeftRadius": "8rpx"
+  },
+  "rounded-left": {
+    "borderTopLeftRadius": "8rpx",
+    "borderBottomLeftRadius": "8rpx"
+  },
+  "rounded-circle": {
+    "borderRadius": "100rpx"
+  },
+  "rounded-0": {
+    "borderRadius": 0
+  },
+  "overflow-hidden": {
+    "overflow": "hidden"
   },
   "position-relative": {
     "position": "relative"
@@ -761,9 +1129,9 @@ module.exports = {
 /* 17 */,
 /* 18 */,
 /* 19 */
-/*!********************************************************************************!*\
-  !*** D:/web/githubdownload/spritesgame/main.js?{"page":"pages%2Fgame%2Fgame"} ***!
-  \********************************************************************************/
+/*!**************************************************************************************!*\
+  !*** C:/officeuse/githubdownload/spritesgame/main.js?{"page":"pages%2Fgame%2Fgame"} ***!
+  \**************************************************************************************/
 /*! no exports provided */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -772,41 +1140,41 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var uni_
 
 /***/ }),
 /* 20 */
-/*!**************************************************************************!*\
-  !*** D:/web/githubdownload/spritesgame/pages/game/game.nvue?mpType=page ***!
-  \**************************************************************************/
+/*!********************************************************************************!*\
+  !*** C:/officeuse/githubdownload/spritesgame/pages/game/game.nvue?mpType=page ***!
+  \********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _game_nvue_vue_type_template_id_72c0d8e8_mpType_page__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./game.nvue?vue&type=template&id=72c0d8e8&mpType=page */ 21);\n/* harmony import */ var _game_nvue_vue_type_script_lang_js_mpType_page__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./game.nvue?vue&type=script&lang=js&mpType=page */ 23);\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _game_nvue_vue_type_script_lang_js_mpType_page__WEBPACK_IMPORTED_MODULE_1__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _game_nvue_vue_type_script_lang_js_mpType_page__WEBPACK_IMPORTED_MODULE_1__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n/* harmony import */ var _HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/runtime/componentNormalizer.js */ 9);\n\nvar renderjs\n\n\nfunction injectStyles (context) {\n  \n  if(!this.options.style){\n          this.options.style = {}\n      }\n      if(Vue.prototype.__merge_style && Vue.prototype.__$appStyle__){\n        Vue.prototype.__merge_style(Vue.prototype.__$appStyle__, this.options.style)\n      }\n      \n}\n\n/* normalize component */\n\nvar component = Object(_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__[\"default\"])(\n  _game_nvue_vue_type_script_lang_js_mpType_page__WEBPACK_IMPORTED_MODULE_1__[\"default\"],\n  _game_nvue_vue_type_template_id_72c0d8e8_mpType_page__WEBPACK_IMPORTED_MODULE_0__[\"render\"],\n  _game_nvue_vue_type_template_id_72c0d8e8_mpType_page__WEBPACK_IMPORTED_MODULE_0__[\"staticRenderFns\"],\n  false,\n  null,\n  null,\n  \"eb3ce760\",\n  false,\n  _game_nvue_vue_type_template_id_72c0d8e8_mpType_page__WEBPACK_IMPORTED_MODULE_0__[\"components\"],\n  renderjs\n)\n\ninjectStyles.call(component)\ncomponent.options.__file = \"pages/game/game.nvue\"\n/* harmony default export */ __webpack_exports__[\"default\"] = (component.exports);//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbbnVsbF0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBNkg7QUFDN0g7QUFDb0U7QUFDTDtBQUMvRDs7QUFFQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7O0FBRUE7O0FBRUE7QUFDbUs7QUFDbkssZ0JBQWdCLDZLQUFVO0FBQzFCLEVBQUUsc0ZBQU07QUFDUixFQUFFLDJGQUFNO0FBQ1IsRUFBRSxvR0FBZTtBQUNqQjtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0EsRUFBRSwrRkFBVTtBQUNaO0FBQ0E7O0FBRUE7QUFDQTtBQUNlLGdGIiwiZmlsZSI6IjIwLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgcmVuZGVyLCBzdGF0aWNSZW5kZXJGbnMsIHJlY3ljbGFibGVSZW5kZXIsIGNvbXBvbmVudHMgfSBmcm9tIFwiLi9nYW1lLm52dWU/dnVlJnR5cGU9dGVtcGxhdGUmaWQ9NzJjMGQ4ZTgmbXBUeXBlPXBhZ2VcIlxudmFyIHJlbmRlcmpzXG5pbXBvcnQgc2NyaXB0IGZyb20gXCIuL2dhbWUubnZ1ZT92dWUmdHlwZT1zY3JpcHQmbGFuZz1qcyZtcFR5cGU9cGFnZVwiXG5leHBvcnQgKiBmcm9tIFwiLi9nYW1lLm52dWU/dnVlJnR5cGU9c2NyaXB0Jmxhbmc9anMmbXBUeXBlPXBhZ2VcIlxuZnVuY3Rpb24gaW5qZWN0U3R5bGVzIChjb250ZXh0KSB7XG4gIFxuICBpZighdGhpcy5vcHRpb25zLnN0eWxlKXtcbiAgICAgICAgICB0aGlzLm9wdGlvbnMuc3R5bGUgPSB7fVxuICAgICAgfVxuICAgICAgaWYoVnVlLnByb3RvdHlwZS5fX21lcmdlX3N0eWxlICYmIFZ1ZS5wcm90b3R5cGUuX18kYXBwU3R5bGVfXyl7XG4gICAgICAgIFZ1ZS5wcm90b3R5cGUuX19tZXJnZV9zdHlsZShWdWUucHJvdG90eXBlLl9fJGFwcFN0eWxlX18sIHRoaXMub3B0aW9ucy5zdHlsZSlcbiAgICAgIH1cbiAgICAgIFxufVxuXG4vKiBub3JtYWxpemUgY29tcG9uZW50ICovXG5pbXBvcnQgbm9ybWFsaXplciBmcm9tIFwiIS4uLy4uLy4uLy4uL0hCdWlsZGVyWC9wbHVnaW5zL3VuaWFwcC1jbGkvbm9kZV9tb2R1bGVzL0BkY2xvdWRpby92dWUtY2xpLXBsdWdpbi11bmkvcGFja2FnZXMvdnVlLWxvYWRlci9saWIvcnVudGltZS9jb21wb25lbnROb3JtYWxpemVyLmpzXCJcbnZhciBjb21wb25lbnQgPSBub3JtYWxpemVyKFxuICBzY3JpcHQsXG4gIHJlbmRlcixcbiAgc3RhdGljUmVuZGVyRm5zLFxuICBmYWxzZSxcbiAgbnVsbCxcbiAgbnVsbCxcbiAgXCJlYjNjZTc2MFwiLFxuICBmYWxzZSxcbiAgY29tcG9uZW50cyxcbiAgcmVuZGVyanNcbilcblxuaW5qZWN0U3R5bGVzLmNhbGwoY29tcG9uZW50KVxuY29tcG9uZW50Lm9wdGlvbnMuX19maWxlID0gXCJwYWdlcy9nYW1lL2dhbWUubnZ1ZVwiXG5leHBvcnQgZGVmYXVsdCBjb21wb25lbnQuZXhwb3J0cyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///20\n");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _game_nvue_vue_type_template_id_72c0d8e8_mpType_page__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./game.nvue?vue&type=template&id=72c0d8e8&mpType=page */ 21);\n/* harmony import */ var _game_nvue_vue_type_script_lang_js_mpType_page__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./game.nvue?vue&type=script&lang=js&mpType=page */ 23);\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _game_nvue_vue_type_script_lang_js_mpType_page__WEBPACK_IMPORTED_MODULE_1__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _game_nvue_vue_type_script_lang_js_mpType_page__WEBPACK_IMPORTED_MODULE_1__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n/* harmony import */ var _D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/runtime/componentNormalizer.js */ 9);\n\nvar renderjs\n\n\nfunction injectStyles (context) {\n  \n  if(!this.options.style){\n          this.options.style = {}\n      }\n      if(Vue.prototype.__merge_style && Vue.prototype.__$appStyle__){\n        Vue.prototype.__merge_style(Vue.prototype.__$appStyle__, this.options.style)\n      }\n      \n}\n\n/* normalize component */\n\nvar component = Object(_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__[\"default\"])(\n  _game_nvue_vue_type_script_lang_js_mpType_page__WEBPACK_IMPORTED_MODULE_1__[\"default\"],\n  _game_nvue_vue_type_template_id_72c0d8e8_mpType_page__WEBPACK_IMPORTED_MODULE_0__[\"render\"],\n  _game_nvue_vue_type_template_id_72c0d8e8_mpType_page__WEBPACK_IMPORTED_MODULE_0__[\"staticRenderFns\"],\n  false,\n  null,\n  null,\n  \"76cceac0\",\n  false,\n  _game_nvue_vue_type_template_id_72c0d8e8_mpType_page__WEBPACK_IMPORTED_MODULE_0__[\"components\"],\n  renderjs\n)\n\ninjectStyles.call(component)\ncomponent.options.__file = \"pages/game/game.nvue\"\n/* harmony default export */ __webpack_exports__[\"default\"] = (component.exports);//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbbnVsbF0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBNkg7QUFDN0g7QUFDb0U7QUFDTDtBQUMvRDs7QUFFQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7O0FBRUE7O0FBRUE7QUFDcUs7QUFDckssZ0JBQWdCLCtLQUFVO0FBQzFCLEVBQUUsc0ZBQU07QUFDUixFQUFFLDJGQUFNO0FBQ1IsRUFBRSxvR0FBZTtBQUNqQjtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0EsRUFBRSwrRkFBVTtBQUNaO0FBQ0E7O0FBRUE7QUFDQTtBQUNlLGdGIiwiZmlsZSI6IjIwLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgcmVuZGVyLCBzdGF0aWNSZW5kZXJGbnMsIHJlY3ljbGFibGVSZW5kZXIsIGNvbXBvbmVudHMgfSBmcm9tIFwiLi9nYW1lLm52dWU/dnVlJnR5cGU9dGVtcGxhdGUmaWQ9NzJjMGQ4ZTgmbXBUeXBlPXBhZ2VcIlxudmFyIHJlbmRlcmpzXG5pbXBvcnQgc2NyaXB0IGZyb20gXCIuL2dhbWUubnZ1ZT92dWUmdHlwZT1zY3JpcHQmbGFuZz1qcyZtcFR5cGU9cGFnZVwiXG5leHBvcnQgKiBmcm9tIFwiLi9nYW1lLm52dWU/dnVlJnR5cGU9c2NyaXB0Jmxhbmc9anMmbXBUeXBlPXBhZ2VcIlxuZnVuY3Rpb24gaW5qZWN0U3R5bGVzIChjb250ZXh0KSB7XG4gIFxuICBpZighdGhpcy5vcHRpb25zLnN0eWxlKXtcbiAgICAgICAgICB0aGlzLm9wdGlvbnMuc3R5bGUgPSB7fVxuICAgICAgfVxuICAgICAgaWYoVnVlLnByb3RvdHlwZS5fX21lcmdlX3N0eWxlICYmIFZ1ZS5wcm90b3R5cGUuX18kYXBwU3R5bGVfXyl7XG4gICAgICAgIFZ1ZS5wcm90b3R5cGUuX19tZXJnZV9zdHlsZShWdWUucHJvdG90eXBlLl9fJGFwcFN0eWxlX18sIHRoaXMub3B0aW9ucy5zdHlsZSlcbiAgICAgIH1cbiAgICAgIFxufVxuXG4vKiBub3JtYWxpemUgY29tcG9uZW50ICovXG5pbXBvcnQgbm9ybWFsaXplciBmcm9tIFwiIUQ6XFxcXEhCdWlsZGVyWFxcXFxwbHVnaW5zXFxcXHVuaWFwcC1jbGlcXFxcbm9kZV9tb2R1bGVzXFxcXEBkY2xvdWRpb1xcXFx2dWUtY2xpLXBsdWdpbi11bmlcXFxccGFja2FnZXNcXFxcdnVlLWxvYWRlclxcXFxsaWJcXFxccnVudGltZVxcXFxjb21wb25lbnROb3JtYWxpemVyLmpzXCJcbnZhciBjb21wb25lbnQgPSBub3JtYWxpemVyKFxuICBzY3JpcHQsXG4gIHJlbmRlcixcbiAgc3RhdGljUmVuZGVyRm5zLFxuICBmYWxzZSxcbiAgbnVsbCxcbiAgbnVsbCxcbiAgXCI3NmNjZWFjMFwiLFxuICBmYWxzZSxcbiAgY29tcG9uZW50cyxcbiAgcmVuZGVyanNcbilcblxuaW5qZWN0U3R5bGVzLmNhbGwoY29tcG9uZW50KVxuY29tcG9uZW50Lm9wdGlvbnMuX19maWxlID0gXCJwYWdlcy9nYW1lL2dhbWUubnZ1ZVwiXG5leHBvcnQgZGVmYXVsdCBjb21wb25lbnQuZXhwb3J0cyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///20\n");
 
 /***/ }),
 /* 21 */
-/*!********************************************************************************************************!*\
-  !*** D:/web/githubdownload/spritesgame/pages/game/game.nvue?vue&type=template&id=72c0d8e8&mpType=page ***!
-  \********************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/officeuse/githubdownload/spritesgame/pages/game/game.nvue?vue&type=template&id=72c0d8e8&mpType=page ***!
+  \**************************************************************************************************************/
 /*! exports provided: render, staticRenderFns, recyclableRender, components */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_template_js_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_uni_app_loader_page_meta_js_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_7_0_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_template_id_72c0d8e8_mpType_page__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/vue-cli-plugin-hbuilderx/packages/webpack-uni-nvue-loader/lib/template.js!../../../../HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-uni-app-loader/page-meta.js!../../../../HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--7-0!../../../../HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./game.nvue?vue&type=template&id=72c0d8e8&mpType=page */ 22);
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_template_js_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_uni_app_loader_page_meta_js_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_7_0_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_template_id_72c0d8e8_mpType_page__WEBPACK_IMPORTED_MODULE_0__["render"]; });
+/* harmony import */ var _D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_template_js_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_uni_app_loader_page_meta_js_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_7_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_template_id_72c0d8e8_mpType_page__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@dcloudio/vue-cli-plugin-hbuilderx/packages/webpack-uni-nvue-loader/lib/template.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-uni-app-loader/page-meta.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--7-0!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./game.nvue?vue&type=template&id=72c0d8e8&mpType=page */ 22);
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_template_js_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_uni_app_loader_page_meta_js_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_7_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_template_id_72c0d8e8_mpType_page__WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_template_js_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_uni_app_loader_page_meta_js_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_7_0_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_template_id_72c0d8e8_mpType_page__WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_template_js_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_uni_app_loader_page_meta_js_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_7_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_template_id_72c0d8e8_mpType_page__WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "recyclableRender", function() { return _HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_template_js_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_uni_app_loader_page_meta_js_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_7_0_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_template_id_72c0d8e8_mpType_page__WEBPACK_IMPORTED_MODULE_0__["recyclableRender"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "recyclableRender", function() { return _D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_template_js_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_uni_app_loader_page_meta_js_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_7_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_template_id_72c0d8e8_mpType_page__WEBPACK_IMPORTED_MODULE_0__["recyclableRender"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "components", function() { return _HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_template_js_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_uni_app_loader_page_meta_js_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_7_0_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_template_id_72c0d8e8_mpType_page__WEBPACK_IMPORTED_MODULE_0__["components"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "components", function() { return _D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_template_js_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_uni_app_loader_page_meta_js_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_7_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_template_id_72c0d8e8_mpType_page__WEBPACK_IMPORTED_MODULE_0__["components"]; });
 
 
 
 /***/ }),
 /* 22 */
-/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@dcloudio/vue-cli-plugin-hbuilderx/packages/webpack-uni-nvue-loader/lib/template.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-uni-app-loader/page-meta.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--7-0!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!D:/web/githubdownload/spritesgame/pages/game/game.nvue?vue&type=template&id=72c0d8e8&mpType=page ***!
-  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@dcloudio/vue-cli-plugin-hbuilderx/packages/webpack-uni-nvue-loader/lib/template.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-uni-app-loader/page-meta.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--7-0!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!C:/officeuse/githubdownload/spritesgame/pages/game/game.nvue?vue&type=template&id=72c0d8e8&mpType=page ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! exports provided: render, staticRenderFns, recyclableRender, components */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -835,28 +1203,49 @@ var render = function() {
     [
       _c(
         "view",
-        { staticClass: ["page", "flex", "flex-wrap"] },
+        { staticStyle: { backgroundColor: "white" } },
         [
+          _c("bar-height"),
           _c("u-image", {
-            staticClass: ["ml-3"],
-            staticStyle: { width: "200rpx", height: "200rpx" },
-            attrs: { src: _vm.spriteimg }
+            attrs: { src: "/static/logo.png", mode: "widthFix" }
           }),
-          _c("u-image", {
-            staticClass: ["ml-3"],
-            staticStyle: { width: "200rpx", height: "200rpx" },
-            attrs: { src: _vm.spriteimg }
-          }),
-          _c("u-image", {
-            staticClass: ["ml-3"],
-            staticStyle: { width: "200rpx", height: "200rpx" },
-            attrs: { src: _vm.spriteimg }
-          }),
-          _c("u-image", {
-            staticClass: ["ml-3"],
-            staticStyle: { width: "200rpx", height: "200rpx" },
-            attrs: { src: _vm.spriteimg }
-          })
+          _c(
+            "view",
+            { staticClass: ["flex", "flex-wrap"] },
+            _vm._l(_vm.spritesArr, function(item, index) {
+              return _c("u-image", {
+                key: index,
+                staticClass: ["ml-3", "mt-1"],
+                staticStyle: { width: "150rpx", height: "150rpx" },
+                attrs: { src: item.lower, mode: "widthFix" },
+                on: {
+                  error: function($event) {
+                    _vm.nofound(item, index)
+                  }
+                }
+              })
+            }),
+            1
+          ),
+          _c(
+            "view",
+            {
+              staticClass: [
+                "flex",
+                "align-center",
+                "justify-center",
+                "border-top",
+                "p-5",
+                "mt-5"
+              ],
+              staticStyle: { height: "30rpx" }
+            },
+            [
+              _c("u-text", { staticStyle: { color: "#ccc" } }, [
+                _vm._v(_vm._s(_vm.loadText))
+              ])
+            ]
+          )
         ],
         1
       )
@@ -871,25 +1260,106 @@ render._withStripped = true
 
 /***/ }),
 /* 23 */
+/*!********************************************************************************************************!*\
+  !*** C:/officeuse/githubdownload/spritesgame/pages/game/game.nvue?vue&type=script&lang=js&mpType=page ***!
+  \********************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _D_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_ref_4_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_4_1_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_script_lang_js_mpType_page__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!./node_modules/babel-loader/lib??ref--4-0!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--4-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./game.nvue?vue&type=script&lang=js&mpType=page */ 24);\n/* harmony import */ var _D_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_ref_4_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_4_1_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_script_lang_js_mpType_page__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_D_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_ref_4_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_4_1_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_script_lang_js_mpType_page__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _D_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_ref_4_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_4_1_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_script_lang_js_mpType_page__WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _D_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_ref_4_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_4_1_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_script_lang_js_mpType_page__WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n /* harmony default export */ __webpack_exports__[\"default\"] = (_D_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_ref_4_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_4_1_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_script_lang_js_mpType_page__WEBPACK_IMPORTED_MODULE_0___default.a); //# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbbnVsbF0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQThhLENBQWdCLDBkQUFHLEVBQUMiLCJmaWxlIjoiMjMuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgbW9kIGZyb20gXCItIUQ6XFxcXEhCdWlsZGVyWFxcXFxwbHVnaW5zXFxcXHVuaWFwcC1jbGlcXFxcbm9kZV9tb2R1bGVzXFxcXGJhYmVsLWxvYWRlclxcXFxsaWJcXFxcaW5kZXguanM/P3JlZi0tNC0wIUQ6XFxcXEhCdWlsZGVyWFxcXFxwbHVnaW5zXFxcXHVuaWFwcC1jbGlcXFxcbm9kZV9tb2R1bGVzXFxcXEBkY2xvdWRpb1xcXFx2dWUtY2xpLXBsdWdpbi11bmlcXFxccGFja2FnZXNcXFxcd2VicGFjay1wcmVwcm9jZXNzLWxvYWRlclxcXFxpbmRleC5qcz8/cmVmLS00LTEhRDpcXFxcSEJ1aWxkZXJYXFxcXHBsdWdpbnNcXFxcdW5pYXBwLWNsaVxcXFxub2RlX21vZHVsZXNcXFxcQGRjbG91ZGlvXFxcXHZ1ZS1jbGktcGx1Z2luLXVuaVxcXFxwYWNrYWdlc1xcXFx2dWUtbG9hZGVyXFxcXGxpYlxcXFxpbmRleC5qcz8/dnVlLWxvYWRlci1vcHRpb25zIS4vZ2FtZS5udnVlP3Z1ZSZ0eXBlPXNjcmlwdCZsYW5nPWpzJm1wVHlwZT1wYWdlXCI7IGV4cG9ydCBkZWZhdWx0IG1vZDsgZXhwb3J0ICogZnJvbSBcIi0hRDpcXFxcSEJ1aWxkZXJYXFxcXHBsdWdpbnNcXFxcdW5pYXBwLWNsaVxcXFxub2RlX21vZHVsZXNcXFxcYmFiZWwtbG9hZGVyXFxcXGxpYlxcXFxpbmRleC5qcz8/cmVmLS00LTAhRDpcXFxcSEJ1aWxkZXJYXFxcXHBsdWdpbnNcXFxcdW5pYXBwLWNsaVxcXFxub2RlX21vZHVsZXNcXFxcQGRjbG91ZGlvXFxcXHZ1ZS1jbGktcGx1Z2luLXVuaVxcXFxwYWNrYWdlc1xcXFx3ZWJwYWNrLXByZXByb2Nlc3MtbG9hZGVyXFxcXGluZGV4LmpzPz9yZWYtLTQtMSFEOlxcXFxIQnVpbGRlclhcXFxccGx1Z2luc1xcXFx1bmlhcHAtY2xpXFxcXG5vZGVfbW9kdWxlc1xcXFxAZGNsb3VkaW9cXFxcdnVlLWNsaS1wbHVnaW4tdW5pXFxcXHBhY2thZ2VzXFxcXHZ1ZS1sb2FkZXJcXFxcbGliXFxcXGluZGV4LmpzPz92dWUtbG9hZGVyLW9wdGlvbnMhLi9nYW1lLm52dWU/dnVlJnR5cGU9c2NyaXB0Jmxhbmc9anMmbXBUeXBlPXBhZ2VcIiJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///23\n");
+
+/***/ }),
+/* 24 */
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--4-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!C:/officeuse/githubdownload/spritesgame/pages/game/game.nvue?vue&type=script&lang=js&mpType=page ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;\n\n\n\n\n\n\n\n\n\n\n\n\n\nvar _barHeight = _interopRequireDefault(__webpack_require__(/*! @/components/bar-height.vue */ 25));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };} //\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\nvar _default = { components: { barHeight: _barHeight.default }, data: function data() {return { sptitesNameArr: [\"Bulbasaur\", \"Ivysaur\", \"Venusaur\", \"Charmander\", \"Charmeleon\", \"Charizard\", \"Squirtle\", \"Wartortle\", \"Blastoise\", \"Caterpie\", \"Metapod\", \"Butterfree\", \"Weedle\", \"Kakuna\", \"Beedrill\", \"Pidgey\", \"Pidgeotto\", \"Pidgeot\", \"Rattata\", \"Raticate\", \"Spearow\", \"Fearow\", \"Ekans\", \"Arbok\", \"Pikachu\", \"Raichu\", \"Sandshrew\", \"Sandslash\", \"Nidoran-f\", \"Nidorina\", \"Nidoqueen\", \"Nidoran-m\", \"Nidorino\", \"Nidoking\", \"Clefairy\", \"Clefable\", \"Vulpix\", \"Ninetales\", \"Jigglypuff\", \"Wigglytuff\", \"Zubat\", \"Golbat\", \"Oddish\", \"Gloom\", \"Vileplume\", \"Paras\", \"Parasect\", \"Venonat\", \"Venomoth\", \"Diglett\", \"Dugtrio\", \"Meowth\", \"Persian\", \"Psyduck\", \"Golduck\", \"Mankey\", \"Primeape\", \"Growlithe\", \"Arcanine\", \"Poliwag\", \"Poliwhirl\", \"Poliwrath\", \"Abra\", \"Kadabra\", \"Alakazam\", \"Machop\", \"Machoke\", \"Machamp\", \"Bellsprout\", \"Weepinbell\", \"Victreebel\", \"Tentacool\", \"Tentacruel\", \"Geodude\", \"Graveler\", \"Golem\", \"Ponyta\", \"Rapidash\", \"Slowpoke\", \"Slowbro\", \"Magnemite\", \"Magneton\", \"Farfetchd\", \"Doduo\", \"Dodrio\", \"Seel\", \"Dewgong\", \"Grimer\", \"Muk\", \"Shellder\", \"Cloyster\", \"Gastly\", \"Haunter\", \"Gengar\", \"Onix\", \"Drowzee\", \"Hypno\", \"Krabby\", \"Kingler\", \"Voltorb\", \"Electrode\", \"Exeggcute\", \"Exeggutor\", \"Cubone\", \"Marowak\", \"Hitmonlee\", \"Hitmonchan\", \"Lickitung\", \"Koffing\", \"Weezing\", \"Rhyhorn\", \"Rhydon\", \"Chansey\", \"Tangela\", \"Kangaskhan\", \"Horsea\", \"Seadra\", \"Goldeen\", \"Seaking\", \"Staryu\", \"Starmie\", \"Mr-Mime\", \"Scyther\", \"Jynx\", \"Electabuzz\", \"Magmar\", \"Pinsir\", \"Tauros\", \"Magikarp\", \"Gyarados\", \"Lapras\", \"Ditto\", \"Eevee\", \"Vaporeon\", \"Jolteon\", \"Flareon\", \"Porygon\", \"Omanyte\", \"Omastar\", \"Kabuto\", \"Kabutops\", \"Aerodactyl\", \"Snorlax\", \"Articuno\", \"Zapdos\", \"Moltres\", \"Dratini\", \"Dragonair\", \"Dragonite\", \"Mewtwo\", \"Mew\", \"Chikorita\", \"Bayleef\", \"Meganium\", \"Cyndaquil\", \"Quilava\", \"Typhlosion\", \"Totodile\", \"Croconaw\", \"Feraligatr\", \"Sentret\", \"Furret\", \"Hoothoot\", \"Noctowl\", \"Ledyba\", \"Ledian\", \"Spinarak\", \"Ariados\", \"Crobat\", \"Chinchou\", \"Lanturn\", \"Pichu\", \"Cleffa\", \"Igglybuff\", \"Togepi\", \"Togetic\", \"Natu\", \"Xatu\", \"Mareep\", \"Flaaffy\", \"Ampharos\", \"Bellossom\", \"Marill\", \"Azumarill\", \"Sudowoodo\", \"Politoed\", \"Hoppip\", \"Skiploom\", \"Jumpluff\", \"Aipom\", \"Sunkern\", \"Sunflora\", \"Yanma\", \"Wooper\", \"Quagsire\", \"Espeon\", \"Umbreon\", \"Murkrow\", \"Slowking\", \"Misdreavus\", \"Unown\", \"Wobbuffet\", \"Girafarig\", \"Pineco\", \"Forretress\", \"Dunsparce\", \"Gligar\", \"Steelix\", \"Snubbull\", \"Granbull\", \"Qwilfish\", \"Scizor\", \"Shuckle\", \"Heracross\", \"Sneasel\", \"Teddiursa\", \"Ursaring\", \"Slugma\", \"Magcargo\", \"Swinub\", \"Piloswine\", \"Corsola\", \"Remoraid\", \"Octillery\", \"Delibird\", \"Mantine\", \"Skarmory\", \"Houndour\", \"Houndoom\", \"Kingdra\", \"Phanpy\", \"Donphan\", \"Porygon2\", \"Stantler\", \"Smeargle\", \"Tyrogue\", \"Hitmontop\", \"Smoochum\", \"Elekid\", \"Magby\", \"Miltank\", \"Blissey\", \"Raikou\", \"Entei\", \"Suicune\", \"Larvitar\", \"Pupitar\", \"Tyranitar\", \"Lugia\", \"Ho-oh\", \"Celebi\", \"Treecko\", \"Grovyle\", \"Sceptile\", \"Torchic\", \"Combusken\", \"Blaziken\", \"Mudkip\", \"Marshtomp\", \"Swampert\", \"Poochyena\", \"Mightyena\", \"Zigzagoon\", \"Linoone\", \"Wurmple\", \"Silcoon\", \"Beautifly\", \"Cascoon\", \"Dustox\", \"Lotad\", \"Lombre\", \"Ludicolo\", \"Seedot\", \"Nuzleaf\", \"Shiftry\", \"Taillow\", \"Swellow\", \"Wingull\", \"Pelipper\", \"Ralts\", \"Kirlia\", \"Gardevoir\", \"Surskit\", \"Masquerain\", \"Shroomish\", \"Breloom\", \"Slakoth\", \"Vigoroth\", \"Slaking\", \"Nincada\", \"Ninjask\", \"Shedinja\", \"Whismur\", \"Loudred\", \"Exploud\", \"Makuhita\", \"Hariyama\", \"Azurill\", \"Nosepass\", \"Skitty\", \"Delcatty\", \"Sableye\", \"Mawile\", \"Aron\", \"Lairon\", \"Aggron\", \"Meditite\", \"Medicham\", \"Electrike\", \"Manectric\", \"Plusle\", \"Minun\", \"Volbeat\", \"Illumise\", \"Roselia\", \"Gulpin\", \"Swalot\", \"Carvanha\", \"Sharpedo\", \"Wailmer\", \"Wailord\", \"Numel\", \"Camerupt\", \"Torkoal\", \"Spoink\", \"Grumpig\", \"Spinda\", \"Trapinch\", \"Vibrava\", \"Flygon\", \"Cacnea\", \"Cacturne\", \"Swablu\", \"Altaria\", \"Zangoose\", \"Seviper\", \"Lunatone\", \"Solrock\", \"Barboach\", \"Whiscash\", \"Corphish\", \"Crawdaunt\", \"Baltoy\", \"Claydol\", \"Lileep\", \"Cradily\", \"Anorith\", \"Armaldo\", \"Feebas\", \"Milotic\", \"Castform\", \"Kecleon\", \"Shuppet\", \"Banette\", \"Duskull\", \"Dusclops\", \"Tropius\", \"Chimecho\", \"Absol\", \"Wynaut\", \"Snorunt\", \"Glalie\", \"Spheal\", \"Sealeo\", \"Walrein\", \"Clamperl\", \"Huntail\", \"Gorebyss\", \"Relicanth\", \"Luvdisc\", \"Bagon\", \"Shelgon\", \"Salamence\", \"Beldum\", \"Metang\", \"Metagross\", \"Regirock\", \"Regice\", \"Registeel\", \"Latias\", \"Latios\", \"Kyogre\", \"Groudon\", \"Rayquaza\", \"Jirachi\", \"Deoxys\", \"Turtwig\", \"Grotle\", \"Torterra\", \"Chimchar\", \"Monferno\", \"Infernape\", \"Piplup\", \"Prinplup\", \"Empoleon\", \"Starly\", \"Staravia\", \"Staraptor\", \"Bidoof\", \"Bibarel\", \"Kricketot\", \"Kricketune\", \"Shinx\", \"Luxio\", \"Luxray\", \"Budew\", \"Roserade\", \"Cranidos\", \"Rampardos\", \"Shieldon\", \"Bastiodon\", \"Burmy\", \"Wormadam\", \"Mothim\", \"Combee\", \"Vespiquen\", \"Pachirisu\", \"Buizel\", \"Floatzel\", \"Cherubi\", \"Cherrim\", \"Shellos\", \"Gastrodon\", \"Ambipom\", \"Drifloon\", \"Drifblim\", \"Buneary\", \"Lopunny\", \"Mismagius\", \"Honchkrow\", \"Glameow\", \"Purugly\", \"Chingling\", \"Stunky\", \"Skuntank\", \"Bronzor\", \"Bronzong\", \"Bonsly\", \"Mime-Jr\", \"Happiny\", \"Chatot\", \"Spiritomb\", \"Gible\", \"Gabite\", \"Garchomp\", \"Munchlax\", \"Riolu\", \"Lucario\", \"Hippopotas\", \"Hippowdon\", \"Skorupi\", \"Drapion\", \"Croagunk\", \"Toxicroak\", \"Carnivine\", \"Finneon\", \"Lumineon\", \"Mantyke\", \"Snover\", \"Abomasnow\", \"Weavile\", \"Magnezone\", \"Lickilicky\", \"Rhyperior\", \"Tangrowth\", \"Electivire\", \"Magmortar\", \"Togekiss\", \"Yanmega\", \"Leafeon\", \"Glaceon\", \"Gliscor\", \"Mamoswine\", \"Porygon-Z\", \"Gallade\", \"Probopass\", \"Dusknoir\", \"Froslass\", \"Rotom\", \"Uxie\", \"Mesprit\", \"Azelf\", \"Dialga\", \"Palkia\", \"Heatran\", \"Regigigas\", \"Giratina\", \"Cresselia\", \"Phione\", \"Manaphy\", \"Darkrai\", \"Shaymin\", \"Arceus\", \"Victini\", \"Snivy\", \"Servine\", \"Serperior\", \"Tepig\", \"Pignite\", \"Emboar\", \"Oshawott\", \"Dewott\", \"Samurott\", \"Patrat\", \"Watchog\", \"Lillipup\", \"Herdier\", \"Stoutland\", \"Purrloin\", \"Liepard\", \"Pansage\", \"Simisage\", \"Pansear\", \"Simisear\", \"Panpour\", \"Simipour\", \"Munna\", \"Musharna\", \"Pidove\", \"Tranquill\", \"Unfezant\", \"Blitzle\", \"Zebstrika\", \"Roggenrola\", \"Boldore\", \"Gigalith\", \"Woobat\", \"Swoobat\", \"Drilbur\", \"Excadrill\", \"Audino\", \"Timburr\", \"Gurdurr\", \"Conkeldurr\", \"Tympole\", \"Palpitoad\", \"Seismitoad\", \"Throh\", \"Sawk\", \"Sewaddle\", \"Swadloon\", \"Leavanny\", \"Venipede\", \"Whirlipede\", \"Scolipede\", \"Cottonee\", \"Whimsicott\", \"Petilil\", \"Lilligant\", \"Basculin\", \"Sandile\", \"Krokorok\", \"Krookodile\", \"Darumaka\", \"Darmanitan\", \"Maractus\", \"Dwebble\", \"Crustle\", \"Scraggy\", \"Scrafty\", \"Sigilyph\", \"Yamask\", \"Cofagrigus\", \"Tirtouga\", \"Carracosta\", \"Archen\", \"Archeops\", \"Trubbish\", \"Garbodor\", \"Zorua\", \"Zoroark\", \"Minccino\", \"Cinccino\", \"Gothita\", \"Gothorita\", \"Gothitelle\", \"Solosis\", \"Duosion\", \"Reuniclus\", \"Ducklett\", \"Swanna\", \"Vanillite\", \"Vanillish\", \"Vanilluxe\", \"Deerling\", \"Sawsbuck\", \"Emolga\", \"Karrablast\", \"Escavalier\", \"Foongus\", \"Amoonguss\", \"Frillish\", \"Jellicent\", \"Alomomola\", \"Joltik\", \"Galvantula\", \"Ferroseed\", \"Ferrothorn\", \"Klink\", \"Klang\", \"Klinklang\", \"Tynamo\", \"Eelektrik\", \"Eelektross\", \"Elgyem\", \"Beheeyem\", \"Litwick\", \"Lampent\", \"Chandelure\", \"Axew\", \"Fraxure\", \"Haxorus\", \"Cubchoo\", \"Beartic\", \"Cryogonal\", \"Shelmet\", \"Accelgor\", \"Stunfisk\", \"Mienfoo\", \"Mienshao\", \"Druddigon\", \"Golett\", \"Golurk\", \"Pawniard\", \"Bisharp\", \"Bouffalant\", \"Rufflet\", \"Braviary\", \"Vullaby\", \"Mandibuzz\", \"Heatmor\", \"Durant\", \"Deino\", \"Zweilous\", \"Hydreigon\", \"Larvesta\", \"Volcarona\", \"Cobalion\", \"Terrakion\", \"Virizion\", \"Tornadus\", \"Thundurus\", \"Reshiram\", \"Zekrom\", \"Landorus\", \"Kyurem\", \"Keldeo\", \"Meloetta\", \"Genesect\", \"Chespin\", \"Quilladin\", \"Chesnaught\", \"Fennekin\", \"Braixen\", \"Delphox\", \"Froakie\", \"Frogadier\", \"Greninja\", \"Bunnelby\", \"Diggersby\", \"Fletchling\", \"Fletchinder\", \"Talonflame\", \"Scatterbug\", \"Spewpa\", \"Vivillon\", \"Litleo\", \"Pyroar\", \"Flabebe\", \"Floette\", \"Florges\", \"Skiddo\", \"Gogoat\", \"Pancham\", \"Pangoro\", \"Furfrou\", \"Espurr\", \"Meowstic\", \"Honedge\", \"Doublade\", \"Aegislash\", \"Spritzee\", \"Aromatisse\", \"Swirlix\", \"Slurpuff\", \"Inkay\", \"Malamar\", \"Binacle\", \"Barbaracle\", \"Skrelp\", \"Dragalge\", \"Clauncher\", \"Clawitzer\", \"Helioptile\", \"Heliolisk\", \"Tyrunt\", \"Tyrantrum\", \"Amaura\", \"Aurorus\", \"Sylveon\", \"Hawlucha\", \"Dedenne\", \"Carbink\", \"Goomy\", \"Sliggoo\", \"Goodra\", \"Klefki\", \"Phantump\", \"Trevenant\", \"Pumpkaboo\", \"Gourgeist\", \"Bergmite\", \"Avalugg\", \"Noibat\", \"Noivern\", \"Xerneas\", \"Yveltal\", \"Zygarde\", \"Diancie\", \"Hoopa\", \"Volcanion\", \"Rowlet\", \"Dartrix\", \"Decidueye\", \"Litten\", \"Torracat\", \"Incineroar\", \"Popplio\", \"Brionne\", \"Primarina\", \"Pikipek\", \"Trumbeak\", \"Toucannon\", \"Yungoos\", \"Gumshoos\", \"Grubbin\", \"Charjabug\", \"Vikavolt\", \"Crabrawler\", \"Crabominable\", \"Oricorio\", \"Cutiefly\", \"Ribombee\", \"Rockruff\", \"Lycanroc\", \"Wishiwashi\", \"Mareanie\", \"Toxapex\", \"Mudbray\", \"Mudsdale\", \"Dewpider\", \"Araquanid\", \"Fomantis\", \"Lurantis\", \"Morelull\", \"Shiinotic\", \"Salandit\", \"Salazzle\", \"Stufful\", \"Bewear\", \"Bounsweet\", \"Steenee\", \"Tsareena\", \"Comfey\", \"Oranguru\", \"Passimian\", \"Wimpod\", \"Golisopod\", \"Sandygast\", \"Palossand\", \"Pyukumuku\", \"Type-Null\", \"Silvally\", \"Minior\", \"Komala\", \"Turtonator\", \"Togedemaru\", \"Mimikyu\", \"Bruxish\", \"Drampa\", \"Dhelmise\", \"Jangmo-o\", \"Hakamo-o\", \"Kommo-o\", \"Tapu-Koko\", \"Tapu-Lele\", \"Tapu-Bulu\", \"Tapu-Fini\", \"Cosmog\", \"Cosmoem\", \"Solgaleo\", \"Lunala\", \"Nihilego\", \"Buzzwole\", \"Pheromosa\", \"Xurkitree\", \"Celesteela\", \"Kartana\", \"Guzzlord\", \"Necrozma\", \"Magearna\", \"Marshadow\", \"Poipole\", \"Naganadel\", \"Stakataka\", \"Blacephalon\", \"Zeraora\", \"Meltan\", \"Melmetal\", \"Grookey\", \"Thwackey\", \"Rillaboom\", \"Scorbunny\", \"Raboot\", \"Cinderace\", \"Sobble\", \"Drizzile\", \"Inteleon\", \"Skwovet\", \"Greedent\", \"Rookidee\", \"Corvisquire\", \"Corviknight\", \"Blipbug\", \"Dottler\", \"Orbeetle\", \"Nickit\", \"Thievul\", \"Gossifleur\", \"Eldegoss\", \"Wooloo\", \"Dubwool\", \"Chewtle\", \"Drednaw\", \"Yamper\", \"Boltund\", \"Rolycoly\", \"Carkol\", \"Coalossal\", \"Applin\", \"Flapple\", \"Appletun\", \"Silicobra\", \"Sandaconda\", \"Cramorant\", \"Arrokuda\", \"Barraskewda\", \"Toxel\", \"Toxtricity-Low-Key\", \"Sizzlipede\", \"Centiskorch\", \"Clobbopus\", \"Grapploct\", \"Sinistea\", \"Polteageist\", \"Hatenna\", \"Hattrem\", \"Hatterene\", \"Impidimp\", \"Morgrem\", \"Grimmsnarl\", \"Obstagoon\", \"Perrserker\", \"Cursola\", \"Sirfetchd\", \"Mr-Rime\", \"Runerigus\", \"Milcery\", \"Alcremie\", \"Falinks\", \"Pincurchin\", \"Snom\", \"Frosmoth\", \"Stonjourner\", \"Eiscue-Ice\", \"Indeedee-Male\", \"Indeedee-Female\", \"Morpeko-Full-belly\", \"Cufant\", \"Copperajah\", \"Dracozolt\", \"Arctozolt\", \"Dracovish\", \"Arctovish\", \"Duraludon\", \"Dreepy\", \"Drakloak\", \"Dragapult\", \"Zacian-Crowned\", \"Zamazenta-Crowned\", \"Eternatus\", \"Kubfu\", \"Urshifu\", \"Zarude\", \"Regieleki\", \"Regidrago\", \"Glastrier\", \"Spectrier\", \"Calyrex\"], spritesArr: [], loadText: '下拉加载更多' };}, methods: { nofound: function nofound(item, index) {\n      this.spritesArr.splice(index, 1, { name: item.name, lower: \"https://img.pokemondb.net/sprites/sword-shield/icon/\".concat(item.name, \".png\") });\n    } },\n\n  computed: {},\n\n\n  mounted: function mounted() {\n    for (var i = 0; i < 44; i++)\n    {\n      var name = this.sptitesNameArr[i].toLowerCase();\n      // let lower = `https://img.pokemondb.net/sprites/black-white/anim/normal/${name}.gif`;\n      // let lower = `https://img.pokemondb.net/sprites/sword-shield/normal/${name}.png`;\n      var lower = \"https://img.pokemondb.net/sprites/sword-shield/icon/\".concat(name, \".png\");\n      // let lower = `https://img.pokemondb.net/sprites/home/normal/${name}.png`;\n      this.spritesArr.push({ name: name, lower: lower });\n    }\n  },\n  onReachBottom: function onReachBottom() {\n    if (this.loadText != '下拉加载更多')\n    {\n      return;\n    }\n    this.loadText = '加载中。。。';\n    var len = this.spritesArr.length;\n    for (var i = len, length = len + 44; i < length; i++) {\n      if (i > this.sptitesNameArr.length - 1) {\n        this.loadText = '已无数据可加载~~~';\n        return;\n      }\n      var name = this.sptitesNameArr[i].toLowerCase();\n      var lower = \"https://img.pokemondb.net/sprites/sword-shield/icon/\".concat(name, \".png\");\n      this.spritesArr.push({ name: name, lower: lower });\n    }\n\n    this.loadText = '下拉加载更多';\n  } };exports.default = _default;//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInVuaS1hcHA6Ly8vcGFnZXMvZ2FtZS9nYW1lLm52dWUiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7Ozs7QUFjQSxvRzs7Ozs7Ozs7Ozs7OztlQUNBLEVBQ0EsY0FDQSw2QkFEQSxFQURBLEVBSUEsSUFKQSxrQkFJQSxDQUNBLFNBQ0EsK3JVQURBLEVBRUEsY0FGQSxFQUdBLGtCQUhBLEdBS0EsQ0FWQSxFQVdBLFdBQ0EsT0FEQSxtQkFDQSxJQURBLEVBQ0EsS0FEQSxFQUNBO0FBQ0E7QUFDQSxLQUhBLEVBWEE7O0FBZ0JBLGNBaEJBOzs7QUFtQkEsU0FuQkEscUJBbUJBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0EsR0E3QkE7QUE4QkEsZUE5QkEsMkJBOEJBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBOztBQUVBO0FBQ0EsR0FoREEsRSIsImZpbGUiOiIyNC5qcyIsInNvdXJjZXNDb250ZW50IjpbIjx0ZW1wbGF0ZT5cclxuXHQ8dmlldyBzdHlsZT1cImJhY2tncm91bmQtY29sb3I6IHdoaXRlO1wiPlxyXG5cdFx0PGJhci1oZWlnaHQ+PC9iYXItaGVpZ2h0PlxyXG5cdFx0PGltYWdlIHNyYz1cIi9zdGF0aWMvbG9nby5wbmdcIiBtb2RlPVwid2lkdGhGaXhcIj48L2ltYWdlPlxyXG5cdFx0PHZpZXcgY2xhc3M9XCJmbGV4IGZsZXgtd3JhcFwiPlxyXG5cdFx0XHQ8aW1hZ2UgOnNyYz1cIml0ZW0ubG93ZXJcIiBtb2RlPVwid2lkdGhGaXhcIiBzdHlsZT1cIndpZHRoOiAxNTBycHg7aGVpZ2h0OiAxNTBycHg7XCIgY2xhc3M9XCJtbC0zIG10LTFcIiB2LWZvcj1cIihpdGVtLCBpbmRleCkgaW4gc3ByaXRlc0FyclwiIDprZXk9J2luZGV4JyBAZXJyb3I9XCJub2ZvdW5kKGl0ZW0sIGluZGV4KVwiPjwvaW1hZ2U+XHJcblx0XHQ8L3ZpZXc+XHJcblx0XHQ8dmlldyBjbGFzcz1cImZsZXggYWxpZ24tY2VudGVyIGp1c3RpZnktY2VudGVyIGJvcmRlci10b3AgcC01IG10LTVcIiBzdHlsZT1cImhlaWdodDogMzBycHg7XCI+XHJcblx0XHRcdDx0ZXh0IHN0eWxlPVwiY29sb3I6ICNjY2M7XCI+e3tsb2FkVGV4dH19PC90ZXh0PlxyXG5cdFx0PC92aWV3PlxyXG5cdDwvdmlldz5cclxuPC90ZW1wbGF0ZT5cclxuXHJcbjxzY3JpcHQ+XHJcblx0aW1wb3J0IGJhckhlaWdodCBmcm9tICdAL2NvbXBvbmVudHMvYmFyLWhlaWdodC52dWUnXHJcblx0ZXhwb3J0IGRlZmF1bHQge1xyXG5cdFx0Y29tcG9uZW50czoge1xyXG5cdFx0XHRiYXJIZWlnaHRcclxuXHRcdH0sXHJcblx0XHRkYXRhKCkge1xyXG5cdFx0XHRyZXR1cm4ge1xyXG5cdFx0XHRcdHNwdGl0ZXNOYW1lQXJyOiBbXCJCdWxiYXNhdXJcIixcIkl2eXNhdXJcIixcIlZlbnVzYXVyXCIsXCJDaGFybWFuZGVyXCIsXCJDaGFybWVsZW9uXCIsXCJDaGFyaXphcmRcIixcIlNxdWlydGxlXCIsXCJXYXJ0b3J0bGVcIixcIkJsYXN0b2lzZVwiLFwiQ2F0ZXJwaWVcIixcIk1ldGFwb2RcIixcIkJ1dHRlcmZyZWVcIixcIldlZWRsZVwiLFwiS2FrdW5hXCIsXCJCZWVkcmlsbFwiLFwiUGlkZ2V5XCIsXCJQaWRnZW90dG9cIixcIlBpZGdlb3RcIixcIlJhdHRhdGFcIixcIlJhdGljYXRlXCIsXCJTcGVhcm93XCIsXCJGZWFyb3dcIixcIkVrYW5zXCIsXCJBcmJva1wiLFwiUGlrYWNodVwiLFwiUmFpY2h1XCIsXCJTYW5kc2hyZXdcIixcIlNhbmRzbGFzaFwiLFwiTmlkb3Jhbi1mXCIsXCJOaWRvcmluYVwiLFwiTmlkb3F1ZWVuXCIsXCJOaWRvcmFuLW1cIixcIk5pZG9yaW5vXCIsXCJOaWRva2luZ1wiLFwiQ2xlZmFpcnlcIixcIkNsZWZhYmxlXCIsXCJWdWxwaXhcIixcIk5pbmV0YWxlc1wiLFwiSmlnZ2x5cHVmZlwiLFwiV2lnZ2x5dHVmZlwiLFwiWnViYXRcIixcIkdvbGJhdFwiLFwiT2RkaXNoXCIsXCJHbG9vbVwiLFwiVmlsZXBsdW1lXCIsXCJQYXJhc1wiLFwiUGFyYXNlY3RcIixcIlZlbm9uYXRcIixcIlZlbm9tb3RoXCIsXCJEaWdsZXR0XCIsXCJEdWd0cmlvXCIsXCJNZW93dGhcIixcIlBlcnNpYW5cIixcIlBzeWR1Y2tcIixcIkdvbGR1Y2tcIixcIk1hbmtleVwiLFwiUHJpbWVhcGVcIixcIkdyb3dsaXRoZVwiLFwiQXJjYW5pbmVcIixcIlBvbGl3YWdcIixcIlBvbGl3aGlybFwiLFwiUG9saXdyYXRoXCIsXCJBYnJhXCIsXCJLYWRhYnJhXCIsXCJBbGFrYXphbVwiLFwiTWFjaG9wXCIsXCJNYWNob2tlXCIsXCJNYWNoYW1wXCIsXCJCZWxsc3Byb3V0XCIsXCJXZWVwaW5iZWxsXCIsXCJWaWN0cmVlYmVsXCIsXCJUZW50YWNvb2xcIixcIlRlbnRhY3J1ZWxcIixcIkdlb2R1ZGVcIixcIkdyYXZlbGVyXCIsXCJHb2xlbVwiLFwiUG9ueXRhXCIsXCJSYXBpZGFzaFwiLFwiU2xvd3Bva2VcIixcIlNsb3dicm9cIixcIk1hZ25lbWl0ZVwiLFwiTWFnbmV0b25cIixcIkZhcmZldGNoZFwiLFwiRG9kdW9cIixcIkRvZHJpb1wiLFwiU2VlbFwiLFwiRGV3Z29uZ1wiLFwiR3JpbWVyXCIsXCJNdWtcIixcIlNoZWxsZGVyXCIsXCJDbG95c3RlclwiLFwiR2FzdGx5XCIsXCJIYXVudGVyXCIsXCJHZW5nYXJcIixcIk9uaXhcIixcIkRyb3d6ZWVcIixcIkh5cG5vXCIsXCJLcmFiYnlcIixcIktpbmdsZXJcIixcIlZvbHRvcmJcIixcIkVsZWN0cm9kZVwiLFwiRXhlZ2djdXRlXCIsXCJFeGVnZ3V0b3JcIixcIkN1Ym9uZVwiLFwiTWFyb3dha1wiLFwiSGl0bW9ubGVlXCIsXCJIaXRtb25jaGFuXCIsXCJMaWNraXR1bmdcIixcIktvZmZpbmdcIixcIldlZXppbmdcIixcIlJoeWhvcm5cIixcIlJoeWRvblwiLFwiQ2hhbnNleVwiLFwiVGFuZ2VsYVwiLFwiS2FuZ2Fza2hhblwiLFwiSG9yc2VhXCIsXCJTZWFkcmFcIixcIkdvbGRlZW5cIixcIlNlYWtpbmdcIixcIlN0YXJ5dVwiLFwiU3Rhcm1pZVwiLFwiTXItTWltZVwiLFwiU2N5dGhlclwiLFwiSnlueFwiLFwiRWxlY3RhYnV6elwiLFwiTWFnbWFyXCIsXCJQaW5zaXJcIixcIlRhdXJvc1wiLFwiTWFnaWthcnBcIixcIkd5YXJhZG9zXCIsXCJMYXByYXNcIixcIkRpdHRvXCIsXCJFZXZlZVwiLFwiVmFwb3Jlb25cIixcIkpvbHRlb25cIixcIkZsYXJlb25cIixcIlBvcnlnb25cIixcIk9tYW55dGVcIixcIk9tYXN0YXJcIixcIkthYnV0b1wiLFwiS2FidXRvcHNcIixcIkFlcm9kYWN0eWxcIixcIlNub3JsYXhcIixcIkFydGljdW5vXCIsXCJaYXBkb3NcIixcIk1vbHRyZXNcIixcIkRyYXRpbmlcIixcIkRyYWdvbmFpclwiLFwiRHJhZ29uaXRlXCIsXCJNZXd0d29cIixcIk1ld1wiLFwiQ2hpa29yaXRhXCIsXCJCYXlsZWVmXCIsXCJNZWdhbml1bVwiLFwiQ3luZGFxdWlsXCIsXCJRdWlsYXZhXCIsXCJUeXBobG9zaW9uXCIsXCJUb3RvZGlsZVwiLFwiQ3JvY29uYXdcIixcIkZlcmFsaWdhdHJcIixcIlNlbnRyZXRcIixcIkZ1cnJldFwiLFwiSG9vdGhvb3RcIixcIk5vY3Rvd2xcIixcIkxlZHliYVwiLFwiTGVkaWFuXCIsXCJTcGluYXJha1wiLFwiQXJpYWRvc1wiLFwiQ3JvYmF0XCIsXCJDaGluY2hvdVwiLFwiTGFudHVyblwiLFwiUGljaHVcIixcIkNsZWZmYVwiLFwiSWdnbHlidWZmXCIsXCJUb2dlcGlcIixcIlRvZ2V0aWNcIixcIk5hdHVcIixcIlhhdHVcIixcIk1hcmVlcFwiLFwiRmxhYWZmeVwiLFwiQW1waGFyb3NcIixcIkJlbGxvc3NvbVwiLFwiTWFyaWxsXCIsXCJBenVtYXJpbGxcIixcIlN1ZG93b29kb1wiLFwiUG9saXRvZWRcIixcIkhvcHBpcFwiLFwiU2tpcGxvb21cIixcIkp1bXBsdWZmXCIsXCJBaXBvbVwiLFwiU3Vua2VyblwiLFwiU3VuZmxvcmFcIixcIllhbm1hXCIsXCJXb29wZXJcIixcIlF1YWdzaXJlXCIsXCJFc3Blb25cIixcIlVtYnJlb25cIixcIk11cmtyb3dcIixcIlNsb3draW5nXCIsXCJNaXNkcmVhdnVzXCIsXCJVbm93blwiLFwiV29iYnVmZmV0XCIsXCJHaXJhZmFyaWdcIixcIlBpbmVjb1wiLFwiRm9ycmV0cmVzc1wiLFwiRHVuc3BhcmNlXCIsXCJHbGlnYXJcIixcIlN0ZWVsaXhcIixcIlNudWJidWxsXCIsXCJHcmFuYnVsbFwiLFwiUXdpbGZpc2hcIixcIlNjaXpvclwiLFwiU2h1Y2tsZVwiLFwiSGVyYWNyb3NzXCIsXCJTbmVhc2VsXCIsXCJUZWRkaXVyc2FcIixcIlVyc2FyaW5nXCIsXCJTbHVnbWFcIixcIk1hZ2NhcmdvXCIsXCJTd2ludWJcIixcIlBpbG9zd2luZVwiLFwiQ29yc29sYVwiLFwiUmVtb3JhaWRcIixcIk9jdGlsbGVyeVwiLFwiRGVsaWJpcmRcIixcIk1hbnRpbmVcIixcIlNrYXJtb3J5XCIsXCJIb3VuZG91clwiLFwiSG91bmRvb21cIixcIktpbmdkcmFcIixcIlBoYW5weVwiLFwiRG9ucGhhblwiLFwiUG9yeWdvbjJcIixcIlN0YW50bGVyXCIsXCJTbWVhcmdsZVwiLFwiVHlyb2d1ZVwiLFwiSGl0bW9udG9wXCIsXCJTbW9vY2h1bVwiLFwiRWxla2lkXCIsXCJNYWdieVwiLFwiTWlsdGFua1wiLFwiQmxpc3NleVwiLFwiUmFpa291XCIsXCJFbnRlaVwiLFwiU3VpY3VuZVwiLFwiTGFydml0YXJcIixcIlB1cGl0YXJcIixcIlR5cmFuaXRhclwiLFwiTHVnaWFcIixcIkhvLW9oXCIsXCJDZWxlYmlcIixcIlRyZWVja29cIixcIkdyb3Z5bGVcIixcIlNjZXB0aWxlXCIsXCJUb3JjaGljXCIsXCJDb21idXNrZW5cIixcIkJsYXppa2VuXCIsXCJNdWRraXBcIixcIk1hcnNodG9tcFwiLFwiU3dhbXBlcnRcIixcIlBvb2NoeWVuYVwiLFwiTWlnaHR5ZW5hXCIsXCJaaWd6YWdvb25cIixcIkxpbm9vbmVcIixcIld1cm1wbGVcIixcIlNpbGNvb25cIixcIkJlYXV0aWZseVwiLFwiQ2FzY29vblwiLFwiRHVzdG94XCIsXCJMb3RhZFwiLFwiTG9tYnJlXCIsXCJMdWRpY29sb1wiLFwiU2VlZG90XCIsXCJOdXpsZWFmXCIsXCJTaGlmdHJ5XCIsXCJUYWlsbG93XCIsXCJTd2VsbG93XCIsXCJXaW5ndWxsXCIsXCJQZWxpcHBlclwiLFwiUmFsdHNcIixcIktpcmxpYVwiLFwiR2FyZGV2b2lyXCIsXCJTdXJza2l0XCIsXCJNYXNxdWVyYWluXCIsXCJTaHJvb21pc2hcIixcIkJyZWxvb21cIixcIlNsYWtvdGhcIixcIlZpZ29yb3RoXCIsXCJTbGFraW5nXCIsXCJOaW5jYWRhXCIsXCJOaW5qYXNrXCIsXCJTaGVkaW5qYVwiLFwiV2hpc211clwiLFwiTG91ZHJlZFwiLFwiRXhwbG91ZFwiLFwiTWFrdWhpdGFcIixcIkhhcml5YW1hXCIsXCJBenVyaWxsXCIsXCJOb3NlcGFzc1wiLFwiU2tpdHR5XCIsXCJEZWxjYXR0eVwiLFwiU2FibGV5ZVwiLFwiTWF3aWxlXCIsXCJBcm9uXCIsXCJMYWlyb25cIixcIkFnZ3JvblwiLFwiTWVkaXRpdGVcIixcIk1lZGljaGFtXCIsXCJFbGVjdHJpa2VcIixcIk1hbmVjdHJpY1wiLFwiUGx1c2xlXCIsXCJNaW51blwiLFwiVm9sYmVhdFwiLFwiSWxsdW1pc2VcIixcIlJvc2VsaWFcIixcIkd1bHBpblwiLFwiU3dhbG90XCIsXCJDYXJ2YW5oYVwiLFwiU2hhcnBlZG9cIixcIldhaWxtZXJcIixcIldhaWxvcmRcIixcIk51bWVsXCIsXCJDYW1lcnVwdFwiLFwiVG9ya29hbFwiLFwiU3BvaW5rXCIsXCJHcnVtcGlnXCIsXCJTcGluZGFcIixcIlRyYXBpbmNoXCIsXCJWaWJyYXZhXCIsXCJGbHlnb25cIixcIkNhY25lYVwiLFwiQ2FjdHVybmVcIixcIlN3YWJsdVwiLFwiQWx0YXJpYVwiLFwiWmFuZ29vc2VcIixcIlNldmlwZXJcIixcIkx1bmF0b25lXCIsXCJTb2xyb2NrXCIsXCJCYXJib2FjaFwiLFwiV2hpc2Nhc2hcIixcIkNvcnBoaXNoXCIsXCJDcmF3ZGF1bnRcIixcIkJhbHRveVwiLFwiQ2xheWRvbFwiLFwiTGlsZWVwXCIsXCJDcmFkaWx5XCIsXCJBbm9yaXRoXCIsXCJBcm1hbGRvXCIsXCJGZWViYXNcIixcIk1pbG90aWNcIixcIkNhc3Rmb3JtXCIsXCJLZWNsZW9uXCIsXCJTaHVwcGV0XCIsXCJCYW5ldHRlXCIsXCJEdXNrdWxsXCIsXCJEdXNjbG9wc1wiLFwiVHJvcGl1c1wiLFwiQ2hpbWVjaG9cIixcIkFic29sXCIsXCJXeW5hdXRcIixcIlNub3J1bnRcIixcIkdsYWxpZVwiLFwiU3BoZWFsXCIsXCJTZWFsZW9cIixcIldhbHJlaW5cIixcIkNsYW1wZXJsXCIsXCJIdW50YWlsXCIsXCJHb3JlYnlzc1wiLFwiUmVsaWNhbnRoXCIsXCJMdXZkaXNjXCIsXCJCYWdvblwiLFwiU2hlbGdvblwiLFwiU2FsYW1lbmNlXCIsXCJCZWxkdW1cIixcIk1ldGFuZ1wiLFwiTWV0YWdyb3NzXCIsXCJSZWdpcm9ja1wiLFwiUmVnaWNlXCIsXCJSZWdpc3RlZWxcIixcIkxhdGlhc1wiLFwiTGF0aW9zXCIsXCJLeW9ncmVcIixcIkdyb3Vkb25cIixcIlJheXF1YXphXCIsXCJKaXJhY2hpXCIsXCJEZW94eXNcIixcIlR1cnR3aWdcIixcIkdyb3RsZVwiLFwiVG9ydGVycmFcIixcIkNoaW1jaGFyXCIsXCJNb25mZXJub1wiLFwiSW5mZXJuYXBlXCIsXCJQaXBsdXBcIixcIlByaW5wbHVwXCIsXCJFbXBvbGVvblwiLFwiU3Rhcmx5XCIsXCJTdGFyYXZpYVwiLFwiU3RhcmFwdG9yXCIsXCJCaWRvb2ZcIixcIkJpYmFyZWxcIixcIktyaWNrZXRvdFwiLFwiS3JpY2tldHVuZVwiLFwiU2hpbnhcIixcIkx1eGlvXCIsXCJMdXhyYXlcIixcIkJ1ZGV3XCIsXCJSb3NlcmFkZVwiLFwiQ3Jhbmlkb3NcIixcIlJhbXBhcmRvc1wiLFwiU2hpZWxkb25cIixcIkJhc3Rpb2RvblwiLFwiQnVybXlcIixcIldvcm1hZGFtXCIsXCJNb3RoaW1cIixcIkNvbWJlZVwiLFwiVmVzcGlxdWVuXCIsXCJQYWNoaXJpc3VcIixcIkJ1aXplbFwiLFwiRmxvYXR6ZWxcIixcIkNoZXJ1YmlcIixcIkNoZXJyaW1cIixcIlNoZWxsb3NcIixcIkdhc3Ryb2RvblwiLFwiQW1iaXBvbVwiLFwiRHJpZmxvb25cIixcIkRyaWZibGltXCIsXCJCdW5lYXJ5XCIsXCJMb3B1bm55XCIsXCJNaXNtYWdpdXNcIixcIkhvbmNoa3Jvd1wiLFwiR2xhbWVvd1wiLFwiUHVydWdseVwiLFwiQ2hpbmdsaW5nXCIsXCJTdHVua3lcIixcIlNrdW50YW5rXCIsXCJCcm9uem9yXCIsXCJCcm9uem9uZ1wiLFwiQm9uc2x5XCIsXCJNaW1lLUpyXCIsXCJIYXBwaW55XCIsXCJDaGF0b3RcIixcIlNwaXJpdG9tYlwiLFwiR2libGVcIixcIkdhYml0ZVwiLFwiR2FyY2hvbXBcIixcIk11bmNobGF4XCIsXCJSaW9sdVwiLFwiTHVjYXJpb1wiLFwiSGlwcG9wb3Rhc1wiLFwiSGlwcG93ZG9uXCIsXCJTa29ydXBpXCIsXCJEcmFwaW9uXCIsXCJDcm9hZ3Vua1wiLFwiVG94aWNyb2FrXCIsXCJDYXJuaXZpbmVcIixcIkZpbm5lb25cIixcIkx1bWluZW9uXCIsXCJNYW50eWtlXCIsXCJTbm92ZXJcIixcIkFib21hc25vd1wiLFwiV2VhdmlsZVwiLFwiTWFnbmV6b25lXCIsXCJMaWNraWxpY2t5XCIsXCJSaHlwZXJpb3JcIixcIlRhbmdyb3d0aFwiLFwiRWxlY3RpdmlyZVwiLFwiTWFnbW9ydGFyXCIsXCJUb2dla2lzc1wiLFwiWWFubWVnYVwiLFwiTGVhZmVvblwiLFwiR2xhY2VvblwiLFwiR2xpc2NvclwiLFwiTWFtb3N3aW5lXCIsXCJQb3J5Z29uLVpcIixcIkdhbGxhZGVcIixcIlByb2JvcGFzc1wiLFwiRHVza25vaXJcIixcIkZyb3NsYXNzXCIsXCJSb3RvbVwiLFwiVXhpZVwiLFwiTWVzcHJpdFwiLFwiQXplbGZcIixcIkRpYWxnYVwiLFwiUGFsa2lhXCIsXCJIZWF0cmFuXCIsXCJSZWdpZ2lnYXNcIixcIkdpcmF0aW5hXCIsXCJDcmVzc2VsaWFcIixcIlBoaW9uZVwiLFwiTWFuYXBoeVwiLFwiRGFya3JhaVwiLFwiU2hheW1pblwiLFwiQXJjZXVzXCIsXCJWaWN0aW5pXCIsXCJTbml2eVwiLFwiU2VydmluZVwiLFwiU2VycGVyaW9yXCIsXCJUZXBpZ1wiLFwiUGlnbml0ZVwiLFwiRW1ib2FyXCIsXCJPc2hhd290dFwiLFwiRGV3b3R0XCIsXCJTYW11cm90dFwiLFwiUGF0cmF0XCIsXCJXYXRjaG9nXCIsXCJMaWxsaXB1cFwiLFwiSGVyZGllclwiLFwiU3RvdXRsYW5kXCIsXCJQdXJybG9pblwiLFwiTGllcGFyZFwiLFwiUGFuc2FnZVwiLFwiU2ltaXNhZ2VcIixcIlBhbnNlYXJcIixcIlNpbWlzZWFyXCIsXCJQYW5wb3VyXCIsXCJTaW1pcG91clwiLFwiTXVubmFcIixcIk11c2hhcm5hXCIsXCJQaWRvdmVcIixcIlRyYW5xdWlsbFwiLFwiVW5mZXphbnRcIixcIkJsaXR6bGVcIixcIlplYnN0cmlrYVwiLFwiUm9nZ2Vucm9sYVwiLFwiQm9sZG9yZVwiLFwiR2lnYWxpdGhcIixcIldvb2JhdFwiLFwiU3dvb2JhdFwiLFwiRHJpbGJ1clwiLFwiRXhjYWRyaWxsXCIsXCJBdWRpbm9cIixcIlRpbWJ1cnJcIixcIkd1cmR1cnJcIixcIkNvbmtlbGR1cnJcIixcIlR5bXBvbGVcIixcIlBhbHBpdG9hZFwiLFwiU2Vpc21pdG9hZFwiLFwiVGhyb2hcIixcIlNhd2tcIixcIlNld2FkZGxlXCIsXCJTd2FkbG9vblwiLFwiTGVhdmFubnlcIixcIlZlbmlwZWRlXCIsXCJXaGlybGlwZWRlXCIsXCJTY29saXBlZGVcIixcIkNvdHRvbmVlXCIsXCJXaGltc2ljb3R0XCIsXCJQZXRpbGlsXCIsXCJMaWxsaWdhbnRcIixcIkJhc2N1bGluXCIsXCJTYW5kaWxlXCIsXCJLcm9rb3Jva1wiLFwiS3Jvb2tvZGlsZVwiLFwiRGFydW1ha2FcIixcIkRhcm1hbml0YW5cIixcIk1hcmFjdHVzXCIsXCJEd2ViYmxlXCIsXCJDcnVzdGxlXCIsXCJTY3JhZ2d5XCIsXCJTY3JhZnR5XCIsXCJTaWdpbHlwaFwiLFwiWWFtYXNrXCIsXCJDb2ZhZ3JpZ3VzXCIsXCJUaXJ0b3VnYVwiLFwiQ2FycmFjb3N0YVwiLFwiQXJjaGVuXCIsXCJBcmNoZW9wc1wiLFwiVHJ1YmJpc2hcIixcIkdhcmJvZG9yXCIsXCJab3J1YVwiLFwiWm9yb2Fya1wiLFwiTWluY2Npbm9cIixcIkNpbmNjaW5vXCIsXCJHb3RoaXRhXCIsXCJHb3Rob3JpdGFcIixcIkdvdGhpdGVsbGVcIixcIlNvbG9zaXNcIixcIkR1b3Npb25cIixcIlJldW5pY2x1c1wiLFwiRHVja2xldHRcIixcIlN3YW5uYVwiLFwiVmFuaWxsaXRlXCIsXCJWYW5pbGxpc2hcIixcIlZhbmlsbHV4ZVwiLFwiRGVlcmxpbmdcIixcIlNhd3NidWNrXCIsXCJFbW9sZ2FcIixcIkthcnJhYmxhc3RcIixcIkVzY2F2YWxpZXJcIixcIkZvb25ndXNcIixcIkFtb29uZ3Vzc1wiLFwiRnJpbGxpc2hcIixcIkplbGxpY2VudFwiLFwiQWxvbW9tb2xhXCIsXCJKb2x0aWtcIixcIkdhbHZhbnR1bGFcIixcIkZlcnJvc2VlZFwiLFwiRmVycm90aG9yblwiLFwiS2xpbmtcIixcIktsYW5nXCIsXCJLbGlua2xhbmdcIixcIlR5bmFtb1wiLFwiRWVsZWt0cmlrXCIsXCJFZWxla3Ryb3NzXCIsXCJFbGd5ZW1cIixcIkJlaGVleWVtXCIsXCJMaXR3aWNrXCIsXCJMYW1wZW50XCIsXCJDaGFuZGVsdXJlXCIsXCJBeGV3XCIsXCJGcmF4dXJlXCIsXCJIYXhvcnVzXCIsXCJDdWJjaG9vXCIsXCJCZWFydGljXCIsXCJDcnlvZ29uYWxcIixcIlNoZWxtZXRcIixcIkFjY2VsZ29yXCIsXCJTdHVuZmlza1wiLFwiTWllbmZvb1wiLFwiTWllbnNoYW9cIixcIkRydWRkaWdvblwiLFwiR29sZXR0XCIsXCJHb2x1cmtcIixcIlBhd25pYXJkXCIsXCJCaXNoYXJwXCIsXCJCb3VmZmFsYW50XCIsXCJSdWZmbGV0XCIsXCJCcmF2aWFyeVwiLFwiVnVsbGFieVwiLFwiTWFuZGlidXp6XCIsXCJIZWF0bW9yXCIsXCJEdXJhbnRcIixcIkRlaW5vXCIsXCJad2VpbG91c1wiLFwiSHlkcmVpZ29uXCIsXCJMYXJ2ZXN0YVwiLFwiVm9sY2Fyb25hXCIsXCJDb2JhbGlvblwiLFwiVGVycmFraW9uXCIsXCJWaXJpemlvblwiLFwiVG9ybmFkdXNcIixcIlRodW5kdXJ1c1wiLFwiUmVzaGlyYW1cIixcIlpla3JvbVwiLFwiTGFuZG9ydXNcIixcIkt5dXJlbVwiLFwiS2VsZGVvXCIsXCJNZWxvZXR0YVwiLFwiR2VuZXNlY3RcIixcIkNoZXNwaW5cIixcIlF1aWxsYWRpblwiLFwiQ2hlc25hdWdodFwiLFwiRmVubmVraW5cIixcIkJyYWl4ZW5cIixcIkRlbHBob3hcIixcIkZyb2FraWVcIixcIkZyb2dhZGllclwiLFwiR3JlbmluamFcIixcIkJ1bm5lbGJ5XCIsXCJEaWdnZXJzYnlcIixcIkZsZXRjaGxpbmdcIixcIkZsZXRjaGluZGVyXCIsXCJUYWxvbmZsYW1lXCIsXCJTY2F0dGVyYnVnXCIsXCJTcGV3cGFcIixcIlZpdmlsbG9uXCIsXCJMaXRsZW9cIixcIlB5cm9hclwiLFwiRmxhYmViZVwiLFwiRmxvZXR0ZVwiLFwiRmxvcmdlc1wiLFwiU2tpZGRvXCIsXCJHb2dvYXRcIixcIlBhbmNoYW1cIixcIlBhbmdvcm9cIixcIkZ1cmZyb3VcIixcIkVzcHVyclwiLFwiTWVvd3N0aWNcIixcIkhvbmVkZ2VcIixcIkRvdWJsYWRlXCIsXCJBZWdpc2xhc2hcIixcIlNwcml0emVlXCIsXCJBcm9tYXRpc3NlXCIsXCJTd2lybGl4XCIsXCJTbHVycHVmZlwiLFwiSW5rYXlcIixcIk1hbGFtYXJcIixcIkJpbmFjbGVcIixcIkJhcmJhcmFjbGVcIixcIlNrcmVscFwiLFwiRHJhZ2FsZ2VcIixcIkNsYXVuY2hlclwiLFwiQ2xhd2l0emVyXCIsXCJIZWxpb3B0aWxlXCIsXCJIZWxpb2xpc2tcIixcIlR5cnVudFwiLFwiVHlyYW50cnVtXCIsXCJBbWF1cmFcIixcIkF1cm9ydXNcIixcIlN5bHZlb25cIixcIkhhd2x1Y2hhXCIsXCJEZWRlbm5lXCIsXCJDYXJiaW5rXCIsXCJHb29teVwiLFwiU2xpZ2dvb1wiLFwiR29vZHJhXCIsXCJLbGVma2lcIixcIlBoYW50dW1wXCIsXCJUcmV2ZW5hbnRcIixcIlB1bXBrYWJvb1wiLFwiR291cmdlaXN0XCIsXCJCZXJnbWl0ZVwiLFwiQXZhbHVnZ1wiLFwiTm9pYmF0XCIsXCJOb2l2ZXJuXCIsXCJYZXJuZWFzXCIsXCJZdmVsdGFsXCIsXCJaeWdhcmRlXCIsXCJEaWFuY2llXCIsXCJIb29wYVwiLFwiVm9sY2FuaW9uXCIsXCJSb3dsZXRcIixcIkRhcnRyaXhcIixcIkRlY2lkdWV5ZVwiLFwiTGl0dGVuXCIsXCJUb3JyYWNhdFwiLFwiSW5jaW5lcm9hclwiLFwiUG9wcGxpb1wiLFwiQnJpb25uZVwiLFwiUHJpbWFyaW5hXCIsXCJQaWtpcGVrXCIsXCJUcnVtYmVha1wiLFwiVG91Y2Fubm9uXCIsXCJZdW5nb29zXCIsXCJHdW1zaG9vc1wiLFwiR3J1YmJpblwiLFwiQ2hhcmphYnVnXCIsXCJWaWthdm9sdFwiLFwiQ3JhYnJhd2xlclwiLFwiQ3JhYm9taW5hYmxlXCIsXCJPcmljb3Jpb1wiLFwiQ3V0aWVmbHlcIixcIlJpYm9tYmVlXCIsXCJSb2NrcnVmZlwiLFwiTHljYW5yb2NcIixcIldpc2hpd2FzaGlcIixcIk1hcmVhbmllXCIsXCJUb3hhcGV4XCIsXCJNdWRicmF5XCIsXCJNdWRzZGFsZVwiLFwiRGV3cGlkZXJcIixcIkFyYXF1YW5pZFwiLFwiRm9tYW50aXNcIixcIkx1cmFudGlzXCIsXCJNb3JlbHVsbFwiLFwiU2hpaW5vdGljXCIsXCJTYWxhbmRpdFwiLFwiU2FsYXp6bGVcIixcIlN0dWZmdWxcIixcIkJld2VhclwiLFwiQm91bnN3ZWV0XCIsXCJTdGVlbmVlXCIsXCJUc2FyZWVuYVwiLFwiQ29tZmV5XCIsXCJPcmFuZ3VydVwiLFwiUGFzc2ltaWFuXCIsXCJXaW1wb2RcIixcIkdvbGlzb3BvZFwiLFwiU2FuZHlnYXN0XCIsXCJQYWxvc3NhbmRcIixcIlB5dWt1bXVrdVwiLFwiVHlwZS1OdWxsXCIsXCJTaWx2YWxseVwiLFwiTWluaW9yXCIsXCJLb21hbGFcIixcIlR1cnRvbmF0b3JcIixcIlRvZ2VkZW1hcnVcIixcIk1pbWlreXVcIixcIkJydXhpc2hcIixcIkRyYW1wYVwiLFwiRGhlbG1pc2VcIixcIkphbmdtby1vXCIsXCJIYWthbW8tb1wiLFwiS29tbW8tb1wiLFwiVGFwdS1Lb2tvXCIsXCJUYXB1LUxlbGVcIixcIlRhcHUtQnVsdVwiLFwiVGFwdS1GaW5pXCIsXCJDb3Ntb2dcIixcIkNvc21vZW1cIixcIlNvbGdhbGVvXCIsXCJMdW5hbGFcIixcIk5paGlsZWdvXCIsXCJCdXp6d29sZVwiLFwiUGhlcm9tb3NhXCIsXCJYdXJraXRyZWVcIixcIkNlbGVzdGVlbGFcIixcIkthcnRhbmFcIixcIkd1enpsb3JkXCIsXCJOZWNyb3ptYVwiLFwiTWFnZWFybmFcIixcIk1hcnNoYWRvd1wiLFwiUG9pcG9sZVwiLFwiTmFnYW5hZGVsXCIsXCJTdGFrYXRha2FcIixcIkJsYWNlcGhhbG9uXCIsXCJaZXJhb3JhXCIsXCJNZWx0YW5cIixcIk1lbG1ldGFsXCIsXCJHcm9va2V5XCIsXCJUaHdhY2tleVwiLFwiUmlsbGFib29tXCIsXCJTY29yYnVubnlcIixcIlJhYm9vdFwiLFwiQ2luZGVyYWNlXCIsXCJTb2JibGVcIixcIkRyaXp6aWxlXCIsXCJJbnRlbGVvblwiLFwiU2t3b3ZldFwiLFwiR3JlZWRlbnRcIixcIlJvb2tpZGVlXCIsXCJDb3J2aXNxdWlyZVwiLFwiQ29ydmlrbmlnaHRcIixcIkJsaXBidWdcIixcIkRvdHRsZXJcIixcIk9yYmVldGxlXCIsXCJOaWNraXRcIixcIlRoaWV2dWxcIixcIkdvc3NpZmxldXJcIixcIkVsZGVnb3NzXCIsXCJXb29sb29cIixcIkR1Yndvb2xcIixcIkNoZXd0bGVcIixcIkRyZWRuYXdcIixcIllhbXBlclwiLFwiQm9sdHVuZFwiLFwiUm9seWNvbHlcIixcIkNhcmtvbFwiLFwiQ29hbG9zc2FsXCIsXCJBcHBsaW5cIixcIkZsYXBwbGVcIixcIkFwcGxldHVuXCIsXCJTaWxpY29icmFcIixcIlNhbmRhY29uZGFcIixcIkNyYW1vcmFudFwiLFwiQXJyb2t1ZGFcIixcIkJhcnJhc2tld2RhXCIsXCJUb3hlbFwiLFwiVG94dHJpY2l0eS1Mb3ctS2V5XCIsXCJTaXp6bGlwZWRlXCIsXCJDZW50aXNrb3JjaFwiLFwiQ2xvYmJvcHVzXCIsXCJHcmFwcGxvY3RcIixcIlNpbmlzdGVhXCIsXCJQb2x0ZWFnZWlzdFwiLFwiSGF0ZW5uYVwiLFwiSGF0dHJlbVwiLFwiSGF0dGVyZW5lXCIsXCJJbXBpZGltcFwiLFwiTW9yZ3JlbVwiLFwiR3JpbW1zbmFybFwiLFwiT2JzdGFnb29uXCIsXCJQZXJyc2Vya2VyXCIsXCJDdXJzb2xhXCIsXCJTaXJmZXRjaGRcIixcIk1yLVJpbWVcIixcIlJ1bmVyaWd1c1wiLFwiTWlsY2VyeVwiLFwiQWxjcmVtaWVcIixcIkZhbGlua3NcIixcIlBpbmN1cmNoaW5cIixcIlNub21cIixcIkZyb3Ntb3RoXCIsXCJTdG9uam91cm5lclwiLFwiRWlzY3VlLUljZVwiLFwiSW5kZWVkZWUtTWFsZVwiLFwiSW5kZWVkZWUtRmVtYWxlXCIsXCJNb3JwZWtvLUZ1bGwtYmVsbHlcIixcIkN1ZmFudFwiLFwiQ29wcGVyYWphaFwiLFwiRHJhY296b2x0XCIsXCJBcmN0b3pvbHRcIixcIkRyYWNvdmlzaFwiLFwiQXJjdG92aXNoXCIsXCJEdXJhbHVkb25cIixcIkRyZWVweVwiLFwiRHJha2xvYWtcIixcIkRyYWdhcHVsdFwiLFwiWmFjaWFuLUNyb3duZWRcIixcIlphbWF6ZW50YS1Dcm93bmVkXCIsXCJFdGVybmF0dXNcIixcIkt1YmZ1XCIsXCJVcnNoaWZ1XCIsXCJaYXJ1ZGVcIixcIlJlZ2llbGVraVwiLFwiUmVnaWRyYWdvXCIsXCJHbGFzdHJpZXJcIixcIlNwZWN0cmllclwiLFwiQ2FseXJleFwiXSxcclxuXHRcdFx0XHRzcHJpdGVzQXJyOiBbXSxcclxuXHRcdFx0XHRsb2FkVGV4dDogJ+S4i+aLieWKoOi9veabtOWkmidcclxuXHRcdFx0fVxyXG5cdFx0fSxcclxuXHRcdG1ldGhvZHM6IHtcclxuXHRcdFx0bm9mb3VuZChpdGVtLCBpbmRleCl7XHJcblx0XHRcdFx0dGhpcy5zcHJpdGVzQXJyLnNwbGljZShpbmRleCwgMSwge25hbWU6IGl0ZW0ubmFtZSwgbG93ZXI6IGBodHRwczovL2ltZy5wb2tlbW9uZGIubmV0L3Nwcml0ZXMvc3dvcmQtc2hpZWxkL2ljb24vJHtpdGVtLm5hbWV9LnBuZ2B9KVxyXG5cdFx0XHR9XHJcblx0XHR9LFxyXG5cdFx0Y29tcHV0ZWQ6IHtcclxuXHRcdFx0XHJcblx0XHR9LFxyXG5cdFx0bW91bnRlZCgpIHtcclxuXHRcdFx0Zm9yKGxldCBpID0gMDsgaSA8IDQ0OyBpKyspXHJcblx0XHRcdHtcclxuXHRcdFx0XHRsZXQgbmFtZSA9IHRoaXMuc3B0aXRlc05hbWVBcnJbaV0udG9Mb3dlckNhc2UoKTtcclxuXHRcdFx0XHQvLyBsZXQgbG93ZXIgPSBgaHR0cHM6Ly9pbWcucG9rZW1vbmRiLm5ldC9zcHJpdGVzL2JsYWNrLXdoaXRlL2FuaW0vbm9ybWFsLyR7bmFtZX0uZ2lmYDtcclxuXHRcdFx0XHQvLyBsZXQgbG93ZXIgPSBgaHR0cHM6Ly9pbWcucG9rZW1vbmRiLm5ldC9zcHJpdGVzL3N3b3JkLXNoaWVsZC9ub3JtYWwvJHtuYW1lfS5wbmdgO1xyXG5cdFx0XHRcdGxldCBsb3dlciA9IGBodHRwczovL2ltZy5wb2tlbW9uZGIubmV0L3Nwcml0ZXMvc3dvcmQtc2hpZWxkL2ljb24vJHtuYW1lfS5wbmdgO1xyXG5cdFx0XHRcdC8vIGxldCBsb3dlciA9IGBodHRwczovL2ltZy5wb2tlbW9uZGIubmV0L3Nwcml0ZXMvaG9tZS9ub3JtYWwvJHtuYW1lfS5wbmdgO1xyXG5cdFx0XHRcdHRoaXMuc3ByaXRlc0Fyci5wdXNoKHtuYW1lLGxvd2VyfSlcclxuXHRcdFx0fVxyXG5cdFx0fSxcclxuXHRcdG9uUmVhY2hCb3R0b20oKSB7XHJcblx0XHRcdGlmKHRoaXMubG9hZFRleHQgIT0gJ+S4i+aLieWKoOi9veabtOWkmicpXHJcblx0XHRcdHtcclxuXHRcdFx0XHRyZXR1cm5cclxuXHRcdFx0fVxyXG5cdFx0XHR0aGlzLmxvYWRUZXh0ID0gJ+WKoOi9veS4reOAguOAguOAgidcclxuXHRcdFx0bGV0IGxlbiA9IHRoaXMuc3ByaXRlc0Fyci5sZW5ndGhcclxuXHRcdFx0Zm9yKGxldCBpID0gbGVuLGxlbmd0aCA9IGxlbiArIDQ0OyBpIDwgbGVuZ3RoOyBpKyspe1xyXG5cdFx0XHRcdGlmKGkgPiB0aGlzLnNwdGl0ZXNOYW1lQXJyLmxlbmd0aCAtIDEpe1xyXG5cdFx0XHRcdFx0dGhpcy5sb2FkVGV4dCA9ICflt7Lml6DmlbDmja7lj6/liqDovb1+fn4nXHJcblx0XHRcdFx0XHRyZXR1cm4gXHJcblx0XHRcdFx0fVxyXG5cdFx0XHRcdGxldCBuYW1lID0gdGhpcy5zcHRpdGVzTmFtZUFycltpXS50b0xvd2VyQ2FzZSgpO1xyXG5cdFx0XHRcdGxldCBsb3dlciA9IGBodHRwczovL2ltZy5wb2tlbW9uZGIubmV0L3Nwcml0ZXMvc3dvcmQtc2hpZWxkL2ljb24vJHtuYW1lfS5wbmdgO1xyXG5cdFx0XHRcdHRoaXMuc3ByaXRlc0Fyci5wdXNoKHtuYW1lLGxvd2VyfSlcclxuXHRcdFx0fVxyXG5cdFx0XHRcclxuXHRcdFx0dGhpcy5sb2FkVGV4dCA9ICfkuIvmi4nliqDovb3mm7TlpJonXHJcblx0XHR9XHJcblx0fVxyXG48L3NjcmlwdD5cclxuXHJcbjxzdHlsZT5cclxuXHJcbjwvc3R5bGU+XHJcbiJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///24\n");
+
+/***/ }),
+/* 25 */
+/*!*************************************************************************!*\
+  !*** C:/officeuse/githubdownload/spritesgame/components/bar-height.vue ***!
+  \*************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _bar_height_vue_vue_type_template_id_2d8f19c8___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./bar-height.vue?vue&type=template&id=2d8f19c8& */ 26);\n/* harmony import */ var _bar_height_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./bar-height.vue?vue&type=script&lang=js& */ 28);\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _bar_height_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _bar_height_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n/* harmony import */ var _D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/runtime/componentNormalizer.js */ 9);\n\nvar renderjs\n\n\nfunction injectStyles (context) {\n  \n  if(!this.options.style){\n          this.options.style = {}\n      }\n      if(Vue.prototype.__merge_style && Vue.prototype.__$appStyle__){\n        Vue.prototype.__merge_style(Vue.prototype.__$appStyle__, this.options.style)\n      }\n      \n}\n\n/* normalize component */\n\nvar component = Object(_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__[\"default\"])(\n  _bar_height_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__[\"default\"],\n  _bar_height_vue_vue_type_template_id_2d8f19c8___WEBPACK_IMPORTED_MODULE_0__[\"render\"],\n  _bar_height_vue_vue_type_template_id_2d8f19c8___WEBPACK_IMPORTED_MODULE_0__[\"staticRenderFns\"],\n  false,\n  null,\n  null,\n  \"c53ddc9e\",\n  false,\n  _bar_height_vue_vue_type_template_id_2d8f19c8___WEBPACK_IMPORTED_MODULE_0__[\"components\"],\n  renderjs\n)\n\ninjectStyles.call(component)\ncomponent.options.__file = \"components/bar-height.vue\"\n/* harmony default export */ __webpack_exports__[\"default\"] = (component.exports);//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbbnVsbF0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBdUg7QUFDdkg7QUFDOEQ7QUFDTDtBQUN6RDs7QUFFQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7O0FBRUE7O0FBRUE7QUFDcUs7QUFDckssZ0JBQWdCLCtLQUFVO0FBQzFCLEVBQUUsZ0ZBQU07QUFDUixFQUFFLHFGQUFNO0FBQ1IsRUFBRSw4RkFBZTtBQUNqQjtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0EsRUFBRSx5RkFBVTtBQUNaO0FBQ0E7O0FBRUE7QUFDQTtBQUNlLGdGIiwiZmlsZSI6IjI1LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgcmVuZGVyLCBzdGF0aWNSZW5kZXJGbnMsIHJlY3ljbGFibGVSZW5kZXIsIGNvbXBvbmVudHMgfSBmcm9tIFwiLi9iYXItaGVpZ2h0LnZ1ZT92dWUmdHlwZT10ZW1wbGF0ZSZpZD0yZDhmMTljOCZcIlxudmFyIHJlbmRlcmpzXG5pbXBvcnQgc2NyaXB0IGZyb20gXCIuL2Jhci1oZWlnaHQudnVlP3Z1ZSZ0eXBlPXNjcmlwdCZsYW5nPWpzJlwiXG5leHBvcnQgKiBmcm9tIFwiLi9iYXItaGVpZ2h0LnZ1ZT92dWUmdHlwZT1zY3JpcHQmbGFuZz1qcyZcIlxuZnVuY3Rpb24gaW5qZWN0U3R5bGVzIChjb250ZXh0KSB7XG4gIFxuICBpZighdGhpcy5vcHRpb25zLnN0eWxlKXtcbiAgICAgICAgICB0aGlzLm9wdGlvbnMuc3R5bGUgPSB7fVxuICAgICAgfVxuICAgICAgaWYoVnVlLnByb3RvdHlwZS5fX21lcmdlX3N0eWxlICYmIFZ1ZS5wcm90b3R5cGUuX18kYXBwU3R5bGVfXyl7XG4gICAgICAgIFZ1ZS5wcm90b3R5cGUuX19tZXJnZV9zdHlsZShWdWUucHJvdG90eXBlLl9fJGFwcFN0eWxlX18sIHRoaXMub3B0aW9ucy5zdHlsZSlcbiAgICAgIH1cbiAgICAgIFxufVxuXG4vKiBub3JtYWxpemUgY29tcG9uZW50ICovXG5pbXBvcnQgbm9ybWFsaXplciBmcm9tIFwiIUQ6XFxcXEhCdWlsZGVyWFxcXFxwbHVnaW5zXFxcXHVuaWFwcC1jbGlcXFxcbm9kZV9tb2R1bGVzXFxcXEBkY2xvdWRpb1xcXFx2dWUtY2xpLXBsdWdpbi11bmlcXFxccGFja2FnZXNcXFxcdnVlLWxvYWRlclxcXFxsaWJcXFxccnVudGltZVxcXFxjb21wb25lbnROb3JtYWxpemVyLmpzXCJcbnZhciBjb21wb25lbnQgPSBub3JtYWxpemVyKFxuICBzY3JpcHQsXG4gIHJlbmRlcixcbiAgc3RhdGljUmVuZGVyRm5zLFxuICBmYWxzZSxcbiAgbnVsbCxcbiAgbnVsbCxcbiAgXCJjNTNkZGM5ZVwiLFxuICBmYWxzZSxcbiAgY29tcG9uZW50cyxcbiAgcmVuZGVyanNcbilcblxuaW5qZWN0U3R5bGVzLmNhbGwoY29tcG9uZW50KVxuY29tcG9uZW50Lm9wdGlvbnMuX19maWxlID0gXCJjb21wb25lbnRzL2Jhci1oZWlnaHQudnVlXCJcbmV4cG9ydCBkZWZhdWx0IGNvbXBvbmVudC5leHBvcnRzIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///25\n");
+
+/***/ }),
+/* 26 */
+/*!********************************************************************************************************!*\
+  !*** C:/officeuse/githubdownload/spritesgame/components/bar-height.vue?vue&type=template&id=2d8f19c8& ***!
+  \********************************************************************************************************/
+/*! exports provided: render, staticRenderFns, recyclableRender, components */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_template_recycle_js_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_7_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_bar_height_vue_vue_type_template_id_2d8f19c8___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@dcloudio/vue-cli-plugin-hbuilderx/packages/webpack-uni-nvue-loader/lib/template.recycle.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--7-0!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./bar-height.vue?vue&type=template&id=2d8f19c8& */ 27);
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_template_recycle_js_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_7_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_bar_height_vue_vue_type_template_id_2d8f19c8___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_template_recycle_js_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_7_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_bar_height_vue_vue_type_template_id_2d8f19c8___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "recyclableRender", function() { return _D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_template_recycle_js_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_7_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_bar_height_vue_vue_type_template_id_2d8f19c8___WEBPACK_IMPORTED_MODULE_0__["recyclableRender"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "components", function() { return _D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_hbuilderx_packages_webpack_uni_nvue_loader_lib_template_recycle_js_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_7_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_bar_height_vue_vue_type_template_id_2d8f19c8___WEBPACK_IMPORTED_MODULE_0__["components"]; });
+
+
+
+/***/ }),
+/* 27 */
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@dcloudio/vue-cli-plugin-hbuilderx/packages/webpack-uni-nvue-loader/lib/template.recycle.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--7-0!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!C:/officeuse/githubdownload/spritesgame/components/bar-height.vue?vue&type=template&id=2d8f19c8& ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns, recyclableRender, components */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "recyclableRender", function() { return recyclableRender; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "components", function() { return components; });
+var components
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c("view", { style: "height:" + _vm.statusBarHeight + "px" })
+}
+var recyclableRender = false
+var staticRenderFns = []
+render._withStripped = true
+
+
+
+/***/ }),
+/* 28 */
 /*!**************************************************************************************************!*\
-  !*** D:/web/githubdownload/spritesgame/pages/game/game.nvue?vue&type=script&lang=js&mpType=page ***!
+  !*** C:/officeuse/githubdownload/spritesgame/components/bar-height.vue?vue&type=script&lang=js& ***!
   \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_ref_4_0_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_4_1_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_script_lang_js_mpType_page__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../HBuilderX/plugins/uniapp-cli/node_modules/babel-loader/lib??ref--4-0!../../../../HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--4-1!../../../../HBuilderX/plugins/uniapp-cli/node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./game.nvue?vue&type=script&lang=js&mpType=page */ 24);\n/* harmony import */ var _HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_ref_4_0_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_4_1_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_script_lang_js_mpType_page__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_ref_4_0_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_4_1_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_script_lang_js_mpType_page__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_ref_4_0_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_4_1_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_script_lang_js_mpType_page__WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_ref_4_0_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_4_1_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_script_lang_js_mpType_page__WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n /* harmony default export */ __webpack_exports__[\"default\"] = (_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_ref_4_0_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_4_1_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_game_nvue_vue_type_script_lang_js_mpType_page__WEBPACK_IMPORTED_MODULE_0___default.a); //# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbbnVsbF0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQSthLENBQWdCLG9kQUFHLEVBQUMiLCJmaWxlIjoiMjMuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgbW9kIGZyb20gXCItIS4uLy4uLy4uLy4uL0hCdWlsZGVyWC9wbHVnaW5zL3VuaWFwcC1jbGkvbm9kZV9tb2R1bGVzL2JhYmVsLWxvYWRlci9saWIvaW5kZXguanM/P3JlZi0tNC0wIS4uLy4uLy4uLy4uL0hCdWlsZGVyWC9wbHVnaW5zL3VuaWFwcC1jbGkvbm9kZV9tb2R1bGVzL0BkY2xvdWRpby92dWUtY2xpLXBsdWdpbi11bmkvcGFja2FnZXMvd2VicGFjay1wcmVwcm9jZXNzLWxvYWRlci9pbmRleC5qcz8/cmVmLS00LTEhLi4vLi4vLi4vLi4vSEJ1aWxkZXJYL3BsdWdpbnMvdW5pYXBwLWNsaS9ub2RlX21vZHVsZXMvQGRjbG91ZGlvL3Z1ZS1jbGktcGx1Z2luLXVuaS9wYWNrYWdlcy92dWUtbG9hZGVyL2xpYi9pbmRleC5qcz8/dnVlLWxvYWRlci1vcHRpb25zIS4vZ2FtZS5udnVlP3Z1ZSZ0eXBlPXNjcmlwdCZsYW5nPWpzJm1wVHlwZT1wYWdlXCI7IGV4cG9ydCBkZWZhdWx0IG1vZDsgZXhwb3J0ICogZnJvbSBcIi0hLi4vLi4vLi4vLi4vSEJ1aWxkZXJYL3BsdWdpbnMvdW5pYXBwLWNsaS9ub2RlX21vZHVsZXMvYmFiZWwtbG9hZGVyL2xpYi9pbmRleC5qcz8/cmVmLS00LTAhLi4vLi4vLi4vLi4vSEJ1aWxkZXJYL3BsdWdpbnMvdW5pYXBwLWNsaS9ub2RlX21vZHVsZXMvQGRjbG91ZGlvL3Z1ZS1jbGktcGx1Z2luLXVuaS9wYWNrYWdlcy93ZWJwYWNrLXByZXByb2Nlc3MtbG9hZGVyL2luZGV4LmpzPz9yZWYtLTQtMSEuLi8uLi8uLi8uLi9IQnVpbGRlclgvcGx1Z2lucy91bmlhcHAtY2xpL25vZGVfbW9kdWxlcy9AZGNsb3VkaW8vdnVlLWNsaS1wbHVnaW4tdW5pL3BhY2thZ2VzL3Z1ZS1sb2FkZXIvbGliL2luZGV4LmpzPz92dWUtbG9hZGVyLW9wdGlvbnMhLi9nYW1lLm52dWU/dnVlJnR5cGU9c2NyaXB0Jmxhbmc9anMmbXBUeXBlPXBhZ2VcIiJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///23\n");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _D_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_ref_4_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_4_1_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_bar_height_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!./node_modules/babel-loader/lib??ref--4-0!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--4-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!./bar-height.vue?vue&type=script&lang=js& */ 29);\n/* harmony import */ var _D_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_ref_4_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_4_1_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_bar_height_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_D_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_ref_4_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_4_1_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_bar_height_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__);\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _D_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_ref_4_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_4_1_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_bar_height_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _D_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_ref_4_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_4_1_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_bar_height_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n /* harmony default export */ __webpack_exports__[\"default\"] = (_D_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_ref_4_0_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_4_1_D_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_vue_loader_lib_index_js_vue_loader_options_bar_height_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0___default.a); //# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbbnVsbF0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQXdhLENBQWdCLG9kQUFHLEVBQUMiLCJmaWxlIjoiMjguanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgbW9kIGZyb20gXCItIUQ6XFxcXEhCdWlsZGVyWFxcXFxwbHVnaW5zXFxcXHVuaWFwcC1jbGlcXFxcbm9kZV9tb2R1bGVzXFxcXGJhYmVsLWxvYWRlclxcXFxsaWJcXFxcaW5kZXguanM/P3JlZi0tNC0wIUQ6XFxcXEhCdWlsZGVyWFxcXFxwbHVnaW5zXFxcXHVuaWFwcC1jbGlcXFxcbm9kZV9tb2R1bGVzXFxcXEBkY2xvdWRpb1xcXFx2dWUtY2xpLXBsdWdpbi11bmlcXFxccGFja2FnZXNcXFxcd2VicGFjay1wcmVwcm9jZXNzLWxvYWRlclxcXFxpbmRleC5qcz8/cmVmLS00LTEhRDpcXFxcSEJ1aWxkZXJYXFxcXHBsdWdpbnNcXFxcdW5pYXBwLWNsaVxcXFxub2RlX21vZHVsZXNcXFxcQGRjbG91ZGlvXFxcXHZ1ZS1jbGktcGx1Z2luLXVuaVxcXFxwYWNrYWdlc1xcXFx2dWUtbG9hZGVyXFxcXGxpYlxcXFxpbmRleC5qcz8/dnVlLWxvYWRlci1vcHRpb25zIS4vYmFyLWhlaWdodC52dWU/dnVlJnR5cGU9c2NyaXB0Jmxhbmc9anMmXCI7IGV4cG9ydCBkZWZhdWx0IG1vZDsgZXhwb3J0ICogZnJvbSBcIi0hRDpcXFxcSEJ1aWxkZXJYXFxcXHBsdWdpbnNcXFxcdW5pYXBwLWNsaVxcXFxub2RlX21vZHVsZXNcXFxcYmFiZWwtbG9hZGVyXFxcXGxpYlxcXFxpbmRleC5qcz8/cmVmLS00LTAhRDpcXFxcSEJ1aWxkZXJYXFxcXHBsdWdpbnNcXFxcdW5pYXBwLWNsaVxcXFxub2RlX21vZHVsZXNcXFxcQGRjbG91ZGlvXFxcXHZ1ZS1jbGktcGx1Z2luLXVuaVxcXFxwYWNrYWdlc1xcXFx3ZWJwYWNrLXByZXByb2Nlc3MtbG9hZGVyXFxcXGluZGV4LmpzPz9yZWYtLTQtMSFEOlxcXFxIQnVpbGRlclhcXFxccGx1Z2luc1xcXFx1bmlhcHAtY2xpXFxcXG5vZGVfbW9kdWxlc1xcXFxAZGNsb3VkaW9cXFxcdnVlLWNsaS1wbHVnaW4tdW5pXFxcXHBhY2thZ2VzXFxcXHZ1ZS1sb2FkZXJcXFxcbGliXFxcXGluZGV4LmpzPz92dWUtbG9hZGVyLW9wdGlvbnMhLi9iYXItaGVpZ2h0LnZ1ZT92dWUmdHlwZT1zY3JpcHQmbGFuZz1qcyZcIiJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///28\n");
 
 /***/ }),
-/* 24 */
+/* 29 */
 /*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--4-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!D:/web/githubdownload/spritesgame/pages/game/game.nvue?vue&type=script&lang=js&mpType=page ***!
+  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--4-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/vue-loader/lib??vue-loader-options!C:/officeuse/githubdownload/spritesgame/components/bar-height.vue?vue&type=script&lang=js& ***!
   \*****************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0; //\n//\n//\n//\n//\n//\n//\n//\n//\nvar _default =\n{\n  components: {},\n\n\n  data: function data() {\n    return {\n      sptitesArr: [\"Bulbasaur\", \"Ivysaur\", \"Venusaur\", \"Charmander\", \"Charmeleon\", \"Charizard\", \"Squirtle\", \"Wartortle\", \"Blastoise\", \"Caterpie\", \"Metapod\", \"Butterfree\", \"Weedle\", \"Kakuna\", \"Beedrill\", \"Pidgey\", \"Pidgeotto\", \"Pidgeot\", \"Rattata\", \"Raticate\", \"Spearow\", \"Fearow\", \"Ekans\", \"Arbok\", \"Pikachu\", \"Raichu\", \"Sandshrew\", \"Sandslash\", \"Nidoran♀\", \"Nidorina\", \"Nidoqueen\", \"Nidoran♂\", \"Nidorino\", \"Nidoking\", \"Clefairy\", \"Clefable\", \"Vulpix\", \"Ninetales\", \"Jigglypuff\", \"Wigglytuff\", \"Zubat\", \"Golbat\", \"Oddish\", \"Gloom\", \"Vileplume\", \"Paras\", \"Parasect\", \"Venonat\", \"Venomoth\", \"Diglett\", \"Dugtrio\", \"Meowth\", \"Persian\", \"Psyduck\", \"Golduck\", \"Mankey\", \"Primeape\", \"Growlithe\", \"Arcanine\", \"Poliwag\", \"Poliwhirl\", \"Poliwrath\", \"Abra\", \"Kadabra\", \"Alakazam\", \"Machop\", \"Machoke\", \"Machamp\", \"Bellsprout\", \"Weepinbell\", \"Victreebel\", \"Tentacool\", \"Tentacruel\", \"Geodude\", \"Graveler\", \"Golem\", \"Ponyta\", \"Rapidash\", \"Slowpoke\", \"Slowbro\", \"Magnemite\", \"Magneton\", \"Farfetch'd\", \"Doduo\", \"Dodrio\", \"Seel\", \"Dewgong\", \"Grimer\", \"Muk\", \"Shellder\", \"Cloyster\", \"Gastly\", \"Haunter\", \"Gengar\", \"Onix\", \"Drowzee\", \"Hypno\", \"Krabby\", \"Kingler\", \"Voltorb\", \"Electrode\", \"Exeggcute\", \"Exeggutor\", \"Cubone\", \"Marowak\", \"Hitmonlee\", \"Hitmonchan\", \"Lickitung\", \"Koffing\", \"Weezing\", \"Rhyhorn\", \"Rhydon\", \"Chansey\", \"Tangela\", \"Kangaskhan\", \"Horsea\", \"Seadra\", \"Goldeen\", \"Seaking\", \"Staryu\", \"Starmie\", \"Mr. Mime\", \"Scyther\", \"Jynx\", \"Electabuzz\", \"Magmar\", \"Pinsir\", \"Tauros\", \"Magikarp\", \"Gyarados\", \"Lapras\", \"Ditto\", \"Eevee\", \"Vaporeon\", \"Jolteon\", \"Flareon\", \"Porygon\", \"Omanyte\", \"Omastar\", \"Kabuto\", \"Kabutops\", \"Aerodactyl\", \"Snorlax\", \"Articuno\", \"Zapdos\", \"Moltres\", \"Dratini\", \"Dragonair\", \"Dragonite\", \"Mewtwo\", \"Mew\", \"Chikorita\", \"Bayleef\", \"Meganium\", \"Cyndaquil\", \"Quilava\", \"Typhlosion\", \"Totodile\", \"Croconaw\", \"Feraligatr\", \"Sentret\", \"Furret\", \"Hoothoot\", \"Noctowl\", \"Ledyba\", \"Ledian\", \"Spinarak\", \"Ariados\", \"Crobat\", \"Chinchou\", \"Lanturn\", \"Pichu\", \"Cleffa\", \"Igglybuff\", \"Togepi\", \"Togetic\", \"Natu\", \"Xatu\", \"Mareep\", \"Flaaffy\", \"Ampharos\", \"Bellossom\", \"Marill\", \"Azumarill\", \"Sudowoodo\", \"Politoed\", \"Hoppip\", \"Skiploom\", \"Jumpluff\", \"Aipom\", \"Sunkern\", \"Sunflora\", \"Yanma\", \"Wooper\", \"Quagsire\", \"Espeon\", \"Umbreon\", \"Murkrow\", \"Slowking\", \"Misdreavus\", \"Unown\", \"Wobbuffet\", \"Girafarig\", \"Pineco\", \"Forretress\", \"Dunsparce\", \"Gligar\", \"Steelix\", \"Snubbull\", \"Granbull\", \"Qwilfish\", \"Scizor\", \"Shuckle\", \"Heracross\", \"Sneasel\", \"Teddiursa\", \"Ursaring\", \"Slugma\", \"Magcargo\", \"Swinub\", \"Piloswine\", \"Corsola\", \"Remoraid\", \"Octillery\", \"Delibird\", \"Mantine\", \"Skarmory\", \"Houndour\", \"Houndoom\", \"Kingdra\", \"Phanpy\", \"Donphan\", \"Porygon2\", \"Stantler\", \"Smeargle\", \"Tyrogue\", \"Hitmontop\", \"Smoochum\", \"Elekid\", \"Magby\", \"Miltank\", \"Blissey\", \"Raikou\", \"Entei\", \"Suicune\", \"Larvitar\", \"Pupitar\", \"Tyranitar\", \"Lugia\", \"Ho-oh\", \"Celebi\", \"Treecko\", \"Grovyle\", \"Sceptile\", \"Torchic\", \"Combusken\", \"Blaziken\", \"Mudkip\", \"Marshtomp\", \"Swampert\", \"Poochyena\", \"Mightyena\", \"Zigzagoon\", \"Linoone\", \"Wurmple\", \"Silcoon\", \"Beautifly\", \"Cascoon\", \"Dustox\", \"Lotad\", \"Lombre\", \"Ludicolo\", \"Seedot\", \"Nuzleaf\", \"Shiftry\", \"Taillow\", \"Swellow\", \"Wingull\", \"Pelipper\", \"Ralts\", \"Kirlia\", \"Gardevoir\", \"Surskit\", \"Masquerain\", \"Shroomish\", \"Breloom\", \"Slakoth\", \"Vigoroth\", \"Slaking\", \"Nincada\", \"Ninjask\", \"Shedinja\", \"Whismur\", \"Loudred\", \"Exploud\", \"Makuhita\", \"Hariyama\", \"Azurill\", \"Nosepass\", \"Skitty\", \"Delcatty\", \"Sableye\", \"Mawile\", \"Aron\", \"Lairon\", \"Aggron\", \"Meditite\", \"Medicham\", \"Electrike\", \"Manectric\", \"Plusle\", \"Minun\", \"Volbeat\", \"Illumise\", \"Roselia\", \"Gulpin\", \"Swalot\", \"Carvanha\", \"Sharpedo\", \"Wailmer\", \"Wailord\", \"Numel\", \"Camerupt\", \"Torkoal\", \"Spoink\", \"Grumpig\", \"Spinda\", \"Trapinch\", \"Vibrava\", \"Flygon\", \"Cacnea\", \"Cacturne\", \"Swablu\", \"Altaria\", \"Zangoose\", \"Seviper\", \"Lunatone\", \"Solrock\", \"Barboach\", \"Whiscash\", \"Corphish\", \"Crawdaunt\", \"Baltoy\", \"Claydol\", \"Lileep\", \"Cradily\", \"Anorith\", \"Armaldo\", \"Feebas\", \"Milotic\", \"Castform\", \"Kecleon\", \"Shuppet\", \"Banette\", \"Duskull\", \"Dusclops\", \"Tropius\", \"Chimecho\", \"Absol\", \"Wynaut\", \"Snorunt\", \"Glalie\", \"Spheal\", \"Sealeo\", \"Walrein\", \"Clamperl\", \"Huntail\", \"Gorebyss\", \"Relicanth\", \"Luvdisc\", \"Bagon\", \"Shelgon\", \"Salamence\", \"Beldum\", \"Metang\", \"Metagross\", \"Regirock\", \"Regice\", \"Registeel\", \"Latias\", \"Latios\", \"Kyogre\", \"Groudon\", \"Rayquaza\", \"Jirachi\", \"Deoxys\", \"Turtwig\", \"Grotle\", \"Torterra\", \"Chimchar\", \"Monferno\", \"Infernape\", \"Piplup\", \"Prinplup\", \"Empoleon\", \"Starly\", \"Staravia\", \"Staraptor\", \"Bidoof\", \"Bibarel\", \"Kricketot\", \"Kricketune\", \"Shinx\", \"Luxio\", \"Luxray\", \"Budew\", \"Roserade\", \"Cranidos\", \"Rampardos\", \"Shieldon\", \"Bastiodon\", \"Burmy\", \"Wormadam\", \"Mothim\", \"Combee\", \"Vespiquen\", \"Pachirisu\", \"Buizel\", \"Floatzel\", \"Cherubi\", \"Cherrim\", \"Shellos\", \"Gastrodon\", \"Ambipom\", \"Drifloon\", \"Drifblim\", \"Buneary\", \"Lopunny\", \"Mismagius\", \"Honchkrow\", \"Glameow\", \"Purugly\", \"Chingling\", \"Stunky\", \"Skuntank\", \"Bronzor\", \"Bronzong\", \"Bonsly\", \"Mime Jr.\", \"Happiny\", \"Chatot\", \"Spiritomb\", \"Gible\", \"Gabite\", \"Garchomp\", \"Munchlax\", \"Riolu\", \"Lucario\", \"Hippopotas\", \"Hippowdon\", \"Skorupi\", \"Drapion\", \"Croagunk\", \"Toxicroak\", \"Carnivine\", \"Finneon\", \"Lumineon\", \"Mantyke\", \"Snover\", \"Abomasnow\", \"Weavile\", \"Magnezone\", \"Lickilicky\", \"Rhyperior\", \"Tangrowth\", \"Electivire\", \"Magmortar\", \"Togekiss\", \"Yanmega\", \"Leafeon\", \"Glaceon\", \"Gliscor\", \"Mamoswine\", \"Porygon-Z\", \"Gallade\", \"Probopass\", \"Dusknoir\", \"Froslass\", \"Rotom\", \"Uxie\", \"Mesprit\", \"Azelf\", \"Dialga\", \"Palkia\", \"Heatran\", \"Regigigas\", \"Giratina\", \"Cresselia\", \"Phione\", \"Manaphy\", \"Darkrai\", \"Shaymin\", \"Arceus\", \"Victini\", \"Snivy\", \"Servine\", \"Serperior\", \"Tepig\", \"Pignite\", \"Emboar\", \"Oshawott\", \"Dewott\", \"Samurott\", \"Patrat\", \"Watchog\", \"Lillipup\", \"Herdier\", \"Stoutland\", \"Purrloin\", \"Liepard\", \"Pansage\", \"Simisage\", \"Pansear\", \"Simisear\", \"Panpour\", \"Simipour\", \"Munna\", \"Musharna\", \"Pidove\", \"Tranquill\", \"Unfezant\", \"Blitzle\", \"Zebstrika\", \"Roggenrola\", \"Boldore\", \"Gigalith\", \"Woobat\", \"Swoobat\", \"Drilbur\", \"Excadrill\", \"Audino\", \"Timburr\", \"Gurdurr\", \"Conkeldurr\", \"Tympole\", \"Palpitoad\", \"Seismitoad\", \"Throh\", \"Sawk\", \"Sewaddle\", \"Swadloon\", \"Leavanny\", \"Venipede\", \"Whirlipede\", \"Scolipede\", \"Cottonee\", \"Whimsicott\", \"Petilil\", \"Lilligant\", \"Basculin\", \"Sandile\", \"Krokorok\", \"Krookodile\", \"Darumaka\", \"Darmanitan\", \"Maractus\", \"Dwebble\", \"Crustle\", \"Scraggy\", \"Scrafty\", \"Sigilyph\", \"Yamask\", \"Cofagrigus\", \"Tirtouga\", \"Carracosta\", \"Archen\", \"Archeops\", \"Trubbish\", \"Garbodor\", \"Zorua\", \"Zoroark\", \"Minccino\", \"Cinccino\", \"Gothita\", \"Gothorita\", \"Gothitelle\", \"Solosis\", \"Duosion\", \"Reuniclus\", \"Ducklett\", \"Swanna\", \"Vanillite\", \"Vanillish\", \"Vanilluxe\", \"Deerling\", \"Sawsbuck\", \"Emolga\", \"Karrablast\", \"Escavalier\", \"Foongus\", \"Amoonguss\", \"Frillish\", \"Jellicent\", \"Alomomola\", \"Joltik\", \"Galvantula\", \"Ferroseed\", \"Ferrothorn\", \"Klink\", \"Klang\", \"Klinklang\", \"Tynamo\", \"Eelektrik\", \"Eelektross\", \"Elgyem\", \"Beheeyem\", \"Litwick\", \"Lampent\", \"Chandelure\", \"Axew\", \"Fraxure\", \"Haxorus\", \"Cubchoo\", \"Beartic\", \"Cryogonal\", \"Shelmet\", \"Accelgor\", \"Stunfisk\", \"Mienfoo\", \"Mienshao\", \"Druddigon\", \"Golett\", \"Golurk\", \"Pawniard\", \"Bisharp\", \"Bouffalant\", \"Rufflet\", \"Braviary\", \"Vullaby\", \"Mandibuzz\", \"Heatmor\", \"Durant\", \"Deino\", \"Zweilous\", \"Hydreigon\", \"Larvesta\", \"Volcarona\", \"Cobalion\", \"Terrakion\", \"Virizion\", \"Tornadus\", \"Thundurus\", \"Reshiram\", \"Zekrom\", \"Landorus\", \"Kyurem\", \"Keldeo\", \"Meloetta\", \"Genesect\", \"Chespin\", \"Quilladin\", \"Chesnaught\", \"Fennekin\", \"Braixen\", \"Delphox\", \"Froakie\", \"Frogadier\", \"Greninja\", \"Bunnelby\", \"Diggersby\", \"Fletchling\", \"Fletchinder\", \"Talonflame\", \"Scatterbug\", \"Spewpa\", \"Vivillon\", \"Litleo\", \"Pyroar\", \"Flabébé\", \"Floette\", \"Florges\", \"Skiddo\", \"Gogoat\", \"Pancham\", \"Pangoro\", \"Furfrou\", \"Espurr\", \"Meowstic\", \"Honedge\", \"Doublade\", \"Aegislash\", \"Spritzee\", \"Aromatisse\", \"Swirlix\", \"Slurpuff\", \"Inkay\", \"Malamar\", \"Binacle\", \"Barbaracle\", \"Skrelp\", \"Dragalge\", \"Clauncher\", \"Clawitzer\", \"Helioptile\", \"Heliolisk\", \"Tyrunt\", \"Tyrantrum\", \"Amaura\", \"Aurorus\", \"Sylveon\", \"Hawlucha\", \"Dedenne\", \"Carbink\", \"Goomy\", \"Sliggoo\", \"Goodra\", \"Klefki\", \"Phantump\", \"Trevenant\", \"Pumpkaboo\", \"Gourgeist\", \"Bergmite\", \"Avalugg\", \"Noibat\", \"Noivern\", \"Xerneas\", \"Yveltal\", \"Zygarde\", \"Diancie\", \"Hoopa\", \"Volcanion\", \"Rowlet\", \"Dartrix\", \"Decidueye\", \"Litten\", \"Torracat\", \"Incineroar\", \"Popplio\", \"Brionne\", \"Primarina\", \"Pikipek\", \"Trumbeak\", \"Toucannon\", \"Yungoos\", \"Gumshoos\", \"Grubbin\", \"Charjabug\", \"Vikavolt\", \"Crabrawler\", \"Crabominable\", \"Oricorio\", \"Cutiefly\", \"Ribombee\", \"Rockruff\", \"Lycanroc\", \"Wishiwashi\", \"Mareanie\", \"Toxapex\", \"Mudbray\", \"Mudsdale\", \"Dewpider\", \"Araquanid\", \"Fomantis\", \"Lurantis\", \"Morelull\", \"Shiinotic\", \"Salandit\", \"Salazzle\", \"Stufful\", \"Bewear\", \"Bounsweet\", \"Steenee\", \"Tsareena\", \"Comfey\", \"Oranguru\", \"Passimian\", \"Wimpod\", \"Golisopod\", \"Sandygast\", \"Palossand\", \"Pyukumuku\", \"Type: Null\", \"Silvally\", \"Minior\", \"Komala\", \"Turtonator\", \"Togedemaru\", \"Mimikyu\", \"Bruxish\", \"Drampa\", \"Dhelmise\", \"Jangmo-o\", \"Hakamo-o\", \"Kommo-o\", \"Tapu Koko\", \"Tapu Lele\", \"Tapu Bulu\", \"Tapu Fini\", \"Cosmog\", \"Cosmoem\", \"Solgaleo\", \"Lunala\", \"Nihilego\", \"Buzzwole\", \"Pheromosa\", \"Xurkitree\", \"Celesteela\", \"Kartana\", \"Guzzlord\", \"Necrozma\", \"Magearna\", \"Marshadow\", \"Poipole\", \"Naganadel\", \"Stakataka\", \"Blacephalon\", \"Zeraora\", \"Meltan\", \"Melmetal\", \"Grookey\", \"Thwackey\", \"Rillaboom\", \"Scorbunny\", \"Raboot\", \"Cinderace\", \"Sobble\", \"Drizzile\", \"Inteleon\", \"Skwovet\", \"Greedent\", \"Rookidee\", \"Corvisquire\", \"Corviknight\", \"Blipbug\", \"Dottler\", \"Orbeetle\", \"Nickit\", \"Thievul\", \"Gossifleur\", \"Eldegoss\", \"Wooloo\", \"Dubwool\", \"Chewtle\", \"Drednaw\", \"Yamper\", \"Boltund\", \"Rolycoly\", \"Carkol\", \"Coalossal\", \"Applin\", \"Flapple\", \"Appletun\", \"Silicobra\", \"Sandaconda\", \"Cramorant\", \"Arrokuda\", \"Barraskewda\", \"Toxel\", \"Toxtricity\", \"Sizzlipede\", \"Centiskorch\", \"Clobbopus\", \"Grapploct\", \"Sinistea\", \"Polteageist\", \"Hatenna\", \"Hattrem\", \"Hatterene\", \"Impidimp\", \"Morgrem\", \"Grimmsnarl\", \"Obstagoon\", \"Perrserker\", \"Cursola\", \"Sirfetch'd\", \"Mr. Rime\", \"Runerigus\", \"Milcery\", \"Alcremie\", \"Falinks\", \"Pincurchin\", \"Snom\", \"Frosmoth\", \"Stonjourner\", \"Eiscue\", \"Indeedee\", \"Morpeko\", \"Cufant\", \"Copperajah\", \"Dracozolt\", \"Arctozolt\", \"Dracovish\", \"Arctovish\", \"Duraludon\", \"Dreepy\", \"Drakloak\", \"Dragapult\", \"Zacian\", \"Zamazenta\", \"Eternatus\", \"Kubfu\", \"Urshifu\", \"Zarude\", \"Regieleki\", \"Regidrago\", \"Glastrier\", \"Spectrier\", \"Calyrex\"],\n      sprite: {\n        name: \"Pikachu\",\n        nick: \"Sparky\",\n        sex: \"female\",\n        lvl: 24 } };\n\n\n  },\n  methods: {},\n\n\n  computed: {\n    spriteimg: function spriteimg() {\n      var lower = this.sptitesArr[0].toLowerCase();\n      return \"https://img.pokemondb.net/sprites/black-white/anim/normal/\".concat(lower, \".gif\");\n    } },\n\n  mounted: function mounted() {\n  } };exports.default = _default;//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInVuaS1hcHA6Ly8vcGFnZXMvZ2FtZS9nYW1lLm52dWUiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7OztBQVVBO0FBQ0EsZ0JBREE7OztBQUlBLE1BSkEsa0JBSUE7QUFDQTtBQUNBLHNvVUFEQTtBQUVBO0FBQ0EsdUJBREE7QUFFQSxzQkFGQTtBQUdBLHFCQUhBO0FBSUEsZUFKQSxFQUZBOzs7QUFTQSxHQWRBO0FBZUEsYUFmQTs7O0FBa0JBO0FBQ0EsYUFEQSx1QkFDQTtBQUNBO0FBQ0E7QUFDQSxLQUpBLEVBbEJBOztBQXdCQSxTQXhCQSxxQkF3QkE7QUFDQSxHQXpCQSxFIiwiZmlsZSI6IjI0LmpzIiwic291cmNlc0NvbnRlbnQiOlsiPHRlbXBsYXRlPlxyXG5cdDx2aWV3IGNsYXNzPVwicGFnZSBmbGV4IGZsZXgtd3JhcFwiPlxyXG5cdFx0PGltYWdlIDpzcmM9XCJzcHJpdGVpbWdcIiBzdHlsZT1cIndpZHRoOiAyMDBycHg7aGVpZ2h0OiAyMDBycHg7XCIgY2xhc3M9XCJtbC0zXCI+PC9pbWFnZT5cclxuXHRcdDxpbWFnZSA6c3JjPVwic3ByaXRlaW1nXCIgc3R5bGU9XCJ3aWR0aDogMjAwcnB4O2hlaWdodDogMjAwcnB4O1wiIGNsYXNzPVwibWwtM1wiPjwvaW1hZ2U+XHJcblx0XHQ8aW1hZ2UgOnNyYz1cInNwcml0ZWltZ1wiIHN0eWxlPVwid2lkdGg6IDIwMHJweDtoZWlnaHQ6IDIwMHJweDtcIiBjbGFzcz1cIm1sLTNcIj48L2ltYWdlPlxyXG5cdFx0PGltYWdlIDpzcmM9XCJzcHJpdGVpbWdcIiBzdHlsZT1cIndpZHRoOiAyMDBycHg7aGVpZ2h0OiAyMDBycHg7XCIgY2xhc3M9XCJtbC0zXCI+PC9pbWFnZT5cclxuXHQ8L3ZpZXc+XHJcbjwvdGVtcGxhdGU+XHJcblxyXG48c2NyaXB0PlxyXG5cdGV4cG9ydCBkZWZhdWx0IHtcclxuXHRcdGNvbXBvbmVudHM6IHtcclxuXHJcblx0XHR9LFxyXG5cdFx0ZGF0YSgpIHtcclxuXHRcdFx0cmV0dXJuIHtcclxuXHRcdFx0XHRzcHRpdGVzQXJyOiBbXCJCdWxiYXNhdXJcIixcIkl2eXNhdXJcIixcIlZlbnVzYXVyXCIsXCJDaGFybWFuZGVyXCIsXCJDaGFybWVsZW9uXCIsXCJDaGFyaXphcmRcIixcIlNxdWlydGxlXCIsXCJXYXJ0b3J0bGVcIixcIkJsYXN0b2lzZVwiLFwiQ2F0ZXJwaWVcIixcIk1ldGFwb2RcIixcIkJ1dHRlcmZyZWVcIixcIldlZWRsZVwiLFwiS2FrdW5hXCIsXCJCZWVkcmlsbFwiLFwiUGlkZ2V5XCIsXCJQaWRnZW90dG9cIixcIlBpZGdlb3RcIixcIlJhdHRhdGFcIixcIlJhdGljYXRlXCIsXCJTcGVhcm93XCIsXCJGZWFyb3dcIixcIkVrYW5zXCIsXCJBcmJva1wiLFwiUGlrYWNodVwiLFwiUmFpY2h1XCIsXCJTYW5kc2hyZXdcIixcIlNhbmRzbGFzaFwiLFwiTmlkb3JhbuKZgFwiLFwiTmlkb3JpbmFcIixcIk5pZG9xdWVlblwiLFwiTmlkb3JhbuKZglwiLFwiTmlkb3Jpbm9cIixcIk5pZG9raW5nXCIsXCJDbGVmYWlyeVwiLFwiQ2xlZmFibGVcIixcIlZ1bHBpeFwiLFwiTmluZXRhbGVzXCIsXCJKaWdnbHlwdWZmXCIsXCJXaWdnbHl0dWZmXCIsXCJadWJhdFwiLFwiR29sYmF0XCIsXCJPZGRpc2hcIixcIkdsb29tXCIsXCJWaWxlcGx1bWVcIixcIlBhcmFzXCIsXCJQYXJhc2VjdFwiLFwiVmVub25hdFwiLFwiVmVub21vdGhcIixcIkRpZ2xldHRcIixcIkR1Z3RyaW9cIixcIk1lb3d0aFwiLFwiUGVyc2lhblwiLFwiUHN5ZHVja1wiLFwiR29sZHVja1wiLFwiTWFua2V5XCIsXCJQcmltZWFwZVwiLFwiR3Jvd2xpdGhlXCIsXCJBcmNhbmluZVwiLFwiUG9saXdhZ1wiLFwiUG9saXdoaXJsXCIsXCJQb2xpd3JhdGhcIixcIkFicmFcIixcIkthZGFicmFcIixcIkFsYWthemFtXCIsXCJNYWNob3BcIixcIk1hY2hva2VcIixcIk1hY2hhbXBcIixcIkJlbGxzcHJvdXRcIixcIldlZXBpbmJlbGxcIixcIlZpY3RyZWViZWxcIixcIlRlbnRhY29vbFwiLFwiVGVudGFjcnVlbFwiLFwiR2VvZHVkZVwiLFwiR3JhdmVsZXJcIixcIkdvbGVtXCIsXCJQb255dGFcIixcIlJhcGlkYXNoXCIsXCJTbG93cG9rZVwiLFwiU2xvd2Jyb1wiLFwiTWFnbmVtaXRlXCIsXCJNYWduZXRvblwiLFwiRmFyZmV0Y2gnZFwiLFwiRG9kdW9cIixcIkRvZHJpb1wiLFwiU2VlbFwiLFwiRGV3Z29uZ1wiLFwiR3JpbWVyXCIsXCJNdWtcIixcIlNoZWxsZGVyXCIsXCJDbG95c3RlclwiLFwiR2FzdGx5XCIsXCJIYXVudGVyXCIsXCJHZW5nYXJcIixcIk9uaXhcIixcIkRyb3d6ZWVcIixcIkh5cG5vXCIsXCJLcmFiYnlcIixcIktpbmdsZXJcIixcIlZvbHRvcmJcIixcIkVsZWN0cm9kZVwiLFwiRXhlZ2djdXRlXCIsXCJFeGVnZ3V0b3JcIixcIkN1Ym9uZVwiLFwiTWFyb3dha1wiLFwiSGl0bW9ubGVlXCIsXCJIaXRtb25jaGFuXCIsXCJMaWNraXR1bmdcIixcIktvZmZpbmdcIixcIldlZXppbmdcIixcIlJoeWhvcm5cIixcIlJoeWRvblwiLFwiQ2hhbnNleVwiLFwiVGFuZ2VsYVwiLFwiS2FuZ2Fza2hhblwiLFwiSG9yc2VhXCIsXCJTZWFkcmFcIixcIkdvbGRlZW5cIixcIlNlYWtpbmdcIixcIlN0YXJ5dVwiLFwiU3Rhcm1pZVwiLFwiTXIuIE1pbWVcIixcIlNjeXRoZXJcIixcIkp5bnhcIixcIkVsZWN0YWJ1enpcIixcIk1hZ21hclwiLFwiUGluc2lyXCIsXCJUYXVyb3NcIixcIk1hZ2lrYXJwXCIsXCJHeWFyYWRvc1wiLFwiTGFwcmFzXCIsXCJEaXR0b1wiLFwiRWV2ZWVcIixcIlZhcG9yZW9uXCIsXCJKb2x0ZW9uXCIsXCJGbGFyZW9uXCIsXCJQb3J5Z29uXCIsXCJPbWFueXRlXCIsXCJPbWFzdGFyXCIsXCJLYWJ1dG9cIixcIkthYnV0b3BzXCIsXCJBZXJvZGFjdHlsXCIsXCJTbm9ybGF4XCIsXCJBcnRpY3Vub1wiLFwiWmFwZG9zXCIsXCJNb2x0cmVzXCIsXCJEcmF0aW5pXCIsXCJEcmFnb25haXJcIixcIkRyYWdvbml0ZVwiLFwiTWV3dHdvXCIsXCJNZXdcIixcIkNoaWtvcml0YVwiLFwiQmF5bGVlZlwiLFwiTWVnYW5pdW1cIixcIkN5bmRhcXVpbFwiLFwiUXVpbGF2YVwiLFwiVHlwaGxvc2lvblwiLFwiVG90b2RpbGVcIixcIkNyb2NvbmF3XCIsXCJGZXJhbGlnYXRyXCIsXCJTZW50cmV0XCIsXCJGdXJyZXRcIixcIkhvb3Rob290XCIsXCJOb2N0b3dsXCIsXCJMZWR5YmFcIixcIkxlZGlhblwiLFwiU3BpbmFyYWtcIixcIkFyaWFkb3NcIixcIkNyb2JhdFwiLFwiQ2hpbmNob3VcIixcIkxhbnR1cm5cIixcIlBpY2h1XCIsXCJDbGVmZmFcIixcIklnZ2x5YnVmZlwiLFwiVG9nZXBpXCIsXCJUb2dldGljXCIsXCJOYXR1XCIsXCJYYXR1XCIsXCJNYXJlZXBcIixcIkZsYWFmZnlcIixcIkFtcGhhcm9zXCIsXCJCZWxsb3Nzb21cIixcIk1hcmlsbFwiLFwiQXp1bWFyaWxsXCIsXCJTdWRvd29vZG9cIixcIlBvbGl0b2VkXCIsXCJIb3BwaXBcIixcIlNraXBsb29tXCIsXCJKdW1wbHVmZlwiLFwiQWlwb21cIixcIlN1bmtlcm5cIixcIlN1bmZsb3JhXCIsXCJZYW5tYVwiLFwiV29vcGVyXCIsXCJRdWFnc2lyZVwiLFwiRXNwZW9uXCIsXCJVbWJyZW9uXCIsXCJNdXJrcm93XCIsXCJTbG93a2luZ1wiLFwiTWlzZHJlYXZ1c1wiLFwiVW5vd25cIixcIldvYmJ1ZmZldFwiLFwiR2lyYWZhcmlnXCIsXCJQaW5lY29cIixcIkZvcnJldHJlc3NcIixcIkR1bnNwYXJjZVwiLFwiR2xpZ2FyXCIsXCJTdGVlbGl4XCIsXCJTbnViYnVsbFwiLFwiR3JhbmJ1bGxcIixcIlF3aWxmaXNoXCIsXCJTY2l6b3JcIixcIlNodWNrbGVcIixcIkhlcmFjcm9zc1wiLFwiU25lYXNlbFwiLFwiVGVkZGl1cnNhXCIsXCJVcnNhcmluZ1wiLFwiU2x1Z21hXCIsXCJNYWdjYXJnb1wiLFwiU3dpbnViXCIsXCJQaWxvc3dpbmVcIixcIkNvcnNvbGFcIixcIlJlbW9yYWlkXCIsXCJPY3RpbGxlcnlcIixcIkRlbGliaXJkXCIsXCJNYW50aW5lXCIsXCJTa2FybW9yeVwiLFwiSG91bmRvdXJcIixcIkhvdW5kb29tXCIsXCJLaW5nZHJhXCIsXCJQaGFucHlcIixcIkRvbnBoYW5cIixcIlBvcnlnb24yXCIsXCJTdGFudGxlclwiLFwiU21lYXJnbGVcIixcIlR5cm9ndWVcIixcIkhpdG1vbnRvcFwiLFwiU21vb2NodW1cIixcIkVsZWtpZFwiLFwiTWFnYnlcIixcIk1pbHRhbmtcIixcIkJsaXNzZXlcIixcIlJhaWtvdVwiLFwiRW50ZWlcIixcIlN1aWN1bmVcIixcIkxhcnZpdGFyXCIsXCJQdXBpdGFyXCIsXCJUeXJhbml0YXJcIixcIkx1Z2lhXCIsXCJIby1vaFwiLFwiQ2VsZWJpXCIsXCJUcmVlY2tvXCIsXCJHcm92eWxlXCIsXCJTY2VwdGlsZVwiLFwiVG9yY2hpY1wiLFwiQ29tYnVza2VuXCIsXCJCbGF6aWtlblwiLFwiTXVka2lwXCIsXCJNYXJzaHRvbXBcIixcIlN3YW1wZXJ0XCIsXCJQb29jaHllbmFcIixcIk1pZ2h0eWVuYVwiLFwiWmlnemFnb29uXCIsXCJMaW5vb25lXCIsXCJXdXJtcGxlXCIsXCJTaWxjb29uXCIsXCJCZWF1dGlmbHlcIixcIkNhc2Nvb25cIixcIkR1c3RveFwiLFwiTG90YWRcIixcIkxvbWJyZVwiLFwiTHVkaWNvbG9cIixcIlNlZWRvdFwiLFwiTnV6bGVhZlwiLFwiU2hpZnRyeVwiLFwiVGFpbGxvd1wiLFwiU3dlbGxvd1wiLFwiV2luZ3VsbFwiLFwiUGVsaXBwZXJcIixcIlJhbHRzXCIsXCJLaXJsaWFcIixcIkdhcmRldm9pclwiLFwiU3Vyc2tpdFwiLFwiTWFzcXVlcmFpblwiLFwiU2hyb29taXNoXCIsXCJCcmVsb29tXCIsXCJTbGFrb3RoXCIsXCJWaWdvcm90aFwiLFwiU2xha2luZ1wiLFwiTmluY2FkYVwiLFwiTmluamFza1wiLFwiU2hlZGluamFcIixcIldoaXNtdXJcIixcIkxvdWRyZWRcIixcIkV4cGxvdWRcIixcIk1ha3VoaXRhXCIsXCJIYXJpeWFtYVwiLFwiQXp1cmlsbFwiLFwiTm9zZXBhc3NcIixcIlNraXR0eVwiLFwiRGVsY2F0dHlcIixcIlNhYmxleWVcIixcIk1hd2lsZVwiLFwiQXJvblwiLFwiTGFpcm9uXCIsXCJBZ2dyb25cIixcIk1lZGl0aXRlXCIsXCJNZWRpY2hhbVwiLFwiRWxlY3RyaWtlXCIsXCJNYW5lY3RyaWNcIixcIlBsdXNsZVwiLFwiTWludW5cIixcIlZvbGJlYXRcIixcIklsbHVtaXNlXCIsXCJSb3NlbGlhXCIsXCJHdWxwaW5cIixcIlN3YWxvdFwiLFwiQ2FydmFuaGFcIixcIlNoYXJwZWRvXCIsXCJXYWlsbWVyXCIsXCJXYWlsb3JkXCIsXCJOdW1lbFwiLFwiQ2FtZXJ1cHRcIixcIlRvcmtvYWxcIixcIlNwb2lua1wiLFwiR3J1bXBpZ1wiLFwiU3BpbmRhXCIsXCJUcmFwaW5jaFwiLFwiVmlicmF2YVwiLFwiRmx5Z29uXCIsXCJDYWNuZWFcIixcIkNhY3R1cm5lXCIsXCJTd2FibHVcIixcIkFsdGFyaWFcIixcIlphbmdvb3NlXCIsXCJTZXZpcGVyXCIsXCJMdW5hdG9uZVwiLFwiU29scm9ja1wiLFwiQmFyYm9hY2hcIixcIldoaXNjYXNoXCIsXCJDb3JwaGlzaFwiLFwiQ3Jhd2RhdW50XCIsXCJCYWx0b3lcIixcIkNsYXlkb2xcIixcIkxpbGVlcFwiLFwiQ3JhZGlseVwiLFwiQW5vcml0aFwiLFwiQXJtYWxkb1wiLFwiRmVlYmFzXCIsXCJNaWxvdGljXCIsXCJDYXN0Zm9ybVwiLFwiS2VjbGVvblwiLFwiU2h1cHBldFwiLFwiQmFuZXR0ZVwiLFwiRHVza3VsbFwiLFwiRHVzY2xvcHNcIixcIlRyb3BpdXNcIixcIkNoaW1lY2hvXCIsXCJBYnNvbFwiLFwiV3luYXV0XCIsXCJTbm9ydW50XCIsXCJHbGFsaWVcIixcIlNwaGVhbFwiLFwiU2VhbGVvXCIsXCJXYWxyZWluXCIsXCJDbGFtcGVybFwiLFwiSHVudGFpbFwiLFwiR29yZWJ5c3NcIixcIlJlbGljYW50aFwiLFwiTHV2ZGlzY1wiLFwiQmFnb25cIixcIlNoZWxnb25cIixcIlNhbGFtZW5jZVwiLFwiQmVsZHVtXCIsXCJNZXRhbmdcIixcIk1ldGFncm9zc1wiLFwiUmVnaXJvY2tcIixcIlJlZ2ljZVwiLFwiUmVnaXN0ZWVsXCIsXCJMYXRpYXNcIixcIkxhdGlvc1wiLFwiS3lvZ3JlXCIsXCJHcm91ZG9uXCIsXCJSYXlxdWF6YVwiLFwiSmlyYWNoaVwiLFwiRGVveHlzXCIsXCJUdXJ0d2lnXCIsXCJHcm90bGVcIixcIlRvcnRlcnJhXCIsXCJDaGltY2hhclwiLFwiTW9uZmVybm9cIixcIkluZmVybmFwZVwiLFwiUGlwbHVwXCIsXCJQcmlucGx1cFwiLFwiRW1wb2xlb25cIixcIlN0YXJseVwiLFwiU3RhcmF2aWFcIixcIlN0YXJhcHRvclwiLFwiQmlkb29mXCIsXCJCaWJhcmVsXCIsXCJLcmlja2V0b3RcIixcIktyaWNrZXR1bmVcIixcIlNoaW54XCIsXCJMdXhpb1wiLFwiTHV4cmF5XCIsXCJCdWRld1wiLFwiUm9zZXJhZGVcIixcIkNyYW5pZG9zXCIsXCJSYW1wYXJkb3NcIixcIlNoaWVsZG9uXCIsXCJCYXN0aW9kb25cIixcIkJ1cm15XCIsXCJXb3JtYWRhbVwiLFwiTW90aGltXCIsXCJDb21iZWVcIixcIlZlc3BpcXVlblwiLFwiUGFjaGlyaXN1XCIsXCJCdWl6ZWxcIixcIkZsb2F0emVsXCIsXCJDaGVydWJpXCIsXCJDaGVycmltXCIsXCJTaGVsbG9zXCIsXCJHYXN0cm9kb25cIixcIkFtYmlwb21cIixcIkRyaWZsb29uXCIsXCJEcmlmYmxpbVwiLFwiQnVuZWFyeVwiLFwiTG9wdW5ueVwiLFwiTWlzbWFnaXVzXCIsXCJIb25jaGtyb3dcIixcIkdsYW1lb3dcIixcIlB1cnVnbHlcIixcIkNoaW5nbGluZ1wiLFwiU3R1bmt5XCIsXCJTa3VudGFua1wiLFwiQnJvbnpvclwiLFwiQnJvbnpvbmdcIixcIkJvbnNseVwiLFwiTWltZSBKci5cIixcIkhhcHBpbnlcIixcIkNoYXRvdFwiLFwiU3Bpcml0b21iXCIsXCJHaWJsZVwiLFwiR2FiaXRlXCIsXCJHYXJjaG9tcFwiLFwiTXVuY2hsYXhcIixcIlJpb2x1XCIsXCJMdWNhcmlvXCIsXCJIaXBwb3BvdGFzXCIsXCJIaXBwb3dkb25cIixcIlNrb3J1cGlcIixcIkRyYXBpb25cIixcIkNyb2FndW5rXCIsXCJUb3hpY3JvYWtcIixcIkNhcm5pdmluZVwiLFwiRmlubmVvblwiLFwiTHVtaW5lb25cIixcIk1hbnR5a2VcIixcIlNub3ZlclwiLFwiQWJvbWFzbm93XCIsXCJXZWF2aWxlXCIsXCJNYWduZXpvbmVcIixcIkxpY2tpbGlja3lcIixcIlJoeXBlcmlvclwiLFwiVGFuZ3Jvd3RoXCIsXCJFbGVjdGl2aXJlXCIsXCJNYWdtb3J0YXJcIixcIlRvZ2VraXNzXCIsXCJZYW5tZWdhXCIsXCJMZWFmZW9uXCIsXCJHbGFjZW9uXCIsXCJHbGlzY29yXCIsXCJNYW1vc3dpbmVcIixcIlBvcnlnb24tWlwiLFwiR2FsbGFkZVwiLFwiUHJvYm9wYXNzXCIsXCJEdXNrbm9pclwiLFwiRnJvc2xhc3NcIixcIlJvdG9tXCIsXCJVeGllXCIsXCJNZXNwcml0XCIsXCJBemVsZlwiLFwiRGlhbGdhXCIsXCJQYWxraWFcIixcIkhlYXRyYW5cIixcIlJlZ2lnaWdhc1wiLFwiR2lyYXRpbmFcIixcIkNyZXNzZWxpYVwiLFwiUGhpb25lXCIsXCJNYW5hcGh5XCIsXCJEYXJrcmFpXCIsXCJTaGF5bWluXCIsXCJBcmNldXNcIixcIlZpY3RpbmlcIixcIlNuaXZ5XCIsXCJTZXJ2aW5lXCIsXCJTZXJwZXJpb3JcIixcIlRlcGlnXCIsXCJQaWduaXRlXCIsXCJFbWJvYXJcIixcIk9zaGF3b3R0XCIsXCJEZXdvdHRcIixcIlNhbXVyb3R0XCIsXCJQYXRyYXRcIixcIldhdGNob2dcIixcIkxpbGxpcHVwXCIsXCJIZXJkaWVyXCIsXCJTdG91dGxhbmRcIixcIlB1cnJsb2luXCIsXCJMaWVwYXJkXCIsXCJQYW5zYWdlXCIsXCJTaW1pc2FnZVwiLFwiUGFuc2VhclwiLFwiU2ltaXNlYXJcIixcIlBhbnBvdXJcIixcIlNpbWlwb3VyXCIsXCJNdW5uYVwiLFwiTXVzaGFybmFcIixcIlBpZG92ZVwiLFwiVHJhbnF1aWxsXCIsXCJVbmZlemFudFwiLFwiQmxpdHpsZVwiLFwiWmVic3RyaWthXCIsXCJSb2dnZW5yb2xhXCIsXCJCb2xkb3JlXCIsXCJHaWdhbGl0aFwiLFwiV29vYmF0XCIsXCJTd29vYmF0XCIsXCJEcmlsYnVyXCIsXCJFeGNhZHJpbGxcIixcIkF1ZGlub1wiLFwiVGltYnVyclwiLFwiR3VyZHVyclwiLFwiQ29ua2VsZHVyclwiLFwiVHltcG9sZVwiLFwiUGFscGl0b2FkXCIsXCJTZWlzbWl0b2FkXCIsXCJUaHJvaFwiLFwiU2F3a1wiLFwiU2V3YWRkbGVcIixcIlN3YWRsb29uXCIsXCJMZWF2YW5ueVwiLFwiVmVuaXBlZGVcIixcIldoaXJsaXBlZGVcIixcIlNjb2xpcGVkZVwiLFwiQ290dG9uZWVcIixcIldoaW1zaWNvdHRcIixcIlBldGlsaWxcIixcIkxpbGxpZ2FudFwiLFwiQmFzY3VsaW5cIixcIlNhbmRpbGVcIixcIktyb2tvcm9rXCIsXCJLcm9va29kaWxlXCIsXCJEYXJ1bWFrYVwiLFwiRGFybWFuaXRhblwiLFwiTWFyYWN0dXNcIixcIkR3ZWJibGVcIixcIkNydXN0bGVcIixcIlNjcmFnZ3lcIixcIlNjcmFmdHlcIixcIlNpZ2lseXBoXCIsXCJZYW1hc2tcIixcIkNvZmFncmlndXNcIixcIlRpcnRvdWdhXCIsXCJDYXJyYWNvc3RhXCIsXCJBcmNoZW5cIixcIkFyY2hlb3BzXCIsXCJUcnViYmlzaFwiLFwiR2FyYm9kb3JcIixcIlpvcnVhXCIsXCJab3JvYXJrXCIsXCJNaW5jY2lub1wiLFwiQ2luY2Npbm9cIixcIkdvdGhpdGFcIixcIkdvdGhvcml0YVwiLFwiR290aGl0ZWxsZVwiLFwiU29sb3Npc1wiLFwiRHVvc2lvblwiLFwiUmV1bmljbHVzXCIsXCJEdWNrbGV0dFwiLFwiU3dhbm5hXCIsXCJWYW5pbGxpdGVcIixcIlZhbmlsbGlzaFwiLFwiVmFuaWxsdXhlXCIsXCJEZWVybGluZ1wiLFwiU2F3c2J1Y2tcIixcIkVtb2xnYVwiLFwiS2FycmFibGFzdFwiLFwiRXNjYXZhbGllclwiLFwiRm9vbmd1c1wiLFwiQW1vb25ndXNzXCIsXCJGcmlsbGlzaFwiLFwiSmVsbGljZW50XCIsXCJBbG9tb21vbGFcIixcIkpvbHRpa1wiLFwiR2FsdmFudHVsYVwiLFwiRmVycm9zZWVkXCIsXCJGZXJyb3Rob3JuXCIsXCJLbGlua1wiLFwiS2xhbmdcIixcIktsaW5rbGFuZ1wiLFwiVHluYW1vXCIsXCJFZWxla3RyaWtcIixcIkVlbGVrdHJvc3NcIixcIkVsZ3llbVwiLFwiQmVoZWV5ZW1cIixcIkxpdHdpY2tcIixcIkxhbXBlbnRcIixcIkNoYW5kZWx1cmVcIixcIkF4ZXdcIixcIkZyYXh1cmVcIixcIkhheG9ydXNcIixcIkN1YmNob29cIixcIkJlYXJ0aWNcIixcIkNyeW9nb25hbFwiLFwiU2hlbG1ldFwiLFwiQWNjZWxnb3JcIixcIlN0dW5maXNrXCIsXCJNaWVuZm9vXCIsXCJNaWVuc2hhb1wiLFwiRHJ1ZGRpZ29uXCIsXCJHb2xldHRcIixcIkdvbHVya1wiLFwiUGF3bmlhcmRcIixcIkJpc2hhcnBcIixcIkJvdWZmYWxhbnRcIixcIlJ1ZmZsZXRcIixcIkJyYXZpYXJ5XCIsXCJWdWxsYWJ5XCIsXCJNYW5kaWJ1enpcIixcIkhlYXRtb3JcIixcIkR1cmFudFwiLFwiRGVpbm9cIixcIlp3ZWlsb3VzXCIsXCJIeWRyZWlnb25cIixcIkxhcnZlc3RhXCIsXCJWb2xjYXJvbmFcIixcIkNvYmFsaW9uXCIsXCJUZXJyYWtpb25cIixcIlZpcml6aW9uXCIsXCJUb3JuYWR1c1wiLFwiVGh1bmR1cnVzXCIsXCJSZXNoaXJhbVwiLFwiWmVrcm9tXCIsXCJMYW5kb3J1c1wiLFwiS3l1cmVtXCIsXCJLZWxkZW9cIixcIk1lbG9ldHRhXCIsXCJHZW5lc2VjdFwiLFwiQ2hlc3BpblwiLFwiUXVpbGxhZGluXCIsXCJDaGVzbmF1Z2h0XCIsXCJGZW5uZWtpblwiLFwiQnJhaXhlblwiLFwiRGVscGhveFwiLFwiRnJvYWtpZVwiLFwiRnJvZ2FkaWVyXCIsXCJHcmVuaW5qYVwiLFwiQnVubmVsYnlcIixcIkRpZ2dlcnNieVwiLFwiRmxldGNobGluZ1wiLFwiRmxldGNoaW5kZXJcIixcIlRhbG9uZmxhbWVcIixcIlNjYXR0ZXJidWdcIixcIlNwZXdwYVwiLFwiVml2aWxsb25cIixcIkxpdGxlb1wiLFwiUHlyb2FyXCIsXCJGbGFiw6liw6lcIixcIkZsb2V0dGVcIixcIkZsb3JnZXNcIixcIlNraWRkb1wiLFwiR29nb2F0XCIsXCJQYW5jaGFtXCIsXCJQYW5nb3JvXCIsXCJGdXJmcm91XCIsXCJFc3B1cnJcIixcIk1lb3dzdGljXCIsXCJIb25lZGdlXCIsXCJEb3VibGFkZVwiLFwiQWVnaXNsYXNoXCIsXCJTcHJpdHplZVwiLFwiQXJvbWF0aXNzZVwiLFwiU3dpcmxpeFwiLFwiU2x1cnB1ZmZcIixcIklua2F5XCIsXCJNYWxhbWFyXCIsXCJCaW5hY2xlXCIsXCJCYXJiYXJhY2xlXCIsXCJTa3JlbHBcIixcIkRyYWdhbGdlXCIsXCJDbGF1bmNoZXJcIixcIkNsYXdpdHplclwiLFwiSGVsaW9wdGlsZVwiLFwiSGVsaW9saXNrXCIsXCJUeXJ1bnRcIixcIlR5cmFudHJ1bVwiLFwiQW1hdXJhXCIsXCJBdXJvcnVzXCIsXCJTeWx2ZW9uXCIsXCJIYXdsdWNoYVwiLFwiRGVkZW5uZVwiLFwiQ2FyYmlua1wiLFwiR29vbXlcIixcIlNsaWdnb29cIixcIkdvb2RyYVwiLFwiS2xlZmtpXCIsXCJQaGFudHVtcFwiLFwiVHJldmVuYW50XCIsXCJQdW1wa2Fib29cIixcIkdvdXJnZWlzdFwiLFwiQmVyZ21pdGVcIixcIkF2YWx1Z2dcIixcIk5vaWJhdFwiLFwiTm9pdmVyblwiLFwiWGVybmVhc1wiLFwiWXZlbHRhbFwiLFwiWnlnYXJkZVwiLFwiRGlhbmNpZVwiLFwiSG9vcGFcIixcIlZvbGNhbmlvblwiLFwiUm93bGV0XCIsXCJEYXJ0cml4XCIsXCJEZWNpZHVleWVcIixcIkxpdHRlblwiLFwiVG9ycmFjYXRcIixcIkluY2luZXJvYXJcIixcIlBvcHBsaW9cIixcIkJyaW9ubmVcIixcIlByaW1hcmluYVwiLFwiUGlraXBla1wiLFwiVHJ1bWJlYWtcIixcIlRvdWNhbm5vblwiLFwiWXVuZ29vc1wiLFwiR3Vtc2hvb3NcIixcIkdydWJiaW5cIixcIkNoYXJqYWJ1Z1wiLFwiVmlrYXZvbHRcIixcIkNyYWJyYXdsZXJcIixcIkNyYWJvbWluYWJsZVwiLFwiT3JpY29yaW9cIixcIkN1dGllZmx5XCIsXCJSaWJvbWJlZVwiLFwiUm9ja3J1ZmZcIixcIkx5Y2Fucm9jXCIsXCJXaXNoaXdhc2hpXCIsXCJNYXJlYW5pZVwiLFwiVG94YXBleFwiLFwiTXVkYnJheVwiLFwiTXVkc2RhbGVcIixcIkRld3BpZGVyXCIsXCJBcmFxdWFuaWRcIixcIkZvbWFudGlzXCIsXCJMdXJhbnRpc1wiLFwiTW9yZWx1bGxcIixcIlNoaWlub3RpY1wiLFwiU2FsYW5kaXRcIixcIlNhbGF6emxlXCIsXCJTdHVmZnVsXCIsXCJCZXdlYXJcIixcIkJvdW5zd2VldFwiLFwiU3RlZW5lZVwiLFwiVHNhcmVlbmFcIixcIkNvbWZleVwiLFwiT3Jhbmd1cnVcIixcIlBhc3NpbWlhblwiLFwiV2ltcG9kXCIsXCJHb2xpc29wb2RcIixcIlNhbmR5Z2FzdFwiLFwiUGFsb3NzYW5kXCIsXCJQeXVrdW11a3VcIixcIlR5cGU6IE51bGxcIixcIlNpbHZhbGx5XCIsXCJNaW5pb3JcIixcIktvbWFsYVwiLFwiVHVydG9uYXRvclwiLFwiVG9nZWRlbWFydVwiLFwiTWltaWt5dVwiLFwiQnJ1eGlzaFwiLFwiRHJhbXBhXCIsXCJEaGVsbWlzZVwiLFwiSmFuZ21vLW9cIixcIkhha2Ftby1vXCIsXCJLb21tby1vXCIsXCJUYXB1IEtva29cIixcIlRhcHUgTGVsZVwiLFwiVGFwdSBCdWx1XCIsXCJUYXB1IEZpbmlcIixcIkNvc21vZ1wiLFwiQ29zbW9lbVwiLFwiU29sZ2FsZW9cIixcIkx1bmFsYVwiLFwiTmloaWxlZ29cIixcIkJ1enp3b2xlXCIsXCJQaGVyb21vc2FcIixcIlh1cmtpdHJlZVwiLFwiQ2VsZXN0ZWVsYVwiLFwiS2FydGFuYVwiLFwiR3V6emxvcmRcIixcIk5lY3Jvem1hXCIsXCJNYWdlYXJuYVwiLFwiTWFyc2hhZG93XCIsXCJQb2lwb2xlXCIsXCJOYWdhbmFkZWxcIixcIlN0YWthdGFrYVwiLFwiQmxhY2VwaGFsb25cIixcIlplcmFvcmFcIixcIk1lbHRhblwiLFwiTWVsbWV0YWxcIixcIkdyb29rZXlcIixcIlRod2Fja2V5XCIsXCJSaWxsYWJvb21cIixcIlNjb3JidW5ueVwiLFwiUmFib290XCIsXCJDaW5kZXJhY2VcIixcIlNvYmJsZVwiLFwiRHJpenppbGVcIixcIkludGVsZW9uXCIsXCJTa3dvdmV0XCIsXCJHcmVlZGVudFwiLFwiUm9va2lkZWVcIixcIkNvcnZpc3F1aXJlXCIsXCJDb3J2aWtuaWdodFwiLFwiQmxpcGJ1Z1wiLFwiRG90dGxlclwiLFwiT3JiZWV0bGVcIixcIk5pY2tpdFwiLFwiVGhpZXZ1bFwiLFwiR29zc2lmbGV1clwiLFwiRWxkZWdvc3NcIixcIldvb2xvb1wiLFwiRHVid29vbFwiLFwiQ2hld3RsZVwiLFwiRHJlZG5hd1wiLFwiWWFtcGVyXCIsXCJCb2x0dW5kXCIsXCJSb2x5Y29seVwiLFwiQ2Fya29sXCIsXCJDb2Fsb3NzYWxcIixcIkFwcGxpblwiLFwiRmxhcHBsZVwiLFwiQXBwbGV0dW5cIixcIlNpbGljb2JyYVwiLFwiU2FuZGFjb25kYVwiLFwiQ3JhbW9yYW50XCIsXCJBcnJva3VkYVwiLFwiQmFycmFza2V3ZGFcIixcIlRveGVsXCIsXCJUb3h0cmljaXR5XCIsXCJTaXp6bGlwZWRlXCIsXCJDZW50aXNrb3JjaFwiLFwiQ2xvYmJvcHVzXCIsXCJHcmFwcGxvY3RcIixcIlNpbmlzdGVhXCIsXCJQb2x0ZWFnZWlzdFwiLFwiSGF0ZW5uYVwiLFwiSGF0dHJlbVwiLFwiSGF0dGVyZW5lXCIsXCJJbXBpZGltcFwiLFwiTW9yZ3JlbVwiLFwiR3JpbW1zbmFybFwiLFwiT2JzdGFnb29uXCIsXCJQZXJyc2Vya2VyXCIsXCJDdXJzb2xhXCIsXCJTaXJmZXRjaCdkXCIsXCJNci4gUmltZVwiLFwiUnVuZXJpZ3VzXCIsXCJNaWxjZXJ5XCIsXCJBbGNyZW1pZVwiLFwiRmFsaW5rc1wiLFwiUGluY3VyY2hpblwiLFwiU25vbVwiLFwiRnJvc21vdGhcIixcIlN0b25qb3VybmVyXCIsXCJFaXNjdWVcIixcIkluZGVlZGVlXCIsXCJNb3JwZWtvXCIsXCJDdWZhbnRcIixcIkNvcHBlcmFqYWhcIixcIkRyYWNvem9sdFwiLFwiQXJjdG96b2x0XCIsXCJEcmFjb3Zpc2hcIixcIkFyY3RvdmlzaFwiLFwiRHVyYWx1ZG9uXCIsXCJEcmVlcHlcIixcIkRyYWtsb2FrXCIsXCJEcmFnYXB1bHRcIixcIlphY2lhblwiLFwiWmFtYXplbnRhXCIsXCJFdGVybmF0dXNcIixcIkt1YmZ1XCIsXCJVcnNoaWZ1XCIsXCJaYXJ1ZGVcIixcIlJlZ2llbGVraVwiLFwiUmVnaWRyYWdvXCIsXCJHbGFzdHJpZXJcIixcIlNwZWN0cmllclwiLFwiQ2FseXJleFwiXSxcclxuXHRcdFx0XHRzcHJpdGU6IHtcclxuXHRcdFx0XHRcdG5hbWU6IFwiUGlrYWNodVwiLFxyXG5cdFx0XHRcdFx0bmljazogXCJTcGFya3lcIixcclxuXHRcdFx0XHRcdHNleDogXCJmZW1hbGVcIixcclxuXHRcdFx0XHRcdGx2bDogMjRcclxuXHRcdFx0XHR9XHJcblx0XHRcdH1cclxuXHRcdH0sXHJcblx0XHRtZXRob2RzOiB7XHJcblx0XHRcdFxyXG5cdFx0fSxcclxuXHRcdGNvbXB1dGVkOiB7XHJcblx0XHRcdHNwcml0ZWltZygpIHtcclxuXHRcdFx0XHRsZXQgbG93ZXIgPSB0aGlzLnNwdGl0ZXNBcnJbMF0udG9Mb3dlckNhc2UoKTtcclxuXHRcdFx0XHRyZXR1cm4gYGh0dHBzOi8vaW1nLnBva2Vtb25kYi5uZXQvc3ByaXRlcy9ibGFjay13aGl0ZS9hbmltL25vcm1hbC8ke2xvd2VyfS5naWZgO1xyXG5cdFx0XHR9XHJcblx0XHR9LFxyXG5cdFx0bW91bnRlZCgpIHtcclxuXHRcdH1cclxuXHR9XHJcbjwvc2NyaXB0PlxyXG5cclxuPHN0eWxlPlxyXG5cclxuPC9zdHlsZT5cclxuIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///24\n");
+eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0; //\n//\n//\n//\nvar _default =\n{\n  data: function data() {\n    return {\n      statusBarHeight: 0 };\n\n  },\n  mounted: function mounted() {\n    this.statusBarHeight = plus.navigator.getStatusbarHeight();\n  } };exports.default = _default;//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInVuaS1hcHA6Ly8vY29tcG9uZW50cy9iYXItaGVpZ2h0LnZ1ZSJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7OztBQUtBO0FBQ0EsTUFEQSxrQkFDQTtBQUNBO0FBQ0Esd0JBREE7O0FBR0EsR0FMQTtBQU1BLFNBTkEscUJBTUE7QUFDQTtBQUNBLEdBUkEsRSIsImZpbGUiOiIyOS5qcyIsInNvdXJjZXNDb250ZW50IjpbIjx0ZW1wbGF0ZT5cclxuXHQ8dmlldyA6c3R5bGU9XCInaGVpZ2h0Oicrc3RhdHVzQmFySGVpZ2h0KydweCdcIj48L3ZpZXc+XG48L3RlbXBsYXRlPlxuXG48c2NyaXB0PlxyXG5cdGV4cG9ydCBkZWZhdWx0e1xyXG5cdFx0ZGF0YSgpe1xyXG5cdFx0XHRyZXR1cm4ge1xyXG5cdFx0XHRcdHN0YXR1c0JhckhlaWdodDogMFxyXG5cdFx0XHR9XHJcblx0XHR9LFxyXG5cdFx0bW91bnRlZCgpIHtcclxuXHRcdFx0dGhpcy5zdGF0dXNCYXJIZWlnaHQgPSBwbHVzLm5hdmlnYXRvci5nZXRTdGF0dXNiYXJIZWlnaHQoKVxyXG5cdFx0fVxyXG5cdH1cbjwvc2NyaXB0PlxuXG48c3R5bGU+XG48L3N0eWxlPlxuIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///29\n");
 
 /***/ })
 /******/ ]);
